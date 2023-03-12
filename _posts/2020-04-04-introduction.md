@@ -7,7 +7,7 @@ title: I’m a researcher at the Centre for the Governance of AI (GovAI) in Oxfo
 # About
 I’m a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://governance.ai/), a Research Affiliate at the [Legal Priorities Project](https://www.legalpriorities.org/), and a PhD candidate in law at Goethe University Frankfurt.
 
-### Work experience
+## Work experience
 **Centre for the Governance of AI**, Oxford, UK <br>
 Research Fellow <br>
 2022–present
@@ -29,7 +29,7 @@ Consultant <br>
 2018–2020
 
 
-### Education
+## Education
 **Goethe University Frankfurt** <br>
 PhD, Law <br>
 2018–present
@@ -46,18 +46,18 @@ Economics <br>
 
 # Research
 
-### My research interests (“why”)
+## My research interests (“why”)
 - Reducing risks from advanced AI
 - Improving the corporate governance of AGI labs
 
-### My approach to research (“how”)
+## My approach to research (“how”)
 - Focus on impact (“keep your eyes on the price”)
 - Make concrete recommendations
 - Apply best practices from other industries to AI
 - Be epistemically honest
 - Be collaborative
 
-### My Ongoing research projects (“what”):
+## My Ongoing research projects (“what”):
 - Responsible AGI labs
 - AGI labs need an internal audit function
 - Risk assessment at AGI labs (w/ Leonie Koessler)
