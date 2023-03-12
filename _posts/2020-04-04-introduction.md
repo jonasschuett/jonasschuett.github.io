@@ -10,9 +10,8 @@ I’m a researcher at the Centre for the Governance of AI in Oxford. I try to re
 I’m a Research Fellow at the Centre for the Governance of AI (GovAI), a Research Affiliate at the Legal Priorities Project, and a PhD candidate in law at Goethe University Frankfurt.
 
 ### Work experience
-**Centre for the Governance of AI**
+- **Centre for the Governance of AI**, Oxford, UK
 Research Fellow
-Oxford, UK
 2022–present
 
 **Cabinet Office**
@@ -109,7 +108,7 @@ IEEE Transactions on Technology and Society
 https://doi.org/10.1109/TTS.2021.3077595 [arXiv]
 
 
-# Contac
+# Contact
 Find my research:
 - [ORCID](https://orcid.org/0000-0001-7154-5049)
 - [Google Scholar](https://scholar.google.com/citations?user=iZXltDgAAAAJ&hl=en&oi=ao)
