@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I’m a researcher at the Centre for the Governance of AI (GovAI) in Oxford. I try to reduce risks from advanced AI by helping AGI labs to improve their corporate governance.
+title: ## I’m a researcher at the Centre for the Governance of AI (GovAI) in Oxford. I try to reduce risks from advanced AI by helping AGI labs to improve their corporate governance.
 ---
 
 
