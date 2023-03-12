@@ -3,7 +3,7 @@ layout: page
 title: Hi, I'm Jonas!
 ---
 
-I’m a researcher at the Centre for the Governance of AI in Oxford. (<br>)
+I’m a researcher at the Centre for the Governance of AI in Oxford. <br>
 I try to reduce risks from advanced AI by helping AGI labs to improve their corporate governance.
 
 ---
