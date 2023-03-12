@@ -46,23 +46,27 @@ Economics <br>
 
 # Research
 
-### My research interests (“why”)
+### Research interests
 - Reducing risks from advanced AI
 - Improving the corporate governance of AGI labs
 
-### My approach to research (“how”)
+### My approach to research
 - Focus on impact (“keep your eyes on the price”)
 - Make concrete recommendations
 - Apply best practices from other industries to AI
 - Be epistemically honest
 - Be collaborative
 
-### My Ongoing research projects (“what”):
-- Responsible AGI labs
-- AGI labs need an internal audit function
-- Risk assessment at AGI labs (w/ Leonie Koessler)
-- AI ethics boards (w/ Anka Reuel, Alexis Carlier)
-- Board governance at AGI labs (w/ Nikhil Mulani, John Bridge)
+### Ongoing research projects
+- **Responsible AGI labs** (w/ dozens of co-authors): I'm currently working on a big report on responsible AGI labs. We review current practices ("where we are"), sketch an ideal governance regime ("where we need to be"), and recommend concrete steps labs could take today ("how we get from here to there"). This is my main priority at the moment.
+
+- **AGI labs need an internal audit function**: I argue that AGI labs should seriously consider setting up an internal audit function. I also defend this claim against plausible objections.
+
+- **Risk assessment at AGI labs** (w/ Leonie Koessler): We review risk assessment techniques from [IEC 31010:2019](https://www.iso.org/standard/72140.html) and other industries (especially aviation, nuclear, and finance) and discuss how AGI labs could use them.
+
+- **AI ethics boards** (w/ Anka Reuel, Alexis Carlier): We identify key choices when designing an AI ethics board and discuss how they affect the board’s ability to reduce risks from AI.
+
+- **Board governance at AGI labs** (w/ Nikhil Mulani, John Bridge): We give an overview of the board’s responsibility for risk oversight under Delaware law. We then discuss how AGI labs could set up a more safety-conscious board of directors and suggest actions that individual board members can take.
 
 ---
 
