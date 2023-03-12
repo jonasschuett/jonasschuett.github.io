@@ -6,7 +6,7 @@ title: I’m a researcher at the Centre for the Governance of AI in Oxford. I tr
 # About
 I’m a Research Fellow at the Centre for the Governance of AI (GovAI), a Research Affiliate at the Legal Priorities Project, and a PhD candidate in law at Goethe University Frankfurt.
 
-## Work experience
+### Work experience
 - **Centre for the Governance of AI**
 Research Fellow
 Oxford, UK
@@ -27,7 +27,7 @@ Research Fellow
 Cambridge, MA, USA
 2020–2022
 
-– **KPMG Law**
+- **KPMG Law**
 Consultant
 Frankfurt am Main, Germany
 2018–2020
@@ -45,29 +45,27 @@ MJur / First State Exam, Law
 Economics
 2011–2012
 
----
 
 # Research
 
-## My research interests (“why”)
+### My research interests (“why”)
 - Reducing risks from advanced AI
 - Improving the corporate governance of AGI labs
 
-## My approach to research (“how”)
+### My approach to research (“how”)
 - Focus on impact (“keep your eyes on the price”)
 - Make concrete recommendations
 - Apply best practices from other industries to AI
 - Be epistemically honest
 - Be collaborative
 
-## My Ongoing research projects (“what”):
+### My Ongoing research projects (“what”):
 - Responsible AGI labs
 - AGI labs need an internal audit function
 - Risk assessment at AGI labs (w/ Leonie Koessler)
 - AI ethics boards (w/ Anka Reuel, Alexis Carlier)
 - Board governance at AGI labs (w/ Nikhil Mulani, John Bridge)
 
----
 
 # Publications
 - Auditing large language models: A three-layered approach
@@ -106,9 +104,8 @@ Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum
 IEEE Transactions on Technology and Society
 https://doi.org/10.1109/TTS.2021.3077595 [arXiv]
 
----
 
-## Contac
+# Contac
 Find my research:
 - [ORCID](https://orcid.org/0000-0001-7154-5049)
 - [Google Scholar](https://scholar.google.com/citations?user=iZXltDgAAAAJ&hl=en&oi=ao)
