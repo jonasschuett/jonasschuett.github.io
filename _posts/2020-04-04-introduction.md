@@ -1,6 +1,5 @@
 ---
 layout: page
-date:
 title: Hi, I'm Jonas!
 ---
 
