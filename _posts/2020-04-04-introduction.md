@@ -116,6 +116,6 @@ Find my research:
 - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3705327)
 
 Contact:
-- https://twitter.com/jonasschuett
-- https://www.linkedin.com/in/jonasschuett
-- jonas.schuett@governance.ai
+- [https://twitter.com/jonasschuett](https://twitter.com/jonasschuett)
+- [https://www.linkedin.com/in/jonasschuett](https://www.linkedin.com/in/jonasschuett)
+- [jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai)
