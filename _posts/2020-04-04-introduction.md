@@ -1,8 +1,9 @@
 ---
 layout: page
-title: ## I’m a researcher at the Centre for the Governance of AI (GovAI) in Oxford. I try to reduce risks from advanced AI by helping AGI labs to improve their corporate governance.
+title: {}
 ---
 
+## I’m a researcher at the Centre for the Governance of AI (GovAI) in Oxford. I try to reduce risks from advanced AI by helping AGI labs to improve their corporate governance.
 
 # About
 I’m a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://governance.ai/), a Research Affiliate at the [Legal Priorities Project](https://www.legalpriorities.org/), and a PhD candidate in law at Goethe University Frankfurt.
