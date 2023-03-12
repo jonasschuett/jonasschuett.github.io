@@ -3,13 +3,13 @@ layout: page
 title: Hi, I'm Jonas!
 ---
 
-I’m a researcher at the Centre for the Governance of AI in Oxford. <br>
+I’m a researcher at the [Centre for the Governance of AI (GovAI)](https://governance.ai/) in Oxford. <br>
 I try to reduce risks from advanced AI by helping AGI labs to improve their corporate governance.
 
 ---
 
 # About
-I’m a Research Fellow at the Centre for the Governance of AI (GovAI), a Research Affiliate at the Legal Priorities Project, and a PhD candidate in law at Goethe University Frankfurt.
+I’m a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://governance.ai/), a Research Affiliate at the [Legal Priorities Project](https://www.legalpriorities.org/), and a PhD candidate in law at Goethe University Frankfurt.
 
 ### Work experience
 - **Centre for the Governance of AI**, Oxford, UK <br>
