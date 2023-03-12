@@ -48,6 +48,7 @@ MJur / First State Exam, Law
 Economics
 2011–2012
 
+---
 
 # Research
 
@@ -69,6 +70,7 @@ Economics
 - AI ethics boards (w/ Anka Reuel, Alexis Carlier)
 - Board governance at AGI labs (w/ Nikhil Mulani, John Bridge)
 
+---
 
 # Publications
 **Auditing large language models: A three-layered approach**
@@ -107,6 +109,7 @@ Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum
 IEEE Transactions on Technology and Society
 https://doi.org/10.1109/TTS.2021.3077595 [arXiv]
 
+---
 
 # Contact
 Find my research:
