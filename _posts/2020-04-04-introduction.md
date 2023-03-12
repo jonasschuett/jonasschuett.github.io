@@ -8,34 +8,27 @@ title: I’m a researcher at the Centre for the Governance of AI in Oxford. I tr
 I’m a Research Fellow at the [Centre for the Governance of AI](https://governance.ai/), a Research Affiliate at the [Legal Priorities Project](https://www.legalpriorities.org/), and a PhD candidate in law at Goethe University Frankfurt.
 
 ### Work experience
-- **Centre for the Governance of AI** <br>
-Research Fellow <br>
+- **Centre for the Governance of AI** • Research Fellow <br>
 2022–present
 
-- **UK Cabinet Office** <br>
-Expert Advisor (Artificial Intelligence) <br>
+- **UK Cabinet Office** • Expert Advisor (Artificial Intelligence) <br>
 2022
 
-- **DeepMind** <br>
-Policy Research and Intelligence Intern <br>
+- **DeepMind** • Policy Research and Intelligence Intern <br>
 2021
 
-- **Legal Priorities Project** <br>
-Research Fellow <br>
+- **Legal Priorities Project** • Research Fellow <br>
 2020–2022
 
-- **KPMG Law** <br>
-Consultant <br>
+- **KPMG Law** • Consultant <br>
 2018–2020
 
 
 ### Education
-- **Goethe University Frankfurt** <br>
-PhD, Law <br>
+- **Goethe University Frankfurt** • PhD, Law <br>
 2018–present
 
-- **Heidelberg University** <br>
-MJur / First State Exam, Law <br>
+- **Heidelberg University** • MJur / First State Exam, Law <br>
 2012–2018
 
 - **University of Zurich** • Economics <br>
