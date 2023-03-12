@@ -16,7 +16,7 @@ I’m a Research Fellow at the [Centre for the Governance of AI (GovAI)](https:/
 Research Fellow <br>
 2022–present
 
-- **Cabinet Office**, London, UK <br>
+- **UK Cabinet Office**, London, UK <br>
 Expert Advisor (Artificial Intelligence) <br>
 2022
 
@@ -33,7 +33,7 @@ Consultant <br>
 2018–2020
 
 
-## Education
+### Education
 - **Goethe University Frankfurt** <br>
 PhD, Law <br>
 2018–present
