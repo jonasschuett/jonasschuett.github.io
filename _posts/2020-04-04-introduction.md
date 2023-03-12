@@ -12,38 +12,38 @@ I try to reduce risks from advanced AI by helping AGI labs to improve their corp
 I’m a Research Fellow at the Centre for the Governance of AI (GovAI), a Research Affiliate at the Legal Priorities Project, and a PhD candidate in law at Goethe University Frankfurt.
 
 ### Work experience
-- **Centre for the Governance of AI**, Oxford, UK (<br>)
-Research Fellow (<br>)
+- **Centre for the Governance of AI**, Oxford, UK <br>
+Research Fellow <br>
 2022–present
 
-- **Cabinet Office**, London, UK (<br>)
-Expert Advisor (Artificial Intelligence) (<br>)
+- **Cabinet Office**, London, UK <br>
+Expert Advisor (Artificial Intelligence) <br>
 2022
 
-- **DeepMind**, London, UK (<br>)
-Policy Research and Intelligence Intern (<br>)
+- **DeepMind**, London, UK <br>
+Policy Research and Intelligence Intern <br>
 2021
 
-- **Legal Priorities Project**, Cambridge, MA, USA (<br>)
-Research Fellow (<br>)
+- **Legal Priorities Project**, Cambridge, MA, USA <br>
+Research Fellow <br>
 2020–2022
 
-- **KPMG Law**, Frankfurt am Main, Germany (<br>)
-Consultant (<br>)
+- **KPMG Law**, Frankfurt am Main, Germany <br>
+Consultant <br>
 2018–2020
 
 
 ## Education
-**Goethe University Frankfurt**
-PhD, Law
+- **Goethe University Frankfurt** <br>
+PhD, Law <br>
 2018–present
 
-**Heidelberg University**
-MJur / First State Exam, Law
+- **Heidelberg University** <br>
+MJur / First State Exam, Law <br>
 2012–2018
 
-**University of Zurich**
-Economics
+- **University of Zurich** <br>
+Economics <br>
 2011–2012
 
 ---
