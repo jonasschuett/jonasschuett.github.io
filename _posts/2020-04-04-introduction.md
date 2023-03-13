@@ -8,6 +8,8 @@ I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://w
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
+---
+
 ### Work experience
 - **Centre for the Governance of AI** • Research Fellow <br>
 2022–present
