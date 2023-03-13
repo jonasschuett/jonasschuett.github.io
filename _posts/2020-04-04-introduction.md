@@ -37,13 +37,13 @@ I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://w
 ---
 
 ### Ongoing research projects
-- **Responsible AGI labs** (w/ dozens of co-authors): I'm currently working on a big report on responsible AGI labs. We review current practices ("where we are"), sketch an ideal governance regime ("where we need to be"), and recommend concrete steps labs could take today ("how we get from here to there"). This is my main priority at the moment.
+- **Responsible AGI labs** (w/ dozens of co-authors): I'm currently working on a big report on responsible AGI labs. We review current practices ("where we are"), sketch an ideal governance regime ("where we need to be"), and recommend concrete steps labs could take today ("how we get from here to there"). This project is my main priority at the moment.
 
-- **AGI labs need an internal audit function**: I argue that AGI labs should seriously consider setting up an internal audit function. I also defend this claim against plausible objections.
+- **AGI labs need an internal audit function**: I argue that AGI labs should seriously consider setting up an internal audit team. This team would assess the effectiveness of the lab's risk management practices. It would be independent from senior management and report directly to the board of directors.
 
 - **Risk assessment at AGI labs** (w/ Leonie Koessler): We review risk assessment techniques from [IEC 31010:2019](https://www.iso.org/standard/72140.html) and other industries (especially aviation, nuclear, and finance) and discuss how AGI labs could use them.
 
-- **AI ethics boards** (w/ Anka Reuel, Alexis Carlier): We identify key choices when designing an AI ethics board and discuss how they affect the board’s ability to reduce risks from AI.
+- **AI ethics boards** (w/ Anka Reuel, Alexis Carlier): We identify key design choices when setting up an ethics board and discuss how they affect the board’s ability to reduce risks from AI.
 
 - **Board governance at AGI labs** (w/ Nikhil Mulani, John Bridge): We give an overview of the board’s responsibility for risk oversight under Delaware law. We then discuss how AGI labs could set up a more safety-conscious board of directors and suggest actions that individual board members can take.
 
