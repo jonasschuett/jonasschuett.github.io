@@ -8,7 +8,7 @@ I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://w
 
 Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the Legal Priorities Project, where I'm still a board member, and worked as a Consultant at KPMG Law. <br>
 
-I'm a PhD candidate in law at Goethe University Frankfurt, supervised by Professor Tobias Troeger. I hold a law degree from Heidelberg University and studied economics at the University of Zurich.
+I'm also doing a PhD in law at Goethe University Frankfurt, supervised by Professor Tobias Troeger. I hold a law degree from Heidelberg University and studied economics at the University of Zurich.
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
