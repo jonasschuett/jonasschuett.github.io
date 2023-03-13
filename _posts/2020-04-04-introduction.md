@@ -75,7 +75,6 @@ Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
 
 - **Risk management in the Artificial Intelligence Act** (2023) <br>
 Jonas Schuett <br>
-2023, February 8 <br>
 European Journal of Risk Regulation <br>
 [DOI](https://doi.org/10.1017/err.2023.1) • [arXiv](https://arxiv.org/abs/2212.03109)
 
