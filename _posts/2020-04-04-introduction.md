@@ -1,13 +1,14 @@
 ---
 layout: page
-title: I’m a researcher at the Centre for the Governance of AI in Oxford. I try to reduce existential risks from AI by improving the corporate governance of AGI labs.
+title: I’m a researcher at the Centre for the Governance of AI in Oxford. I try to reduce risks from AI by improving the corporate governance of leading AI companies.
 ---
+
+<br> I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the [Legal Priorities Project](https://www.legalpriorities.org/), where I'm still a Research Affiliate and board member, and worked as a Consultant at KPMG Law. I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and studied economics at the University of Zurich.
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
 
 ### Work experience
-I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the [Legal Priorities Project](https://www.legalpriorities.org/), where I'm still a Research Affiliate and board member, and worked as a Consultant at KPMG Law.
 
 - **Centre for the Governance of AI** • Research Fellow <br>
 2022–present
@@ -30,7 +31,6 @@ I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://w
 ---
 
 ### Education
-I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and studied economics at the University of Zurich.
 
 - **Goethe University Frankfurt** • PhD, Law <br>
 2018–present
@@ -44,8 +44,6 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a
 ---
 
 ### Ongoing research projects
-Although I'm currently working on several research projects in parallel, the first project is by far my main priority.
-
 - **Responsible AGI labs** (w/ dozens of co-authors): I'm currently working on a big report on responsible AGI labs. We review current practices ("where we are"), sketch an ideal governance regime ("where we need to be"), and recommend concrete steps labs could take today ("how we get from here to there").
 
 - **AGI labs need an internal audit function**: I argue that AGI labs should seriously consider setting up an internal audit team. This team would assess the effectiveness of the lab's risk management practices. It would be independent from senior management and report directly to the board of directors.
