@@ -4,7 +4,11 @@ title: I’m a researcher at the Centre for the Governance of AI in Oxford. I tr
 ---
 
  <br>
-I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/), a Research Affiliate at the [Legal Priorities Project](https://www.legalpriorities.org/), and a PhD candidate in law at Goethe University Frankfurt. Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the Legal Priorities Project, where I'm still a board member, and worked as a Consultant at KPMG Law. I hold a law degree from Heidelberg University and studied economics at the University of Zurich.
+I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) and a Research Affiliate at the [Legal Priorities Project](https://www.legalpriorities.org/). <br>
+
+Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the Legal Priorities Project, where I'm still a board member, and worked as a Consultant at KPMG Law. <br>
+
+I'm a PhD candidate in law at Goethe University Frankfurt, supervised by Professor Tobias Troeger. I hold a law degree from Heidelberg University and studied economics at the University of Zurich.
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
@@ -24,6 +28,9 @@ I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://w
 
 - **KPMG Law** • Consultant <br>
 2018–2020
+
+- **White & Case** • Research Assistant <br>
+2014-2015, 2018
 
 ---
 
