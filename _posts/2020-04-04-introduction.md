@@ -64,41 +64,36 @@ I’m a Research Fellow at the [Centre for the Governance of AI](https://governa
 
 # Publications
 
-- **Defining the scope of AI regulations** <br>
+- **Defining the scope of AI regulations** (2023) <br>
 Jonas Schuett <br>
-2023, March 3 <br>
 Law, Innovation and Technology <br>
 [https://doi.org/10.1080/17579961.2023.2184135](https://doi.org/10.1080/17579961.2023.2184135) [[arXiv](https://arxiv.org/abs/1909.01095)]
 
-- **Auditing large language models: A three-layered approach** <br>
+- **Auditing large language models: A three-layered approach** (2023) <br>
 Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
-2023, February 16 <br>
 arXiv:2302.08500 <br>
 [https://arxiv.org/abs/2302.08500](https://arxiv.org/abs/2302.08500)
 
-- **Risk management in the Artificial Intelligence Act** <br>
+- **Risk management in the Artificial Intelligence Act** (2023) <br>
 Jonas Schuett <br>
 2023, February 8 <br>
 European Journal of Risk Regulation <br>
 [https://doi.org/10.1017/err.2023.1](https://doi.org/10.1017/err.2023.1) [[arXiv](https://arxiv.org/abs/2212.03109)]
 
-- **Three lines of defense against risks from AI** <br>
+- **Three lines of defense against risks from AI** (2022) <br>
 Jonas Schuett <br>
-2022, December 16 <br>
 arXiv:2212.08364 <br>
 [https://arxiv.org/abs/2212.08364](https://arxiv.org/abs/2212.08364)
 
-- **Corporate governance of artificial intelligence in the public interest** <br>
+- **Corporate governance of artificial intelligence in the public interest** (2021) <br>
 Peter Cihon, Jonas Schuett, Seth D. Baum <br>
-2021, July 5 <br>
 Information <br>
 [https://doi.org/10.3390/info12070275](https://doi.org/10.3390/info12070275)
 
-- **AI certification: Advancing ethical practice by reducing information asymmetries** <br>
+- **AI certification: Advancing ethical practice by reducing information asymmetries** (2021) <br>
 Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum <br>
-2021, May 10 <br>
 IEEE Transactions on Technology and Society <br>
-[https://doi.org/10.1109/TTS.2021.3077595](https://doi.org/10.1109/TTS.2021.3077595) [[arXiv](https://arxiv.org/abs/2105.10356)]
+[DOI](https://doi.org/10.1109/TTS.2021.3077595) • [arXiv](https://arxiv.org/abs/2105.10356)
 
 ---
 
