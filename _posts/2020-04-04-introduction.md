@@ -3,8 +3,9 @@ layout: page
 title: I’m a researcher at the Centre for the Governance of AI in Oxford. I try to reduce risks from AI by improving the corporate governance of leading AI companies.
 ---
 
+I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/), a Research Affiliate at the [Legal Priorities Project](https://www.legalpriorities.org/), and a PhD candidate in law at Goethe University Frankfurt. Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the Legal Priorities Project, where I'm still a board member, and worked as a Consultant at KPMG Law. I hold a law degree from Heidelberg University and studied economics at the University of Zurich.
 
-## Work experience
+### Work experience
 - **Centre for the Governance of AI** • Research Fellow <br>
 2022–present
 
@@ -21,7 +22,7 @@ title: I’m a researcher at the Centre for the Governance of AI in Oxford. I tr
 2018–2020
 
 
-## Education
+### Education
 - **Goethe University Frankfurt** • PhD, Law <br>
 2018–present
 
@@ -46,7 +47,7 @@ title: I’m a researcher at the Centre for the Governance of AI in Oxford. I tr
 
 ---
 
-## Publications
+### Publications
 
 - **Defining the scope of AI regulations** (2023) <br>
 Jonas Schuett <br>
@@ -80,7 +81,7 @@ IEEE Transactions on Technology and Society <br>
 
 ---
 
-## Contact
+### Contact
 Find me on [Twitter](https://twitter.com/jonasschuett) and [LinkedIn](https://www.linkedin.com/in/jonasschuett). Contact me at [jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai).
 
 Find my research on [ORCID](https://orcid.org/0000-0001-7154-5049), [Google Scholar](https://scholar.google.com/citations?user=iZXltDgAAAAJ&hl=en&oi=ao), and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3705327).
