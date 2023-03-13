@@ -54,7 +54,9 @@ I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://w
 
 ### Publications
 
-- **Defining the scope of AI regulations** (2023) <br>
+![Defining the scope of AI regulations](/defining_the_scope_of_ai_regulations.jpg "Defining the scope of AI regulations")
+
+**Defining the scope of AI regulations** (2023) <br>
 Jonas Schuett <br>
 Law, Innovation and Technology <br>
 [DOI](https://doi.org/10.1080/17579961.2023.2184135) • [arXiv](https://arxiv.org/abs/1909.01095)
