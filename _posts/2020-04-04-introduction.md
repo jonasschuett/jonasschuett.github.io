@@ -44,7 +44,7 @@ I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://w
 
 - **AGI labs need an internal audit function**: I argue that AGI labs should seriously consider setting up an internal audit team. This team would assess the effectiveness of the lab's risk management practices. It would be independent from senior management and report directly to the board of directors.
 
-- **Risk assessment at AGI labs** (w/ [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)): We review risk assessment techniques from [IEC 31010:2019](https://www.iso.org/standard/72140.html) and other industries (especially aviation, nuclear, and finance) and discuss how AGI labs could use them.
+- **Risk assessment at AGI labs** (w/ [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)): We review risk assessment techniques from IEC 31010:2019 and other industries (especially aviation, nuclear, and finance) and discuss how AGI labs could use them.
 
 - **AI ethics boards** (w/ [Anka Reuel](https://www.linkedin.com/in/ankareuel/), [Alexis Carlier](https://www.linkedin.com/in/alexis-carlier-995367170/)): We identify key design choices when setting up an ethics board and discuss how they affect the board’s ability to reduce risks from AI.
 
