@@ -55,7 +55,7 @@ I'm a Research Fellow at the [Centre for the Governance of AI](https://www.gover
 
 ---
 
-### Publications
+### Selected publications
 
 - **Defining the scope of AI regulations** (2023) <br>
 Jonas Schuett <br>
