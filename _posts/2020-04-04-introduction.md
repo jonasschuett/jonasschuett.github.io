@@ -30,7 +30,7 @@ I'm also doing a PhD in law at Goethe University Frankfurt, supervised by Profes
 2018–2020
 
 - **White & Case** • Research Assistant <br>
-2014-2015, 2018
+2014–2015, 2018
 
 ---
 
