@@ -62,7 +62,6 @@ Law, Innovation and Technology <br>
 
 - **Auditing large language models: A three-layered approach** (2023) <br>
 Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
-Preprint <br>
 [arXiv](https://arxiv.org/abs/2302.08500)
 
 - **Risk management in the Artificial Intelligence Act** (2023) <br>
@@ -72,7 +71,6 @@ European Journal of Risk Regulation <br>
 
 - **Three lines of defense against risks from AI** (2022) <br>
 Jonas Schuett <br>
-Preprint <br>
 [arXiv](https://arxiv.org/abs/2212.08364)
 
 - **Corporate governance of artificial intelligence in the public interest** (2021) <br>
