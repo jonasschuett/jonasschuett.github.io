@@ -22,6 +22,7 @@ I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://w
 - **KPMG Law** • Consultant <br>
 2018–2020
 
+---
 
 ### Education
 - **Goethe University Frankfurt** • PhD, Law <br>
