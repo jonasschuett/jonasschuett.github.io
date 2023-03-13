@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I’m a researcher at the Centre for the Governance of AI in Oxford. I try to reduce risks from AI by improving the corporate governance of leading AI companies.
+title: I’m a researcher at the Centre for the Governance of AI in Oxford. I try to reduce existential risks from AI by improving the corporate governance of AGI labs.
 ---
 
  <br>
