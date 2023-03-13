@@ -4,10 +4,7 @@ title: I’m a researcher at the Centre for the Governance of AI in Oxford. I tr
 ---
 
 
-# About
-I’m a Research Fellow at the [Centre for the Governance of AI](https://governance.ai/), a Research Affiliate at the [Legal Priorities Project](https://www.legalpriorities.org/), and a PhD candidate in law at Goethe University Frankfurt.
-
-### Work experience
+## Work experience
 - **Centre for the Governance of AI** • Research Fellow <br>
 2022–present
 
@@ -24,7 +21,7 @@ I’m a Research Fellow at the [Centre for the Governance of AI](https://governa
 2018–2020
 
 
-### Education
+## Education
 - **Goethe University Frankfurt** • PhD, Law <br>
 2018–present
 
@@ -36,20 +33,7 @@ I’m a Research Fellow at the [Centre for the Governance of AI](https://governa
 
 ---
 
-# Research
-
-### Research interests
-- Reducing risks from advanced AI
-- Improving the corporate governance of AGI labs
-
-### My approach to research
-- Focus on impact (“keep your eyes on the price”)
-- Make concrete recommendations
-- Apply best practices from other industries to AI
-- Be epistemically honest
-- Be collaborative
-
-### Ongoing research projects
+## Ongoing research projects
 - **Responsible AGI labs** (w/ dozens of co-authors): I'm currently working on a big report on responsible AGI labs. We review current practices ("where we are"), sketch an ideal governance regime ("where we need to be"), and recommend concrete steps labs could take today ("how we get from here to there"). This is my main priority at the moment.
 
 - **AGI labs need an internal audit function**: I argue that AGI labs should seriously consider setting up an internal audit function. I also defend this claim against plausible objections.
@@ -62,7 +46,7 @@ I’m a Research Fellow at the [Centre for the Governance of AI](https://governa
 
 ---
 
-# Publications
+## Publications
 
 - **Defining the scope of AI regulations** (2023) <br>
 Jonas Schuett <br>
@@ -96,13 +80,7 @@ IEEE Transactions on Technology and Society <br>
 
 ---
 
-# Contact
-Find my research:
-- [ORCID](https://orcid.org/0000-0001-7154-5049)
-- [Google Scholar](https://scholar.google.com/citations?user=iZXltDgAAAAJ&hl=en&oi=ao)
-- [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3705327)
+## Contact
+Find me on [Twitter](https://twitter.com/jonasschuett) and [LinkedIn](https://www.linkedin.com/in/jonasschuett). Contact me at [jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai).
 
-Contact:
-- [https://twitter.com/jonasschuett](https://twitter.com/jonasschuett)
-- [https://www.linkedin.com/in/jonasschuett](https://www.linkedin.com/in/jonasschuett)
-- [jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai)
+Find my research on [ORCID](https://orcid.org/0000-0001-7154-5049), [Google Scholar](https://scholar.google.com/citations?user=iZXltDgAAAAJ&hl=en&oi=ao), and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3705327).
