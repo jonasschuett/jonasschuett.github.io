@@ -42,7 +42,7 @@ title: I'm a researcher at the Centre for the Governance of AI in Oxford. I try 
 
 ---
 
-### Projects
+### Current projects
 - **Responsible AGI labs**: I've recently started a new research project on responsible AGI labs. This project will likely turn into an "intellectual megaproject" with dozens of co-authors. We plan to sketch an ideal governance regime for AGI labs ("where we need to be"), review current practices ("where we are"), and recommend concrete steps labs could take today ("how we get from here to there"). This is my main priority at the moment.
 
 - **AGI labs need an internal audit function**: I argue that AGI labs should seriously consider setting up an internal audit team. This team would assess the effectiveness of the lab's risk management practices. It would be independent from senior management and report directly to the board of directors.
