@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Hi, I'm Jonas!
+title: I’m a researcher at the Centre for the Governance of AI in Oxford. I try to reduce risks from AI by improving the corporate governance of leading AI companies.
 ---
 
-## I’m a researcher at the Centre for the Governance of AI in Oxford. I try to reduce risks from AI by improving the corporate governance of leading AI companies.
-
-I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/). I'm part of the Policy team, where I lead the workstream on corporate governance. Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the [Legal Priorities Project](https://www.legalpriorities.org/), where I'm still a Research Affiliate and board member, and worked as a Consultant at KPMG Law. I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and studied economics at the University of Zurich.
+<br> I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/). I'm part of the Policy team, where I lead the workstream on corporate governance. Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the [Legal Priorities Project](https://www.legalpriorities.org/), where I'm still a Research Affiliate and board member, and worked as a Consultant at KPMG Law. I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and studied economics at the University of Zurich.
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
@@ -91,3 +89,5 @@ IEEE Transactions on Technology and Society <br>
 Find me on [Twitter](https://twitter.com/jonasschuett) and [LinkedIn](https://www.linkedin.com/in/jonasschuett). Contact me at [jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai).
 
 Find my research on [ORCID](https://orcid.org/0000-0001-7154-5049), [Google Scholar](https://scholar.google.com/citations?user=iZXltDgAAAAJ&hl=en&oi=ao), and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3705327).
+
+---
