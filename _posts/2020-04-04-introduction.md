@@ -3,11 +3,9 @@ layout: page
 title: Hi, I'm Jonas! I'm a researcher at the Centre for the Governance of AI in Oxford.
 ---
 
-<br>![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
+<br>![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")<br>
 
 I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/). I'm part of the Policy team, where I lead the workstream on corporate governance. Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the [Legal Priorities Project](https://www.legalpriorities.org/), where I'm still a Research Affiliate and board member, and worked as a Consultant at KPMG Law. I'm currently wrapping up my PhD in law at Goethe University Frankfurt, supervised by Tobias Troeger. I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
-
-[Work experience](#work-experience) • [Education](#education) • [Current projects](#current-projects) • [Publications](#publications) • [Contact](#contact)
 
 
 ### Work experience
