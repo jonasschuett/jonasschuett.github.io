@@ -9,7 +9,9 @@ I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://w
 
 I'm currently wrapping up my PhD in law at Goethe University Frankfurt, supervised by Tobias Troeger. I hold a law degree from Heidelberg University and studied economics at the University of Zurich. [[Learn more](#education)]
 
-I'm currently focusing on a new research project on responsible AGI labs. I'm also wrapping up several other projects on risk management, board governance, and ethics boards. [[Learn more](#projects)]
+My main priority at the moment is a report on responsible AGI labs. I'm also wrapping up a few papers on risk management, board governance, and ethics boards. [[Learn more](#projects)]
+
+I usually publish in peer-reviewed journals. But occasionally, I just upload a preprint to arXiv. [[Learn more](#publications)]
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
