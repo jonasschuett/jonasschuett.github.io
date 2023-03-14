@@ -3,7 +3,7 @@ layout: page
 title: I'm a researcher at the Centre for the Governance of AI in Oxford. I try to reduce existential risks from AI by improving the corporate governance of AGI labs.
 ---
 
-[Work experience](#work-experience) • [Education](#education) • [Ongoing research projects](#ongoing-research-projects) • [Publications](#rublications) • [Contact](#contact)
+[Work experience](#work-experience) • [Education](#education) • [Projects](#projects) • [Publications](#publications) • [Contact](#contact)
 
 <br> I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/). I'm part of the Policy team, where I lead the workstream on corporate governance. Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the [Legal Priorities Project](https://www.legalpriorities.org/), where I'm still a Research Affiliate and board member, and worked as a Consultant at KPMG Law. I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and studied economics at the University of Zurich.
 
@@ -42,7 +42,7 @@ title: I'm a researcher at the Centre for the Governance of AI in Oxford. I try 
 
 ---
 
-### Ongoing research projects
+### Projects
 - **Responsible AGI labs**: I've recently started a new research project on responsible AGI labs. This project will likely turn into an "intellectual megaproject" with dozens of co-authors. We plan to sketch an ideal governance regime for AGI labs ("where we need to be"), review current practices ("where we are"), and recommend concrete steps labs could take today ("how we get from here to there"). This is my main priority at the moment.
 
 - **AGI labs need an internal audit function**: I argue that AGI labs should seriously consider setting up an internal audit team. This team would assess the effectiveness of the lab's risk management practices. It would be independent from senior management and report directly to the board of directors.
