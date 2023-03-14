@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I'm a researcher at the Centre for the Governance of AI in Oxford. I try to reduce existential risks from AI by improving the corporate governance of AGI labs.
+title: Hi, I'm Jonas! I'm a researcher at the Centre for the Governance of AI in Oxford.
 ---
 
 <br>![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
