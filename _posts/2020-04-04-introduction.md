@@ -87,8 +87,6 @@ IEEE Transactions on Technology and Society <br>
 
 ### Contact
 
-<img align="center" width="20" height="20" src="[https://user-images.githubusercontent.com/84743905/174507937-c8637dd7-5a10-4c12-bf23-945c7872ace2.png](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg)"> https://twitter.com/jonasschuett
-
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="20" height="20"><https://twitter.com/jonasschuett>
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20"><https://www.linkedin.com/in/jonasschuett>
