@@ -90,8 +90,8 @@ IEEE Transactions on Technology and Society <br>
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/twitter.svg" width="20" height="20>
-  <https://twitter.com/jonasschuett>
 </p>
+https://twitter.com/jonasschuett
 
 
 Find me on [Twitter](https://twitter.com/jonasschuett) and [LinkedIn](https://www.linkedin.com/in/jonasschuett) or reach out to me at [jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai).
