@@ -88,11 +88,6 @@ IEEE Transactions on Technology and Society <br>
 
 ### Contact
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/twitter.svg" width="20" height="20">
-</p>
-<https://twitter.com/jonasschuett>
-
 Find me on [Twitter](https://twitter.com/jonasschuett) and [LinkedIn](https://www.linkedin.com/in/jonasschuett) or reach out to me at [jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai).
 
 Find my research on [ORCID](https://orcid.org/0000-0001-7154-5049), [Google Scholar](https://scholar.google.com/citations?user=iZXltDgAAAAJ&hl=en&oi=ao), and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3705327).
