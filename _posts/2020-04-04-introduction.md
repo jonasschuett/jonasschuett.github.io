@@ -88,10 +88,11 @@ IEEE Transactions on Technology and Society <br>
 
 ### Contact
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">
-<https://twitter.com/jonasschuett>
+@ icon-twitter <https://twitter.com/jonasschuett>
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg">
+Click on the @icn-camera icon to take a screen shot.
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="20" height="20>
 <https://twitter.com/jonasschuett>
 
 Find me on [Twitter](https://twitter.com/jonasschuett) and [LinkedIn](https://www.linkedin.com/in/jonasschuett) or reach out to me at [jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai).
