@@ -27,7 +27,7 @@ title: I'm a researcher at the Centre for the Governance of AI in Oxford. I try 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="20" height="20">
 Education
 
 - **Goethe University Frankfurt** • PhD, Law <br>
@@ -88,12 +88,11 @@ IEEE Transactions on Technology and Society <br>
 
 ### Contact
 
-@ icon-twitter <https://twitter.com/jonasschuett>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/twitter.svg" width="20" height="20>
+  <https://twitter.com/jonasschuett>
+</p>
 
-Click on the @icn-camera icon to take a screen shot.
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="20" height="20>
-<https://twitter.com/jonasschuett>
 
 Find me on [Twitter](https://twitter.com/jonasschuett) and [LinkedIn](https://www.linkedin.com/in/jonasschuett) or reach out to me at [jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai).
 
