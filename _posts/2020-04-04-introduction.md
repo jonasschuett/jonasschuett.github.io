@@ -27,8 +27,7 @@ title: I'm a researcher at the Centre for the Governance of AI in Oxford. I try 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="20" height="20">
-Education
+### Education
 
 - **Goethe University Frankfurt** • PhD, Law <br>
 2018–present
