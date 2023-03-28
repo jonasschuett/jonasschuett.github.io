@@ -86,7 +86,7 @@ IEEE Transactions on Technology and Society <br>
 
 ### Personal
 
-I live in Berlin, but come to Oxford every 1-2. I’m engaged to my high school sweetheart. We have the best dog in the world. I’m a big fan of specialty coffee---I've been called a "coffee snob". I’m vegan to avoid unnecessary suffering of animals. And I donate 10% of my income to the most effective charities.
+I live in Berlin, but come to Oxford every 1-2 months. I’m engaged to my high school sweetheart. We have the best dog in the world. I’m a big fan of specialty coffee---I've been called a "coffee snob". I’m vegan to avoid unnecessary suffering of animals. And I donate 10% of my income to the most effective charities.
 
 ---
 
