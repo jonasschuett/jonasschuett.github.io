@@ -3,16 +3,11 @@ layout: page
 title: I'm a researcher at the Centre for the Governance of AI in Oxford. I try to reduce existential risks from AI by improving the governance of AGI labs.
 ---
 
-[Twitter](https://twitter.com/jonasschuett)
-
-[LinkedIn](https://www.linkedin.com/in/jonasschuett)
-
-[jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai).
-
-
-I'm a Research Fellow at the Centre for the Governance of AI (GovAI). Within the Policy team, I lead the workstream on corporate governance. Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the Legal Priorities Project, where I'm still a Research Affiliate and board member, and worked as a Consultant at KPMG Law. I'm currently wrapping up my PhD in law at Goethe University Frankfurt, supervised by Tobias Troeger. I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
+I'm a Research Fellow at the Centre for the Governance of AI (GovAI). Within the Policy team, I lead the workstream on corporate governance. Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the Legal Priorities Project, where I'm still a Research Affiliate and board member, and worked as a Consultant at KPMG Law. I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
+
+I live in Berlin, but I come to Oxford every 1-2 months. 
 
 
 ### Work experience
