@@ -1,9 +1,7 @@
 ---
 layout: page
-title: 
+title: Researcher at GovAI. Trying to reduce existential risks from AI. Helping AGI labs to improve their corporate governance. Based in Berlin. Coffee nerd.
 ---
-
-### I'm a researcher at the Centre for the Governance of AI in Oxford. I try to reduce existential risks from AI by improving the corporate governance of AGI labs.
 
 [Twitter](https://twitter.com/jonasschuett)
 
