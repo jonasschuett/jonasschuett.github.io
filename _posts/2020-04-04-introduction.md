@@ -7,9 +7,6 @@ title: I'm a researcher at the Centre for the Governance of AI in Oxford. I try 
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
-I live in Berlin, but I come to Oxford every 1-2 months. 
-
-
 ### Work experience
 
 - **Centre for the Governance of AI** • Research Fellow <br>
@@ -84,6 +81,12 @@ Information <br>
 Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum <br>
 IEEE Transactions on Technology and Society <br>
 [DOI](https://doi.org/10.1109/TTS.2021.3077595) • [arXiv](https://arxiv.org/abs/2105.10356)
+
+---
+
+### Personal
+
+I live in Berlin, but come to Oxford every 1-2. I’m engaged to my high school sweetheart and we have the best dog in the world. I’m a big fan of specialty coffee---I've been called a "coffee snob". I’m vegan to avoid unnecessary suffering of animals. I donate 10% of my income to the most effective charities.
 
 ---
 
