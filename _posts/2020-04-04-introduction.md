@@ -46,7 +46,7 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt, supervis
 ### Publications
 
 - **Frontier AI Regulation: Managing Emerging Risks to Public Safety** (2023) <br>
-Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, **Jonas Schuett**, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf <br>
+Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, Jonas Schuett, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf <br>
 [arXiv](https://arxiv.org/abs/2307.03718)
 
 - **AGI labs need an internal audit function** (2023) <br>
@@ -67,8 +67,8 @@ Law, Innovation and Technology <br>
 [DOI](https://doi.org/10.1080/17579961.2023.2184135) • [arXiv](https://arxiv.org/abs/1909.01095)
 
 - **Auditing large language models: A three-layered approach** (2023) <br>
-Jakob Mökander, **Jonas Schuett**, Hannah R. Kirk, Luciano Floridi <br>
-AI and Ethics
+Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
+AI and Ethics <br>
 [DOI](https://doi.org/10.1007/s43681-023-00289-2) • [arXiv](https://arxiv.org/abs/2302.08500)
 
 - **Risk management in the Artificial Intelligence Act** (2023) <br>
@@ -81,12 +81,12 @@ Jonas Schuett <br>
 [arXiv](https://arxiv.org/abs/2212.08364)
 
 - **Corporate governance of artificial intelligence in the public interest** (2021) <br>
-Peter Cihon, **Jonas Schuett**, Seth D. Baum <br>
+Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 Information <br>
 [DOI](https://doi.org/10.3390/info12070275)
 
 - **AI certification: Advancing ethical practice by reducing information asymmetries** (2021) <br>
-Peter Cihon, Moritz J. Kleinaltenkamp, **Jonas Schuett**, Seth D. Baum <br>
+Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum <br>
 IEEE Transactions on Technology and Society <br>
 [DOI](https://doi.org/10.1109/TTS.2021.3077595) • [arXiv](https://arxiv.org/abs/2105.10356)
 
