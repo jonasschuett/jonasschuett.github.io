@@ -47,7 +47,7 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt, supervis
 
 - **Frontier AI Regulation: Managing Emerging Risks to Public Safety** (2023) <br>
 Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, Jonas Schuett, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf <br>
-[arXiv](https://arxiv.org/abs/2307.03718)
+[arXiv](https://arxiv.org/abs/2307.03718) • [Summary](https://www.governance.ai/post/frontier-ai-regulation)
 
 - **AGI labs need an internal audit function** (2023) <br>
 Jonas Schuett <br>
@@ -55,7 +55,7 @@ Jonas Schuett <br>
 
 - **Towards best practices in AGI safety and governance: A survey of expert opinion** (2023) <br>
 Jonas Schuett, Noemi Dreksler, Markus Anderljung, David McCaffary, Lennart Heim, Emma Bluemke, Ben Garfinkel <br>
-[arXiv](https://arxiv.org/abs/2305.07153)
+[arXiv](https://arxiv.org/abs/2305.07153) • [Summary](https://www.governance.ai/post/broad-expert-consensus-for-many-agi-safety-and-governance-best-practices)
 
 - **How to design an AI ethics board** (2023) <br>
 Jonas Schuett, Anka Reuel, Alexis Carlier <br>
