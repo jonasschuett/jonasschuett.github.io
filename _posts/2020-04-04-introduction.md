@@ -45,7 +45,7 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt, supervis
 
 ### Publications
 
-- **Frontier AI Regulation: Managing Emerging Risks to Public Safety** (2023) <br>
+- **Frontier AI regulation: Managing emerging risks to public safety** (2023) <br>
 Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, Jonas Schuett, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf <br>
 [arXiv](https://arxiv.org/abs/2307.03718) • [Summary](https://www.governance.ai/post/frontier-ai-regulation)
 
