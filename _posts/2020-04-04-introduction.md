@@ -5,7 +5,7 @@ title: I'm a researcher at the Centre for the Governance of AI in Oxford. I try 
 
 <br>I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/). Within the [GovAI Policy Team](https://www.governance.ai/post/announcing-the-govai-policy-team), I lead the workstream on corporate governance.
 
-Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the [Legal Priorities Project](https://www.legalpriorities.org/), where I'm still a Research Affiliate and board member, and worked as a Consultant at KPMG Law.
+Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at DeepMind’s Public Policy team. I also helped found the [Legal Priorities Project](https://www.legalpriorities.org/), where I'm still a Research Affiliate and board member.
 
 I'm currently wrapping up my PhD in law at Goethe University Frankfurt, supervised by Professor [Tobias Troeger](https://www.jura.uni-frankfurt.de/43943776/Chair). I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
 
@@ -43,20 +43,23 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt, supervis
 
 ---
 
-### Current projects
-- **Responsible AGI labs**: I've recently started a new research project on responsible AGI labs. This project will likely turn into an "intellectual megaproject" with dozens of co-authors. We plan to sketch an ideal governance regime for AGI labs ("where we need to be"), review current practices ("where we are"), and recommend concrete steps labs could take today ("how we get from here to there"). This is my main priority at the moment.
-
-- **AGI labs need an internal audit function**: I argue that AGI labs should seriously consider setting up an internal audit team. This team would assess the effectiveness of the lab's risk management practices. It would be independent from senior management and report directly to the board of directors.
-
-- **Risk assessment at AGI labs** (w/ [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)): We review risk assessment techniques from IEC 31010:2019 and other industries (especially aviation, nuclear, and finance) and discuss how AGI labs could use them.
-
-- **AI ethics boards** (w/ [Anka Reuel](https://www.linkedin.com/in/ankareuel/), [Alexis Carlier](https://www.linkedin.com/in/alexis-carlier-995367170/)): We identify key design choices when setting up an ethics board and discuss how they affect the board’s ability to reduce risks from AI.
-
-- **Board governance at AGI labs** (w/ [Nikhil Mulani](https://www.linkedin.com/in/nmulani/), [John Bridge](https://www.linkedin.com/in/johnmichaelbridge/)): We give an overview of the board’s responsibility for risk oversight under Delaware law. We then discuss how AGI labs could set up a more safety-conscious board of directors and suggest actions that individual board members can take.
-
----
-
 ### Publications
+
+- **Frontier AI Regulation: Managing Emerging Risks to Public Safety** (2023) <br>
+Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, **Jonas Schuett**, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf <br>
+[arXiv](https://arxiv.org/abs/2307.03718)
+
+- **AGI labs need an internal audit function** (2023) <br>
+Jonas Schuett <br>
+[arXiv](https://arxiv.org/abs/2305.17038)
+
+- **Towards best practices in AGI safety and governance: A survey of expert opinion** (2023) <br>
+Jonas Schuett, Noemi Dreksler, Markus Anderljung, David McCaffary, Lennart Heim, Emma Bluemke, Ben Garfinkel <br>
+[arXiv](https://arxiv.org/abs/2305.07153)
+
+- **How to design an AI ethics board** (2023) <br>
+Jonas Schuett, Anka Reuel, Alexis Carlier <br>
+[arXiv](https://arxiv.org/abs/2304.07249)
 
 - **Defining the scope of AI regulations** (2023) <br>
 Jonas Schuett <br>
@@ -64,8 +67,9 @@ Law, Innovation and Technology <br>
 [DOI](https://doi.org/10.1080/17579961.2023.2184135) • [arXiv](https://arxiv.org/abs/1909.01095)
 
 - **Auditing large language models: A three-layered approach** (2023) <br>
-Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
-[arXiv](https://arxiv.org/abs/2302.08500)
+Jakob Mökander, **Jonas Schuett**, Hannah R. Kirk, Luciano Floridi <br>
+AI and Ethics
+[DOI](https://doi.org/10.1007/s43681-023-00289-2) • [arXiv](https://arxiv.org/abs/2302.08500)
 
 - **Risk management in the Artificial Intelligence Act** (2023) <br>
 Jonas Schuett <br>
@@ -77,12 +81,12 @@ Jonas Schuett <br>
 [arXiv](https://arxiv.org/abs/2212.08364)
 
 - **Corporate governance of artificial intelligence in the public interest** (2021) <br>
-Peter Cihon, Jonas Schuett, Seth D. Baum <br>
+Peter Cihon, **Jonas Schuett**, Seth D. Baum <br>
 Information <br>
 [DOI](https://doi.org/10.3390/info12070275)
 
 - **AI certification: Advancing ethical practice by reducing information asymmetries** (2021) <br>
-Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum <br>
+Peter Cihon, Moritz J. Kleinaltenkamp, **Jonas Schuett**, Seth D. Baum <br>
 IEEE Transactions on Technology and Society <br>
 [DOI](https://doi.org/10.1109/TTS.2021.3077595) • [arXiv](https://arxiv.org/abs/2105.10356)
 
