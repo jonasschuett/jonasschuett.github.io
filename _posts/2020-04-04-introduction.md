@@ -45,6 +45,10 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt, supervis
 
 ### Publications
 
+- **Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries** (2023) <br>
+Leonie Koessler, Jonas Schuett <br>
+[arXiv](https://arxiv.org/abs/2307.08823)
+
 - **Frontier AI regulation: Managing emerging risks to public safety** (2023) <br>
 Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, Jonas Schuett, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf <br>
 [arXiv](https://arxiv.org/abs/2307.03718) • [Summary](https://www.governance.ai/post/frontier-ai-regulation)
