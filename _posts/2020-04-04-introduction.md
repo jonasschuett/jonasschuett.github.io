@@ -2,7 +2,6 @@
 layout: page
 title: I'm a researcher at the Centre for the Governance of AI in Oxford. I try to reduce catastrophic risks from AI by improving the governance of frontier AI developers.
 ---
-
 <br>I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) where my research focuses on risk management, corporate governance, and regulation. Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s Policy team. I also helped found the [Legal Priorities Project](https://www.legalpriorities.org/) where I'm still a Research Affiliate and board member. I'm currently wrapping up my PhD in law at Goethe University Frankfurt, supervised by Professor [Tobias Troeger](https://www.jura.uni-frankfurt.de/43943776/Chair). I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
