@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I'm a researcher at the Centre for the Governance of AI in Oxford. I try to reduce catastrophic risks from AI by improving the governance of AGI labs.
+title: Jonas Schuett is a German AI governacne researcher. He works at the Centre for the Governance of AI in Oxford where his research focuses on risk management, corporate governance, and regulation.
 ---
 
 <br>I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/). Within the [GovAI Policy Team](https://www.governance.ai/post/announcing-the-govai-policy-team), I lead the workstream on corporate governance.
@@ -19,7 +19,7 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt, supervis
 - **UK Cabinet Office** • Expert Advisor (Artificial Intelligence) <br>
 2022
 
-- **DeepMind** • Policy Research and Intelligence Intern <br>
+- **Google DeepMind** • Policy Research and Intelligence Intern <br>
 2021
 
 - **Legal Priorities Project** • Research Fellow <br>
