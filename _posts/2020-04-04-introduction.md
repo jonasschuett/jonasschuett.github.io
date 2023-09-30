@@ -15,6 +15,8 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a
 
 […]
 
+![Risk Management](/risk_management.jpg "Risk Management")
+
 - **Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries** (2023) <br>
 Leonie Koessler, Jonas Schuett <br>
 [arXiv](https://arxiv.org/abs/2307.08823)
