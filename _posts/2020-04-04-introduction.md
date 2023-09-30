@@ -3,13 +3,13 @@ layout: page
 title: Hi, I'm Jonas!
 ---
 
-![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
-
-I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. I try to reduce catastrophic risks from AI by improving the governance of frontier AI developers. My research focuses on risk management, corporate governance, auditing, and regulation.
+<br>I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. I try to reduce catastrophic risks from AI by improving the governance of frontier AI developers. My research focuses on risk management, corporate governance, auditing, and regulation.
 
 Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s Public Policy team. I also helped found the [Legal Priorities Project](https://www.legalpriorities.org/) where I'm still a Research Affiliate and board member.
 
 I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
+
+![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
 ### Risk management
 
