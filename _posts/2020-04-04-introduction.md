@@ -75,6 +75,10 @@ On the practical side of things, I was seconded to the UK Cabinet Office to supp
 
 ### Publications
 
+– **Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers** (2023) <br>
+Jide Alaga, Jonas Schuett <br>
+[arXiv](https://arxiv.org/abs/2310.00374)
+
 - **Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries** (2023) <br>
 Leonie Koessler, Jonas Schuett <br>
 [arXiv](https://arxiv.org/abs/2307.08823)
