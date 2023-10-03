@@ -13,7 +13,11 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a
 
 ### Risk management
 
-[…]
+One of my main areas of focus is AI risk management. I try to figure out how frontier AI developers should manage catastrophic risks from AI.
+
+I'm currently working on several projects that focus on various aspects of risk assessment. We're developing a taxonomy of catastrophic risks from AI, developing a quantitative risk model, and reviewing risk thresholds in other safety critical industries. Together with my colleague Leonie Koessler, I have recently published a paper in which we review risk assessment techniques from other industries.
+
+In the past, I worked on several projects on risk governance, i.e. what risk-related governance structures should frontier AI developers have around their core risk management process? I have one paper on the Three Lines of Defense (3LoD) model and anohter one on internal audit. I also have one paper in which I conduct a legal analysis of the main risk management provision in the proposed EU AI Act.
 
 ![Risk Management](/risk_management.jpg "Risk Management")
 
