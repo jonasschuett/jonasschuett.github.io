@@ -13,11 +13,11 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a
 
 ### Risk management
 
-One of my main areas of focus is AI risk management. I try to figure out how frontier AI developers should manage catastrophic risks from AI.
+I do a lot of work on AI risk management. I try to figure out how frontier AI developers should manage catastrophic risks from AI.
 
-I'm currently working on several projects that focus on various aspects of risk assessment. We're developing a taxonomy of catastrophic risks from AI, developing a quantitative risk model, and reviewing risk thresholds in other safety critical industries. Together with my colleague Leonie Koessler, I have recently published a paper in which we review risk assessment techniques from other industries.
+I'm currently working on several projects that focus on various aspects of risk assessment: we're proposing a taxonomy of catastrophic risks from AI, developing a quantitative risk model, and reviewing risk thresholds from other safety critical industries. Besides that, I have recently published a paper in which we [review popular risk assessment techniques](https://arxiv.org/abs/2307.08823) from other industries.
 
-In the past, I worked on several projects on risk governance, i.e. what risk-related governance structures should frontier AI developers have around their core risk management process? I have one paper on the Three Lines of Defense (3LoD) model and anohter one on internal audit. I also have one paper in which I conduct a legal analysis of the main risk management provision in the proposed EU AI Act.
+In the past, I have also worked on several projects related to risk governance. I have one paper on the [Three Lines of Defense model](https://arxiv.org/abs/2212.08364) and anohter one on [internal audit](https://arxiv.org/abs/2305.17038). I also have one paper in which I conduct a [legal analysis of the main risk management provision in the proposed EU AI Act](https://doi.org/10.1017/err.2023.1).
 
 ![Risk Management](/risk_management.jpg "Risk Management")
 
