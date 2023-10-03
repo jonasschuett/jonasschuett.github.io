@@ -25,35 +25,12 @@ In the past, I have also worked on several projects related to risk governance. 
 
 ## Corporate governance
 
-[…]
-
-- **Towards best practices in AGI safety and governance: A survey of expert opinion** (2023) <br>
-Jonas Schuett, Noemi Dreksler, Markus Anderljung, David McCaffary, Lennart Heim, Emma Bluemke, Ben Garfinkel <br>
-[arXiv](https://arxiv.org/abs/2305.07153) • [Summary](https://www.governance.ai/post/broad-expert-consensus-for-many-agi-safety-and-governance-best-practices)
-
-- **How to design an AI ethics board** (2023) <br>
-Jonas Schuett, Anka Reuel, Alexis Carlier <br>
-[arXiv](https://arxiv.org/abs/2304.07249)
-
-- **Corporate governance of artificial intelligence in the public interest** (2021) <br>
-Peter Cihon, Jonas Schuett, Seth D. Baum <br>
-Information <br>
-[DOI](https://doi.org/10.3390/info12070275)
+My second focus is on corporate governance. Earlier this year, we published a [survey of AGI safety and governance experts](https://arxiv.org/abs/2305.07153). We also published a paper in which we make recommendations on [how to design an AI ethics board](https://arxiv.org/abs/2304.07249). A while back, I also contributed to an [introductory paper on corporate governance](https://doi.org/10.3390/info12070275).
 
 
 ## Auditing
 
-[…]
-
-- **Auditing large language models: A three-layered approach** (2023) <br>
-Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
-AI and Ethics <br>
-[DOI](https://doi.org/10.1007/s43681-023-00289-2) • [arXiv](https://arxiv.org/abs/2302.08500)
-
-- **AI certification: Advancing ethical practice by reducing information asymmetries** (2021) <br>
-Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum <br>
-IEEE Transactions on Technology and Society <br>
-[DOI](https://doi.org/10.1109/TTS.2021.3077595) • [arXiv](https://arxiv.org/abs/2105.10356)
+My third focus is on auditing. I just published a paper in which we propose an [evaluation-based coordination scheme](https://arxiv.org/abs/2310.00374). I also contributed to a paper on [auditing large language models](https://doi.org/10.1007/s43681-023-00289-2) and [AI certification](https://doi.org/10.1109/TTS.2021.3077595).
 
 
 ## Regulation
