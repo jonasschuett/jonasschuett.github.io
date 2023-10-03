@@ -11,6 +11,7 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
+
 ### Risk management
 
 I do a lot of work on AI risk management. I try to figure out how frontier AI developers should manage catastrophic risks from AI.
@@ -20,23 +21,6 @@ I'm currently working on several projects that focus on various aspects of risk 
 In the past, I have also worked on several projects related to risk governance. I have one paper on the [Three Lines of Defense model](https://arxiv.org/abs/2212.08364) and anohter one on [internal audit](https://arxiv.org/abs/2305.17038). I also have one paper in which I conduct a [legal analysis of the main risk management provision in the proposed EU AI Act](https://doi.org/10.1017/err.2023.1).
 
 ![Risk Management](/risk_management.jpg "Risk Management")
-
-- **Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries** (2023) <br>
-Leonie Koessler, Jonas Schuett <br>
-[arXiv](https://arxiv.org/abs/2307.08823)
-
-- **AGI labs need an internal audit function** (2023) <br>
-Jonas Schuett <br>
-[arXiv](https://arxiv.org/abs/2305.17038)
-
-- **Risk management in the Artificial Intelligence Act** (2023) <br>
-Jonas Schuett <br>
-European Journal of Risk Regulation <br>
-[DOI](https://doi.org/10.1017/err.2023.1) • [arXiv](https://arxiv.org/abs/2212.03109)
-
-- **Three lines of defense against risks from AI** (2022) <br>
-Jonas Schuett <br>
-[arXiv](https://arxiv.org/abs/2212.08364)
 
 
 ### Corporate governance
