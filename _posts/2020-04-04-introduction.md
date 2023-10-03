@@ -75,7 +75,7 @@ On the practical side of things, I was seconded to the UK Cabinet Office to supp
 
 ### Publications
 
-– **Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers** (2023) <br>
+- **Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers** (2023) <br>
 Jide Alaga, Jonas Schuett <br>
 [arXiv](https://arxiv.org/abs/2310.00374)
 
