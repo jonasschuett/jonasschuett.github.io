@@ -12,7 +12,7 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
 
-### Risk management
+## Risk management
 
 I do a lot of work on AI risk management. I try to figure out how frontier AI developers should manage catastrophic risks from AI.
 
@@ -23,7 +23,7 @@ In the past, I have also worked on several projects related to risk governance. 
 ![Risk Management](/risk_management.jpg "Risk Management")
 
 
-### Corporate governance
+## Corporate governance
 
 […]
 
@@ -41,7 +41,7 @@ Information <br>
 [DOI](https://doi.org/10.3390/info12070275)
 
 
-### Auditing
+## Auditing
 
 […]
 
@@ -56,26 +56,15 @@ IEEE Transactions on Technology and Society <br>
 [DOI](https://doi.org/10.1109/TTS.2021.3077595) • [arXiv](https://arxiv.org/abs/2105.10356)
 
 
-### Regulation
+## Regulation
 
-[…]
+Finally, I've done some work on AI regulation. On the theoretical side of things, I contributed to a paper on [frontier AI regulation](https://arxiv.org/abs/2307.03718). I also have a paper on [defining the scope of AI regulations](https://doi.org/10.1080/17579961.2023.2184135) and, as mentioned above, a paper on [risk management in the AI Act](https://doi.org/10.1017/err.2023.1).
 
-- **Frontier AI regulation: Managing emerging risks to public safety** (2023) <br>
-Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, Jonas Schuett, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf <br>
-[arXiv](https://arxiv.org/abs/2307.03718) • [Summary](https://www.governance.ai/post/frontier-ai-regulation)
+On the practical side of things, I was seconded to the UK Cabinet Office to support their work on AI regulation. I mainly gave input on the white paper [A pro-innovation approach to AI regulation](https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach/white-paper).
 
-- **Defining the scope of AI regulations** (2023) <br>
-Jonas Schuett <br>
-Law, Innovation and Technology <br>
-[DOI](https://doi.org/10.1080/17579961.2023.2184135) • [arXiv](https://arxiv.org/abs/1909.01095)
+---
 
-- **Risk management in the Artificial Intelligence Act** (2023) <br>
-Jonas Schuett <br>
-European Journal of Risk Regulation <br>
-[DOI](https://doi.org/10.1017/err.2023.1) • [arXiv](https://arxiv.org/abs/2212.03109)
-
-
-### Work experience
+## Work experience
 
 - **Centre for the Governance of AI** • Research Fellow <br>
 2022–present
@@ -94,7 +83,7 @@ European Journal of Risk Regulation <br>
 
 ---
 
-### Education
+## Education
 
 - **Goethe University Frankfurt** • PhD, Law <br>
 2018–present
