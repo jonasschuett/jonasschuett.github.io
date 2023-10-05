@@ -79,7 +79,7 @@ On the practical side of things, I was seconded to the UK Cabinet Office to supp
 Jide Alaga, Jonas Schuett <br>
 [arXiv](https://arxiv.org/abs/2310.00374)
 
-- **Open-Sourcing Highly Capable Foundation Models: An evaluation of risks, benefits, and alternative methods for pursuing open-source objectives** (2023) <br>
+- **Open-sourcing highly capable foundation models: An evaluation of risks, benefits, and alternative methods for pursuing open-source objectives** (2023) <br>
 Elizabeth Seger, Noemi Dreksler, Richard Moulange, Emily Dardaman, Jonas Schuett, K. Wei, Christoph Winter, Mackenzie Arnold, Seán Ó hÉigeartaigh, Anton Korinek, Markus Anderljung, Ben Bucknall, Alan Chan, Eoghan Sta!ord, Leonie Koessler, Aviv Ovadya, Ben Garfinkel, Emma Bluemke, Michael Aird, Patrick Levermore, Julian Hazell, Abhishek Gupta <br>
 [PDF](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)
 
