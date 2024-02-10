@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Hi, I'm Jonas!
+title:
 ---
 
-I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. I try to reduce catastrophic risks from AI by improving the governance of frontier AI developers. My research focuses on risk management, corporate governance, auditing, and regulation.
+![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
-Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s Public Policy team. I also helped found the [Legal Priorities Project](https://www.legalpriorities.org/) where I'm still a Research Affiliate and board member.
+I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/). I try to reduce catastrophic risks from AI by improving the governance of frontier AI developers. My research focuses on risk management, corporate governance, regulation, and auditing.
+
+Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s Public Policy team. I also helped found the [Institute for Law and AI (LawAI](https://law-ai.org/) where I'm still a board member.
 
 I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
-
-![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
 
 ## Risk management
@@ -43,7 +43,7 @@ On the practical side of things, I was seconded to the UK Cabinet Office to supp
 
 ## Work experience
 
-- **Centre for the Governance of AI** • Research Fellow <br>
+- **Centre for the Governance of AI (GovAI)** • Research Fellow <br>
 2022–present
 
 - **UK Cabinet Office** • Expert Advisor (Artificial Intelligence) <br>
@@ -52,7 +52,7 @@ On the practical side of things, I was seconded to the UK Cabinet Office to supp
 - **Google DeepMind** • Policy Research and Intelligence Intern <br>
 2021
 
-- **Legal Priorities Project** • Research Fellow <br>
+- **Institute for Law and AI (LawAI)** • Research Fellow <br>
 2020–2022
 
 - **KPMG Law** • Consultant <br>
@@ -75,68 +75,41 @@ On the practical side of things, I was seconded to the UK Cabinet Office to supp
 
 ### Publications
 
-- **Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers** (2023) <br>
-Jide Alaga, Jonas Schuett <br>
-[arXiv](https://arxiv.org/abs/2310.00374)
+- **Schuett, J.**, Reuel, A., & Carlier, A. (2024). How to design an AI ethics board. _AI and Ethics_. [[https://arxiv.org/abs/2304.07249](https://doi.org/10.1007/s43681-023-00409-y)](https://doi.org/10.1007/s43681-023-00409-y)
 
-- **Open-sourcing highly capable foundation models: An evaluation of risks, benefits, and alternative methods for pursuing open-source objectives** (2023) <br>
-Elizabeth Seger, Noemi Dreksler, Richard Moulange, Emily Dardaman, Jonas Schuett, K. Wei, Christoph Winter, Mackenzie Arnold, Seán Ó hÉigeartaigh, Anton Korinek, Markus Anderljung, Ben Bucknall, Alan Chan, Eoghan Sta!ord, Leonie Koessler, Aviv Ovadya, Ben Garfinkel, Emma Bluemke, Michael Aird, Patrick Levermore, Julian Hazell, Abhishek Gupta <br>
-[PDF](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)
+- Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E., **Schuett, J.**, Trager, R., Strahm, L., & Chowdhury, R. (2023). _Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework_. arXiv. [https://arxiv.org/abs/2311.14711](https://arxiv.org/abs/2311.14711)
 
-- **Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries** (2023) <br>
-Leonie Koessler, Jonas Schuett <br>
-[arXiv](https://arxiv.org/abs/2307.08823)
+- **Schuett, J.** (2023). Three lines of defense against risks from AI. _AI & Society_. [https://doi.org/10.1007/s00146-023-01811-0](https://doi.org/10.1007/s00146-023-01811-0)
 
-- **Frontier AI regulation: Managing emerging risks to public safety** (2023) <br>
-Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, Jonas Schuett, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf <br>
-[arXiv](https://arxiv.org/abs/2307.03718) • [Summary](https://www.governance.ai/post/frontier-ai-regulation)
+- Alaga, J., & **Schuett, J.** (2023). _Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers_. arXiv. [https://arxiv.org/abs/2310.00374](https://arxiv.org/abs/2310.00374)
 
-- **AGI labs need an internal audit function** (2023) <br>
-Jonas Schuett <br>
-[arXiv](https://arxiv.org/abs/2305.17038)
+- Seger, E., Dreksler, N., Moulange, R., Dardaman, E., **Schuett, J.**, Wei, K., Winter, C., Arnold, M., ÓhÉigeartaigh, S., Korinek, A., Anderljung, M., Bucknall, B., Chan, A., Stafford, E., Koessler, L., Ovadya, A., Garfinkel, B., Bluemke, E., Aird, M., Levermore, P., Hazell, J., & Gupta, A. (2023). _Open-sourcing highly capable foundation models: An evaluation of risks, benefits, and alternative methods for pursuing open-source objectives_. arXiv. [https://arxiv.org/abs/2311.09227](https://arxiv.org/abs/2311.09227)
 
-- **Towards best practices in AGI safety and governance: A survey of expert opinion** (2023) <br>
-Jonas Schuett, Noemi Dreksler, Markus Anderljung, David McCaffary, Lennart Heim, Emma Bluemke, Ben Garfinkel <br>
-[arXiv](https://arxiv.org/abs/2305.07153) • [Summary](https://www.governance.ai/post/broad-expert-consensus-for-many-agi-safety-and-governance-best-practices)
+- Koessler, L., & **Schuett, J.** (2023). _Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries_. arXiv. [https://arxiv.org/abs/2307.08823](https://arxiv.org/abs/2307.08823)
 
-- **How to design an AI ethics board** (2023) <br>
-Jonas Schuett, Anka Reuel, Alexis Carlier <br>
-[arXiv](https://arxiv.org/abs/2304.07249)
+- Anderljung, M., Barnhart, J., Korinek, A., Leung, J., O’Keefe, C., Whittlestone, J., Avin, S., Brundage, M., Bullock, J., Cass-Beggs, D., Chang, B., Collins, T., Fist, F., Hadfield, G., Hayes, A., Ho, L., Hooker, S., Horvitz, E., Kolt, N., **Schuett, J.**, Shavit, Y., Siddarth, D., Trager, R., & Wolf, K. (2023). _Frontier AI regulation: Managing emerging risks to public safety_. arXiv. [https://arxiv.org/abs/2307.03718](https://arxiv.org/abs/2307.03718)
 
-- **Defining the scope of AI regulations** (2023) <br>
-Jonas Schuett <br>
-Law, Innovation and Technology <br>
-[DOI](https://doi.org/10.1080/17579961.2023.2184135) • [arXiv](https://arxiv.org/abs/1909.01095)
+- **Schuett, J.** (2023). _AGI labs need an internal audit function_. arXiv. [https://arxiv.org/abs/2305.17038](https://arxiv.org/abs/2305.17038)
 
-- **Auditing large language models: A three-layered approach** (2023) <br>
-Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
-AI and Ethics <br>
-[DOI](https://doi.org/10.1007/s43681-023-00289-2) • [arXiv](https://arxiv.org/abs/2302.08500)
+- **Schuett, J.**, Dreksler, N., Anderljung, M., McCaffary, D., Heim, L., Bluemke, E., & Garfinkel, B. (2023). _Towards best practices in AGI safety and governance: A survey of expert opinion_. arXiv. [https://arxiv.org/abs/2305.07153](https://arxiv.org/abs/2305.07153)
 
-- **Risk management in the Artificial Intelligence Act** (2023) <br>
-Jonas Schuett <br>
-European Journal of Risk Regulation <br>
-[DOI](https://doi.org/10.1017/err.2023.1) • [arXiv](https://arxiv.org/abs/2212.03109)
+- **Schuett, J.** (2023). Defining the scope of AI regulations. _Law, Innovation and Technology, _15_(1), 60–82. [https://doi.org/10.1080/17579961.2023.2184135](https://doi.org/10.1080/17579961.2023.2184135)
 
-- **Three lines of defense against risks from AI** (2022) <br>
-Jonas Schuett <br>
-[arXiv](https://arxiv.org/abs/2212.08364)
+- Mökander, J., **Schuett, J.**, Kirk, H. R., & Floridi, L. (2023). Auditing large language models: A three-layered approach. _AI and Ethics_. [https://doi.org/10.1007/s43681-023-00289-2](https://doi.org/10.1007/s43681-023-00289-2)
 
-- **Corporate governance of artificial intelligence in the public interest** (2021) <br>
-Peter Cihon, Jonas Schuett, Seth D. Baum <br>
-Information <br>
-[DOI](https://doi.org/10.3390/info12070275)
+- **Schuett, J.** (2023). Risk management in the Artificial Intelligence Act. _European Journal of Risk Regulation_, 1–19. [https://doi.org/10.1017/err.2023.1](https://doi.org/10.1017/err.2023.1)
 
-- **AI certification: Advancing ethical practice by reducing information asymmetries** (2021) <br>
-Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum <br>
-IEEE Transactions on Technology and Society <br>
-[DOI](https://doi.org/10.1109/TTS.2021.3077595) • [arXiv](https://arxiv.org/abs/2105.10356)
+- Cihon, P., **Schuett, J.**, & Baum, S. D. (2021). Corporate governance of artificial intelligence in the public interest. _Information, 12_(7), 275. [https://doi.org/10.3390/info12070275](https://doi.org/10.3390/info12070275)
+
+- Cihon, P., Kleinaltenkamp, M. J., **Schuett, J.**, & Baum, S. D. (2021). AI certification: Advancing ethical practice by reducing information asymmetries. _IEEE Transactions on Technology and Society, 2_(4), 200–209. [https://doi.org/10.1109/TTS.2021.3077595](https://doi.org/10.1109/TTS.2021.3077595)
+
+- Winter, C., **Schuett, J.**, Martínez, E., Van Arsdale, S., Araújo, R., Hollman, N., Sebo, J., Stawasz, A., O’Keefe, C., & Rotola, G. (2021). Legal priorities research: A research agenda. _Legal Priorities Project_. [https://www.legalpriorities.org/research_agenda.pdf](https://www.legalpriorities.org/research_agenda.pdf)
 
 ---
 
 ### Personal
 
-I live in Berlin, but come to Oxford every 1-2 months. I’m engaged to my high school sweetheart. We have the best dog in the world. I’m a big fan of specialty coffee---I've been called a "coffee snob". I’m vegan to avoid unnecessary suffering of animals. And I donate 10% of my income to the most effective charities.
+I live in Berlin, but come to Oxford every 1-2 months. I’m engaged to my high school sweetheart, and we have the best dog in the world. I’m a big fan of specialty coffee---I've been called a "coffee snob". I’m vegan to avoid unnecessary suffering of animals.
 
 ---
 
