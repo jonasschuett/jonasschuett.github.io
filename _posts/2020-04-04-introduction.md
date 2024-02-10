@@ -14,7 +14,7 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a
 
 ## Ongoing research projects
 
-- **How should regulators determine whether a frontier AI model poses unacceptable risks?** (w/ Markus Anderljung, Leonie Koessler). Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.
+- **How should regulators determine whether a frontier AI model poses unacceptable risks?** (w/ [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/), Leonie Koessler). Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.
  
 - **How to estimate the impact and likelihood of risks from AI** (w/ Caroline Baumoehl, Malcolm Murray, Leonie Koessler). We make the case for explicit risk estimates, list options, and make recommendations.
 
