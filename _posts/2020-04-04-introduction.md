@@ -4,11 +4,32 @@ layout: page
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
+## About me
+
 I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/). I try to reduce catastrophic risks from AI by improving the governance of frontier AI developers. My research focuses on risk management, corporate governance, regulation, and auditing.
 
 Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s Public Policy team. I also helped found the [Institute for Law and AI (LawAI](https://law-ai.org/) where I'm still a board member.
 
 I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
+
+## Ongoing research projects
+
+- **How should regulators determine whether a frontier AI model poses unacceptable risks?** (w/ Markus Anderljung, Leonie Koessler). Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.
+ 
+- **How to estimate the impact and likelihood of risks from AI** (w/ Caroline Baumoehl, Malcolm Murray, Leonie Koessler). We make the case for explicit risk estimates, list options, and make recommendations.
+
+- **Defining tolerance levels for risks from AI** (w/ Leonie Koessler). We propose a framework that decision-makers can use to define tolerance levels for risk estimates.
+
+- **AI risk assessment Delphi study** (w/ Malcolm Murray, Noemi Dreksler, Markus Anderljung, Ben Garfinkel). We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
+
+- **Passing judgment on responsible scaling policies** (w/ Jide Alaga). We identify key properties of 
+good RSPs, and propose a grading rubric that can be used to evaluate existing ones.
+
+- **How to assess the effectiveness of safeguards** (w/ Patrick Levermore). We list existing safeguards, and discuss different ways of gathering evidence about their effectiveness.
+
+- **Safety cases for frontier AI** (w/ Marie Buhl, Leonie Koessler) We make the case for safety cases, recommend key components, and discuss their relevance for self-governance and regulation.
+
+- **AI board governance: Best practices in risk oversight** (w/ John Bridge, Nikhil Mulani). […]
 
 
 ## Risk management
