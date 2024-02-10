@@ -8,7 +8,7 @@ layout: page
 
 I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/). I try to reduce catastrophic risks from AI by improving the governance of frontier AI developers. My research focuses on risk management, corporate governance, regulation, and auditing.
 
-Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s Public Policy team. I also helped found the [Institute for Law and AI (LawAI](https://law-ai.org/) where I'm still a board member.
+Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s Public Policy team. I also helped found the [Institute for Law and AI (LawAI)](https://law-ai.org/) where I'm still a board member.
 
 I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
 
