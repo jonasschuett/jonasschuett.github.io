@@ -12,55 +12,6 @@ Before joining GovAI, I was seconded to the UK Cabinet Office to support their w
 
 I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
 
-## Ongoing research projects
-
-- **How should regulators determine whether a frontier AI model poses unacceptable risks?** (with [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/), [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.
- 
-- **How to estimate the impact and likelihood of risks from AI** (with [Caroline Baumoehl](https://www.linkedin.com/in/caroline-baumoehl-b9030514b/), [Malcolm Murray](https://www.linkedin.com/in/malcolmmurray/), [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). We make the case for explicit risk estimates, list options, and make recommendations.
-
-- **Defining tolerance levels for risks from AI** (with [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). We propose a framework that decision-makers can use to define tolerance levels for risk estimates.
-
-- **AI risk assessment Delphi study** (with [Malcolm Murray](https://www.linkedin.com/in/malcolmmurray/), [Noemi Dreksler](https://www.linkedin.com/in/noemidreksler/), [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/), [Ben Garfinkel](https://www.governance.ai/team/ben-garfinkel)). We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
-
-- **Passing judgment on responsible scaling policies** (with [Jide Alaga](https://www.governance.ai/team/jide-alaga)). We identify key properties of 
-good RSPs, and propose a grading rubric that can be used to evaluate existing ones.
-
-- **How to assess the effectiveness of safeguards** (with [Patrick Levermore](https://www.linkedin.com/in/patrick-levermore-385395b3/)). We list existing safeguards, and discuss different ways of gathering evidence about their effectiveness.
-
-- **Safety cases for frontier AI** (with Marie Buhl, [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)) We make the case for safety cases, recommend key components, and discuss their relevance for self-governance and regulation.
-
-- **AI board governance: Best practices in risk oversight** (with [John Bridge](https://www.linkedin.com/in/johnmichaelbridge/), [Nikhil Mulani](https://www.linkedin.com/in/nmulani/)). […]
-
-
-## Risk management
-
-I do a lot of work on AI risk management. I try to figure out how frontier AI developers should manage catastrophic risks from AI.
-
-I'm currently working on several projects that focus on various aspects of risk assessment: we're proposing a taxonomy of catastrophic risks from AI, developing a quantitative risk model, and reviewing risk thresholds from other safety critical industries. Besides that, I have recently published a paper in which we [review popular risk assessment techniques](https://arxiv.org/abs/2307.08823) from other industries.
-
-In the past, I have also worked on several projects related to risk governance. I have one paper on the [Three Lines of Defense model](https://arxiv.org/abs/2212.08364) and anohter one on [internal audit](https://arxiv.org/abs/2305.17038). I also have one paper in which I conduct a [legal analysis of the main risk management provision in the proposed EU AI Act](https://doi.org/10.1017/err.2023.1).
-
-![Risk Management](/risk_management.jpg "Risk Management")
-
-
-## Corporate governance
-
-My second focus is on corporate governance. Earlier this year, we published a [survey of AGI safety and governance experts](https://arxiv.org/abs/2305.07153). We also published a paper in which we make recommendations on [how to design an AI ethics board](https://arxiv.org/abs/2304.07249). A while back, I also contributed to an [introductory paper on corporate governance](https://doi.org/10.3390/info12070275).
-
-
-## Auditing
-
-My third focus is on auditing. I just published a paper in which we propose an [evaluation-based coordination scheme](https://arxiv.org/abs/2310.00374). I also contributed to a paper on [auditing large language models](https://doi.org/10.1007/s43681-023-00289-2) and [AI certification](https://doi.org/10.1109/TTS.2021.3077595).
-
-
-## Regulation
-
-Finally, I've done some work on AI regulation. On the theoretical side of things, I contributed to a paper on [frontier AI regulation](https://arxiv.org/abs/2307.03718). I also have a paper on [defining the scope of AI regulations](https://doi.org/10.1080/17579961.2023.2184135) and, as mentioned above, a paper on [risk management in the AI Act](https://doi.org/10.1017/err.2023.1).
-
-On the practical side of things, I was seconded to the UK Cabinet Office to support their work on AI regulation. I mainly gave input on the white paper [A pro-innovation approach to AI regulation](https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach/white-paper).
-
----
-
 ## Work experience
 
 - **Centre for the Governance of AI (GovAI)** • Research Fellow <br>
@@ -90,6 +41,27 @@ On the practical side of things, I was seconded to the UK Cabinet Office to supp
 
 - **University of Zurich** • Economics <br>
 2011–2012
+
+---
+
+## Ongoing research projects
+
+- **How should regulators determine whether a frontier AI model poses unacceptable risks?** (with [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/), [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.
+ 
+- **How to estimate the impact and likelihood of risks from AI** (with [Caroline Baumoehl](https://www.linkedin.com/in/caroline-baumoehl-b9030514b/), [Malcolm Murray](https://www.linkedin.com/in/malcolmmurray/), [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). We make the case for explicit risk estimates, list options, and make recommendations.
+
+- **Defining tolerance levels for risks from AI** (with [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). We propose a framework that decision-makers can use to define tolerance levels for risk estimates.
+
+- **AI risk assessment Delphi study** (with [Malcolm Murray](https://www.linkedin.com/in/malcolmmurray/), [Noemi Dreksler](https://www.linkedin.com/in/noemidreksler/), [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/), [Ben Garfinkel](https://www.governance.ai/team/ben-garfinkel)). We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
+
+- **Passing judgment on responsible scaling policies** (with [Jide Alaga](https://www.governance.ai/team/jide-alaga)). We identify key properties of 
+good RSPs, and propose a grading rubric that can be used to evaluate existing ones.
+
+- **How to assess the effectiveness of safeguards** (with [Patrick Levermore](https://www.linkedin.com/in/patrick-levermore-385395b3/)). We list existing safeguards, and discuss different ways of gathering evidence about their effectiveness.
+
+- **Safety cases for frontier AI** (with Marie Buhl, [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)) We make the case for safety cases, recommend key components, and discuss their relevance for self-governance and regulation.
+
+- **AI board governance: Best practices in risk oversight** (with [John Bridge](https://www.linkedin.com/in/johnmichaelbridge/), [Nikhil Mulani](https://www.linkedin.com/in/nmulani/)). […]
 
 ---
 
