@@ -1,6 +1,5 @@
 ---
 layout: page
-title:
 ---
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
