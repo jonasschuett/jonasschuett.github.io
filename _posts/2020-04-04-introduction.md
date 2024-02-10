@@ -12,7 +12,7 @@ Before joining GovAI, I was seconded to the UK Cabinet Office to support their w
 
 I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
 
-## Work experience
+**Work experience**
 
 - **Centre for the Governance of AI (GovAI)** • Research Fellow <br>
 2022–present
@@ -29,9 +29,7 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a
 - **KPMG Law** • Consultant <br>
 2018–2020
 
----
-
-## Education
+**Education**
 
 - **Goethe University Frankfurt** • PhD, Law <br>
 2018–present
@@ -44,7 +42,9 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a
 
 ---
 
-## Ongoing research projects
+## Research
+
+**Ongoing research projects**
 
 - **How should regulators determine whether a frontier AI model poses unacceptable risks?** (with [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/), [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.
  
@@ -63,9 +63,7 @@ good RSPs, and propose a grading rubric that can be used to evaluate existing on
 
 - **AI board governance: Best practices in risk oversight** (with [John Bridge](https://www.linkedin.com/in/johnmichaelbridge/), [Nikhil Mulani](https://www.linkedin.com/in/nmulani/)). […]
 
----
-
-### Publications
+**Publications**
 
 - **Schuett, J.**, Reuel, A., & Carlier, A. (2024). How to design an AI ethics board. _AI and Ethics_. [https://doi.org/10.1007/s43681-023-00409-y](https://doi.org/10.1007/s43681-023-00409-y)
 
