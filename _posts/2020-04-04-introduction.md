@@ -75,7 +75,7 @@ On the practical side of things, I was seconded to the UK Cabinet Office to supp
 
 ### Publications
 
-- **Schuett, J.**, Reuel, A., & Carlier, A. (2024). How to design an AI ethics board. _AI and Ethics_. [[https://arxiv.org/abs/2304.07249](https://doi.org/10.1007/s43681-023-00409-y)](https://doi.org/10.1007/s43681-023-00409-y)
+- **Schuett, J.**, Reuel, A., & Carlier, A. (2024). How to design an AI ethics board. _AI and Ethics_. [https://doi.org/10.1007/s43681-023-00409-y](https://doi.org/10.1007/s43681-023-00409-y)
 
 - Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E., **Schuett, J.**, Trager, R., Strahm, L., & Chowdhury, R. (2023). _Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework_. arXiv. [https://arxiv.org/abs/2311.14711](https://arxiv.org/abs/2311.14711)
 
