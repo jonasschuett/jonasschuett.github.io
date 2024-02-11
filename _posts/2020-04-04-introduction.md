@@ -14,38 +14,6 @@ I'm currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a
 
 ---
 
-## Work experience
-
-- **Centre for the Governance of AI (GovAI)** • Research Fellow <br>
-2022–present
-
-- **UK Cabinet Office** • Expert Advisor (Artificial Intelligence) <br>
-2022
-
-- **Google DeepMind** • Policy Research and Intelligence Intern <br>
-2021
-
-- **Institute for Law and AI (LawAI)** • Research Fellow <br>
-2020–2022
-
-- **KPMG Law** • Consultant <br>
-2018–2020
-
----
-
-## Education
-
-- **Goethe University Frankfurt** • PhD, Law <br>
-2018–present
-
-- **Heidelberg University** • MJur / First State Exam, Law <br>
-2012–2018
-
-- **University of Zurich** • Economics <br>
-2011–2012
-
----
-
 ## Ongoing research projects
 
 - **How should regulators determine whether a frontier AI model poses unacceptable risks?** (with [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/), [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.
@@ -64,6 +32,8 @@ good RSPs, and propose a grading rubric that can be used to evaluate existing on
 - **Safety cases for frontier AI** (with Marie Buhl, [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)) We make the case for safety cases, recommend key components, and discuss their relevance for self-governance and regulation.
 
 - **AI board governance: Best practices in risk oversight** (with [John Bridge](https://www.linkedin.com/in/johnmichaelbridge/), [Nikhil Mulani](https://www.linkedin.com/in/nmulani/)). First, we give an overview of the board’s responsibility for risk oversight. We explain what fiduciary duties are and how the Delaware Court of Chancery has interpreted these duties in the so-called _Caremark_ cases. Next, we discuss five practices in risk oversight that are implied by _Caremark_ cases. For each of them, we consider instances where the court found that the defendants fell below the _Caremark_ oversight standard, and draw parallels to frontier AI developers. Finally, we consider additional practices that boards might wish to implement, even though they are not directly implied by _Caremark_ cases.
+
+---
 
 ## Publications
 
@@ -96,12 +66,6 @@ good RSPs, and propose a grading rubric that can be used to evaluate existing on
 - Cihon, P., Kleinaltenkamp, M. J., **Schuett, J.**, & Baum, S. D. (2021). AI certification: Advancing ethical practice by reducing information asymmetries. _IEEE Transactions on Technology and Society, 2_(4), 200–209. <https://doi.org/10.1109/TTS.2021.3077595>
 
 - Winter, C., **Schuett, J.**, Martínez, E., Van Arsdale, S., Araújo, R., Hollman, N., Sebo, J., Stawasz, A., O’Keefe, C., & Rotola, G. (2021). Legal priorities research: A research agenda. _Legal Priorities Project_. <https://www.legalpriorities.org/research_agenda.pdf>
-
----
-
-### Personal
-
-I live in Berlin, but come to Oxford every 1-2 months. I’m engaged to my high school sweetheart, and we have the best dog in the world. I’m a big fan of specialty coffee---I've been called a "coffee snob". I’m vegan to avoid unnecessary suffering of animals.
 
 ---
 
