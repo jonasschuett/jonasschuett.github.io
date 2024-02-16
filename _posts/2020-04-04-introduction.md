@@ -4,9 +4,7 @@ layout: page
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
-## About
-
-### AI governance researcher • Policy advisor • Lawyer
+# About
 
 I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. Within the policy team, I lead the workstream on risk management and corporate governance.
 
@@ -18,7 +16,7 @@ I live in Berlin, but come to Oxford every four to six weeks. I‘m also regular
 
 [Twitter](https://twitter.com/jonasschuett) • [LinkedIn](https://www.linkedin.com/in/jonasschuett) • [Email](mailto:jonas.schuett@governance.ai)
 
-## Research
+# Research
 
 My research is aimed at reducing societal risks from AI. I’m particularly concerned about emerging risks from frontier AI models.
 
@@ -90,7 +88,7 @@ Previous research projects:
 
 [Figure]
 
-## Publications
+# Publications
 
 Most of my research gets published in peer-reviewed journals, but I also upload preprints to arXiv. In addition to academic articles, I write policy briefs, typically in response to a request for information.
 
@@ -132,7 +130,7 @@ Most of my research gets published in peer-reviewed journals, but I also upload 
 
 - **Schuett, J.**, & Anderljung, M. (2022). Submission to the NIST AI Risk Management Framework. _Centre for the Governance of AI_. <https://www.governance.ai/research-paper/submission-to-the-nist-ai-risk-management-framework>
 
-## Contact
+# Contact
 Find me on [Twitter](https://twitter.com/jonasschuett) and [LinkedIn](https://www.linkedin.com/in/jonasschuett) or reach out to me at [jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai).
 
 Find my research on [ORCID](https://orcid.org/0000-0001-7154-5049), [Google Scholar](https://scholar.google.com/citations?user=iZXltDgAAAAJ&hl=en&oi=ao), and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3705327).
