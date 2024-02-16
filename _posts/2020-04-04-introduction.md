@@ -31,18 +31,18 @@ It becomes increasingly clear that the development and deployment of frontier AI
 
 Ongoing research projects:
 
-Delphi study
-Risk estimation
-Risk thresholds
-Safeguard assessment
-Passing judgment on RSPs
-RSPs+
+- Delphi study
+- Risk estimation
+- Risk thresholds
+- Safeguard assessment
+- Passing judgment on RSPs
+- RSPs+
 
 Previous research projects:
 
-**Risk management in the AI Act.** The EU AI Act is the most comprehensive attempt to regulate AI in a major jurisdiction. In this article, I conduct a legal analysis of Art. 9, the key risk management provision.
+- **Risk management in the AI Act.** The EU AI Act is the most comprehensive attempt to regulate AI in a major jurisdiction. In this article, I conduct a legal analysis of Art. 9, the key risk management provision.
 
-**Risk assessments at AGI companies** (with Leonie Koessler). We review popular risk assessment techniques from other industries and discuss how companies that have the stated goal of build AGI could use them.
+- **Risk assessments at AGI companies** (with Leonie Koessler). We review popular risk assessment techniques from other industries and discuss how companies that have the stated goal of build AGI could use them.
 
 [Figure]
 
@@ -50,15 +50,15 @@ Previous research projects:
 
 Although self-governance plays an important role in reducing emerging risks from AI, we will eventually need frontier AI regulation. I‘m working on several research projects intended to inform the design of a regulatory regime for frontier AI models, especially in the UK and US.
 
-Ongoing research projects:
-Rules-based vs. outcomes-based
-Safety case
+- Ongoing research projects:
+- Rules-based vs. outcomes-based
+- Safety case
 
 Previous research projects:
 
-**Frontier AI regulation** (with Markus Anderljung and others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models.
+- **Frontier AI regulation** (with Markus Anderljung and others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models.
 
-**Defining the scope of AI regulations.** In this article, I argue that the material scope of AI regulation should not rely on the term AI. Instead, policy makers should take a risk-based approach. They should identify the features of AI systems that drive key risks, and then define these features. These features might be related to the system’s design, application, or capabilities.
+- **Defining the scope of AI regulations.** In this article, I argue that the material scope of AI regulation should not rely on the term AI. Instead, policy makers should take a risk-based approach. They should identify the features of AI systems that drive key risks, and then define these features. These features might be related to the system’s design, application, or capabilities.
 
 [Figure]
 
@@ -67,15 +67,15 @@ Previous research projects:
 As frontier AI developers transition from startups to more mature companies, they need to improve their corporate governance. I‘m particularly interested in ways to improve their risk governance.
 
 Ongoing research projects:
-Board governance
+- Board governance
 
 Previous research projects:
 
-**How to design an AI ethics board** (with Anka Reuel and Alexis Carlier). We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI.
+- **How to design an AI ethics board** (with Anka Reuel and Alexis Carlier). We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI.
 
-3LoD
-Internal audit
-Corporate governance
+- 3LoD
+- Internal audit
+- Corporate governance
 
 [Figure]
 
@@ -84,9 +84,9 @@ Corporate governance
 The development and deployment of frontier AI models has significant effects on society. Key governance decisions should therefore not be left to the developers; society needs to have a say. At the minimum, society needs to be informed. A common way to gather information about a model and the governance of its developers is auditing.
 
 Previous research projects:
-Auditing LLMs
-External scrutiny
-AI certification
+- Auditing LLMs
+- External scrutiny
+- AI certification
 
 [Figure]
 
