@@ -4,7 +4,7 @@ layout: page
 
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
-# About
+## AI governance researcher • Policy advisor • Lawyer
 
 I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. Within the policy team, I lead the workstream on risk management and corporate governance.
 
@@ -18,7 +18,7 @@ I live in Berlin, but come to Oxford every four to six weeks. I‘m also regular
 
 ---
 
-# Research
+## Research
 
 My research is aimed at reducing societal risks from AI. I’m particularly concerned about emerging risks from frontier AI models.
 
@@ -92,9 +92,9 @@ Previous research projects:
 
 ---
 
-# Publications
+## Publications
 
-Most of my research gets published in peer-reviewed journals, but I also upload preprints to arXiv. In addition to academic articles, I write policy briefs, typically in response to a request for information.
+I mostly publish in peer-reviewed journals, but I also upload preprints to arXiv. In addition to academic articles, I write policy briefs, typically in response to a request for information.
 
 ### Research
 - **Schuett, J.**, Reuel, A., & Carlier, A. (2024). How to design an AI ethics board. _AI and Ethics_. <https://doi.org/10.1007/s43681-023-00409-y>
@@ -136,7 +136,7 @@ Most of my research gets published in peer-reviewed journals, but I also upload 
 
 ---
 
-# Contact
+## Contact
 Find me on [Twitter](https://twitter.com/jonasschuett) and [LinkedIn](https://www.linkedin.com/in/jonasschuett) or reach out to me at [jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai).
 
 Find my research on [ORCID](https://orcid.org/0000-0001-7154-5049), [Google Scholar](https://scholar.google.com/citations?user=iZXltDgAAAAJ&hl=en&oi=ao), and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3705327).
