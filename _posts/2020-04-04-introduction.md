@@ -2,7 +2,6 @@
 layout: page
 ---
 
----
 ![Jonas Schuett](/jonasschuett.jpg "Jonas Schuett")
 
 # About
