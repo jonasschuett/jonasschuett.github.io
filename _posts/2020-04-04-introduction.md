@@ -16,6 +16,8 @@ I live in Berlin, but come to Oxford every four to six weeks. I‘m also regular
 
 [Twitter](https://twitter.com/jonasschuett) • [LinkedIn](https://www.linkedin.com/in/jonasschuett) • [Email](mailto:jonas.schuett@governance.ai)
 
+---
+
 # Research
 
 My research is aimed at reducing societal risks from AI. I’m particularly concerned about emerging risks from frontier AI models.
@@ -88,6 +90,8 @@ Previous research projects:
 
 [Figure]
 
+---
+
 # Publications
 
 Most of my research gets published in peer-reviewed journals, but I also upload preprints to arXiv. In addition to academic articles, I write policy briefs, typically in response to a request for information.
@@ -129,6 +133,8 @@ Most of my research gets published in peer-reviewed journals, but I also upload 
 - Smith, E. T., **Schuett, J.**, Anderljung, M., & Heim, L. (2023). Response to the NTIA AI accountability policy request for comment. _Centre for the Governance of AI_. <https://www.governance.ai/research-paper/response-to-the-ntia-ai-accountability-policy>
 
 - **Schuett, J.**, & Anderljung, M. (2022). Submission to the NIST AI Risk Management Framework. _Centre for the Governance of AI_. <https://www.governance.ai/research-paper/submission-to-the-nist-ai-risk-management-framework>
+
+---
 
 # Contact
 Find me on [Twitter](https://twitter.com/jonasschuett) and [LinkedIn](https://www.linkedin.com/in/jonasschuett) or reach out to me at [jonas.schuett@governance.ai](mailto:jonas.schuett@governance.ai).
