@@ -8,7 +8,7 @@ layout: page
 
 I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. Within the policy team, I lead the workstream on risk management and corporate governance.
 
-Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s public policy team. I also helped found the [Institute for Law and AI (LawAI](https://law-ai.org/), where I'm still a board member.
+Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s public policy team. I also helped found the [Institute for Law and AI (LawAI)](https://law-ai.org/), where I'm still a board member.
 
 I’m currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University, and have studied economics at the University of Zurich.
 
@@ -92,11 +92,10 @@ Previous research projects:
 
 ---
 
-## Publications
+## Research
 
-I mostly publish in peer-reviewed journals, but I also upload preprints to arXiv. In addition to academic articles, I write policy briefs, typically in response to a request for information.
+I mostly publish in peer-reviewed journals, but I also upload preprints to arXiv.
 
-### Research
 - **Schuett, J.**, Reuel, A., & Carlier, A. (2024). How to design an AI ethics board. _AI and Ethics_. <https://doi.org/10.1007/s43681-023-00409-y>
 
 - Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E., **Schuett, J.**, Trager, R., Strahm, L., & Chowdhury, R. (2023). _Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework_. arXiv. <https://arxiv.org/abs/2311.14711>
@@ -125,7 +124,12 @@ I mostly publish in peer-reviewed journals, but I also upload preprints to arXiv
 
 - Cihon, P., Kleinaltenkamp, M. J., **Schuett, J.**, & Baum, S. D. (2021). AI certification: Advancing ethical practice by reducing information asymmetries. _IEEE Transactions on Technology and Society, 2_(4), 200–209. <https://doi.org/10.1109/TTS.2021.3077595>
 
-### Policy briefs
+---
+
+## Policy briefs
+
+ In addition to academic articles, I write policy briefs, typically in response to a request for information.
+ 
 - **Schuett, J.**, Koessler, L., & Anderljung, M. (2024). Response to the RFI related to NIST's assignments under the Executive Order concerning AI. _Centre for the Governance of AI_. <https://www.governance.ai/research-paper/response-to-the-rfi-related-to-nists-assignments-under-the-executive-order-concerning-ai>
 
 - **Schuett, J.**, Anderljung, M., Heim, H., & Seger, E. (2023). National priorities for artificial intelligence: Response to the OSTP request for information. _Centre for the Governance of AI_. <https://www.governance.ai/research-paper/national-priorities-for-artificial-intelligence-ostp-response>
