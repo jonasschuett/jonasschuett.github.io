@@ -85,7 +85,7 @@ Previous research projects:
 
 - **Corporate governance of AI in the public interest** (with Peter Cihon and Seth Baum). […] [[Read](https://doi.org/10.3390/info12070275)]
 
-[Figure]
+![Corporate governance](/corporate_governance.png)
 
 ### Auditing
 
