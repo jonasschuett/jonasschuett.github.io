@@ -31,15 +31,15 @@ It becomes increasingly clear that the development and deployment of frontier AI
 
 Ongoing research projects:
 
-- **AI risk assessment Delphi study** (with *Malcolm Murray*, *Noemi Dreksler*, *Markus Anderljung*, and *Ben Garfinkel*). We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
+- **AI risk assessment Delphi study** (with Malcolm Murray, Noemi Dreksler, Markus Anderljung, and Ben Garfinkel). We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
 
-- **How to estimate the impact and likelihood of risks from AI** (with *Caroline Baumoehl*, *Malcolm Murray*, and *Leonie Koessler*). We make the case for explicit risk estimates, list options, and make recommendations.
+- **How to estimate the impact and likelihood of risks from AI** (with Caroline Baumoehl, Malcolm Murray, and Leonie Koessler). We make the case for explicit risk estimates, list options, and make recommendations.
 
-- **Defining tolerance levels for risks from AI** (with *Leonie Koessler*). We propose a framework that decision-makers can use to define tolerance levels for risk estimates.
+- **Defining tolerance levels for risks from AI** (with Leonie Koessler). We propose a framework that decision-makers can use to define tolerance levels for risk estimates.
 
-- **How to assess the effectiveness of safeguards** (with *Patrick Levermore*). We list existing safeguards, and discuss different ways of gathering evidence about their effectiveness.
+- **How to assess the effectiveness of safeguards** (with Patrick Levermore). We list existing safeguards, and discuss different ways of gathering evidence about their effectiveness.
 
-- **Passing judgment on responsible scaling policies** (with *Jide Alaga*). We identify key properties of  good RSPs, and propose a grading rubric that can be used to evaluate existing ones.
+- **Passing judgment on responsible scaling policies** (with Jide Alaga). We identify key properties of  good RSPs, and propose a grading rubric that can be used to evaluate existing ones.
 
 Previous research projects:
 
