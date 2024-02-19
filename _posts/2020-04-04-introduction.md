@@ -93,9 +93,9 @@ The development and deployment of frontier AI models has significant effects on 
 
 Previous research projects:
 
-- **Auditing large language models: A three-layered approach** (with ). […] [[Read](https://doi.org/10.1007/s43681-023-00289-2)]
+- **Auditing large language models: A three-layered approach** (with [Jakob Mökander](https://www.linkedin.com/in/jakob-mokander/), [Hannah Kirk](https://www.linkedin.com/in/hannah-rose-kirk/), and [Luciano Floridi](https://www.linkedin.com/in/luciano-floridi/)). […] [[Read](https://doi.org/10.1007/s43681-023-00289-2)]
 
-- **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** (with Markus Anderljung and others). […] [[Read](https://arxiv.org/abs/2311.14711)]
+- **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** (with [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/) and others). […] [[Read](https://arxiv.org/abs/2311.14711)]
 
 - **AI certification: Advancing ethical practice by reducing information asymmetries** (with [Peter Cihon](https://www.linkedin.com/in/pcihon/), [Moritz Kleinaltenkamp](https://www.linkedin.com/in/mjkla/), and [Seth Baum](https://www.linkedin.com/in/sethdbaum/)). […] [[Read](https://doi.org/10.1109/TTS.2021.3077595)]
 
