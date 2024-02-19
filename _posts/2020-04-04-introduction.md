@@ -92,7 +92,7 @@ Previous research projects:
 
 ---
 
-## Research
+## Publications
 
 - **Schuett, J.**, Reuel, A., & Carlier, A. (2024). How to design an AI ethics board. _AI and Ethics_. <https://doi.org/10.1007/s43681-023-00409-y>
 
