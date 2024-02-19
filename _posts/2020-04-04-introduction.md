@@ -112,7 +112,7 @@ Previous research projects:
 
 - **Schuett, J.**, Dreksler, N., Anderljung, M., McCaffary, D., Heim, L., Bluemke, E., & Garfinkel, B. (2023). _Towards best practices in AGI safety and governance: A survey of expert opinion_. arXiv. <https://arxiv.org/abs/2305.07153>
 
-- **Schuett, J.** (2023). Defining the scope of AI regulations. _Law, Innovation and Technology, 15_(1), 60–82. <https://doi.org/10.1080/17579961.2023.2184135>
+- **Schuett, J.** (2023). Defining the scope of AI regulations. _Law, Innovation and Technology, 15_(1), 60–82. [https://doi.org/10.1080/17579961-2023-2184135](https://doi.org/10.1080/17579961.2023.2184135)
 
 - Mökander, J., **Schuett, J.**, Kirk, H. R., & Floridi, L. (2023). Auditing large language models: A three-layered approach. _AI and Ethics_. <https://doi.org/10.1007/s43681-023-00289-2>
 
