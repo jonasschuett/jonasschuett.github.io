@@ -43,9 +43,9 @@ Ongoing research projects:
 
 Previous research projects:
 
-- **Risk management in the AI Act.** The EU AI Act is the most comprehensive attempt to regulate AI in a major jurisdiction. In this article, I conduct a legal analysis of Art. 9, the key risk management provision. [Read →](https://doi.org/10.1017/err.2023.1)
+- **Risk management in the AI Act.** The EU AI Act is the most comprehensive attempt to regulate AI in a major jurisdiction. In this article, I conduct a legal analysis of Art. 9, the key risk management provision. [[Read](https://doi.org/10.1017/err.2023.1)]
 
-- **Risk assessments at AGI companies** (with [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). We review popular risk assessment techniques from other industries and discuss how companies that have the stated goal of build AGI could use them. [Read →](https://arxiv.org/abs/2307.08823)
+- **Risk assessments at AGI companies** (with [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). We review popular risk assessment techniques from other industries and discuss how companies that have the stated goal of build AGI could use them. [[Read](https://arxiv.org/abs/2307.08823)]
 
 ![Risk Management](/risk_management.jpg "Risk Management")
 
@@ -61,9 +61,9 @@ Ongoing research projects:
 
 Previous research projects:
 
-- **[Frontier AI regulation: Managing emerging risks to public safety](https://arxiv.org/abs/2307.03718)** (with [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/) and many others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models.
+- **Frontier AI regulation: Managing emerging risks to public safety** (with [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/) and others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models. [[Read](https://arxiv.org/abs/2307.03718)]
 
-- **[Defining the scope of AI regulations](https://doi.org/10.1080/17579961.2023.2184135).** In this article, I argue that the material scope of AI regulation should not rely on the term AI. Instead, policy makers should take a risk-based approach. They should identify the features of AI systems that drive key risks, and then define these features. These features might be related to the system’s design, application, or capabilities.
+- **Defining the scope of AI regulations.** In this article, I argue that the material scope of AI regulation should not rely on the term AI. Instead, policy makers should take a risk-based approach. They should identify the features of AI systems that drive key risks, and then define these features. These features might be related to the system’s design, application, or capabilities. [[DRead](https://doi.org/10.1080/17579961.2023.2184135)]
 
 [Figure]
 
@@ -77,13 +77,13 @@ Ongoing research projects:
 
 Previous research projects:
 
-- **[How to design an AI ethics board](https://doi.org/10.1007/s43681-023-00409-y)** (with [Anka Reuel](https://www.linkedin.com/in/ankareuel/) and [Alexis Carlier](https://www.linkedin.com/in/alexis-carlier-995367170/)). We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI.
+- **How to design an AI ethics board** (with [Anka Reuel](https://www.linkedin.com/in/ankareuel/) and [Alexis Carlier](https://www.linkedin.com/in/alexis-carlier-995367170/)). We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI. [[Read](https://doi.org/10.1007/s43681-023-00409-y)]
 
-- **[Three lines of defense against risks from AI](https://doi.org/10.1007/s00146-023-01811-0).** […]
+- **Three lines of defense against risks from AI.** […] [[Read](https://doi.org/10.1007/s00146-023-01811-0)]
 
-- **[Frontier AI developers need an internal audit function](https://arxiv.org/abs/2305.17038).** […]
+- **Frontier AI developers need an internal audit function.** […] [[Read](https://arxiv.org/abs/2305.17038)]
 
-- **[Corporate governance of AI in the public interest](https://doi.org/10.3390/info12070275)** (with [Peter Cihon](https://www.linkedin.com/in/pcihon/) and [Seth Baum](https://www.linkedin.com/in/sethdbaum/)). […]
+- **Corporate governance of AI in the public interest** (with [Peter Cihon](https://www.linkedin.com/in/pcihon/) and [Seth Baum](https://www.linkedin.com/in/sethdbaum/)). […] [[Read](https://doi.org/10.3390/info12070275)]
 
 [Figure]
 
@@ -92,9 +92,12 @@ Previous research projects:
 The development and deployment of frontier AI models has significant effects on society. Key governance decisions should therefore not be left to the developers; society needs to have a say. At the minimum, society needs to be informed. A common way to gather information about a model and the governance of its developers is auditing.
 
 Previous research projects:
-- Auditing LLMs
-- External scrutiny
-- AI certification
+
+- **Auditing large language models: A three-layered approach** (with ). […] [[Read](https://doi.org/10.1007/s43681-023-00289-2)]
+
+- **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** (with Markus Anderljung and others). […] [[Read](https://arxiv.org/abs/2311.14711)]
+
+- **AI certification: Advancing ethical practice by reducing information asymmetries** (with [Peter Cihon](https://www.linkedin.com/in/pcihon/), [Moritz Kleinaltenkamp](https://www.linkedin.com/in/mjkla/), and [Seth Baum](https://www.linkedin.com/in/sethdbaum/)). […] [[Read](https://doi.org/10.1109/TTS.2021.3077595)]
 
 [Figure]
 
