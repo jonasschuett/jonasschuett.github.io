@@ -63,7 +63,7 @@ Previous research projects:
 
 - **Frontier AI regulation: Managing emerging risks to public safety** (with [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/) and others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models. [[Read](https://arxiv.org/abs/2307.03718)]
 
-- **Defining the scope of AI regulations.** In this article, I argue that the material scope of AI regulation should not rely on the term AI. Instead, policy makers should take a risk-based approach. They should identify the features of AI systems that drive key risks, and then define these features. These features might be related to the system’s design, application, or capabilities. [[DRead](https://doi.org/10.1080/17579961.2023.2184135)]
+- **Defining the scope of AI regulations.** In this article, I argue that the material scope of AI regulation should not rely on the term AI. Instead, policy makers should take a risk-based approach. They should identify the features of AI systems that drive key risks, and then define these features. These features might be related to the system’s design, application, or capabilities. [[Read](https://doi.org/10.1080/17579961.2023.2184135)]
 
 [Figure]
 
