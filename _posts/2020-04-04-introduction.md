@@ -31,9 +31,9 @@ It becomes increasingly clear that the development and deployment of frontier AI
 
 Ongoing research projects:
 
-- **AI risk assessment Delphi study** (with [Malcolm Murray](https://www.linkedin.com/in/malcolmmurray/), [Noemi Dreksler](https://www.linkedin.com/in/noemidreksler/), [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/), [Ben Garfinkel](https://www.governance.ai/team/ben-garfinkel)). We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
+- **AI risk assessment Delphi study** (with [Malcolm Murray](https://www.linkedin.com/in/malcolmmurray/), [Noemi Dreksler](https://www.linkedin.com/in/noemidreksler/), [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/), and [Ben Garfinkel](https://www.governance.ai/team/ben-garfinkel)). We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
 
-- **How to estimate the impact and likelihood of risks from AI** (with [Caroline Baumoehl](https://www.linkedin.com/in/caroline-baumoehl-b9030514b/), [Malcolm Murray](https://www.linkedin.com/in/malcolmmurray/), [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). We make the case for explicit risk estimates, list options, and make recommendations.
+- **How to estimate the impact and likelihood of risks from AI** (with [Caroline Baumoehl](https://www.linkedin.com/in/caroline-baumoehl-b9030514b/), [Malcolm Murray](https://www.linkedin.com/in/malcolmmurray/), and [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). We make the case for explicit risk estimates, list options, and make recommendations.
 
 - **Defining tolerance levels for risks from AI** (with [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). We propose a framework that decision-makers can use to define tolerance levels for risk estimates.
 
@@ -47,7 +47,7 @@ Previous research projects:
 
 - **[Risk management in the AI Act](https://doi.org/10.1017/err.2023.1).** The EU AI Act is the most comprehensive attempt to regulate AI in a major jurisdiction. In this article, I conduct a legal analysis of Art. 9, the key risk management provision.
 
-- **[Risk assessments at AGI companies](https://arxiv.org/abs/2307.08823)** (with Leonie Koessler). We review popular risk assessment techniques from other industries and discuss how companies that have the stated goal of build AGI could use them.
+- **[Risk assessments at AGI companies](https://arxiv.org/abs/2307.08823)** (with [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). We review popular risk assessment techniques from other industries and discuss how companies that have the stated goal of build AGI could use them.
 
 ![Risk Management](/risk_management.jpg "Risk Management")
 
@@ -63,7 +63,7 @@ Ongoing research projects:
 
 Previous research projects:
 
-- **[Frontier AI regulation: Managing emerging risks to public safety](https://arxiv.org/abs/2307.03718)** (with Markus Anderljung and others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models.
+- **[Frontier AI regulation: Managing emerging risks to public safety](https://arxiv.org/abs/2307.03718)** (with [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/) and many others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models.
 
 - **[Defining the scope of AI regulations](https://doi.org/10.1080/17579961.2023.2184135).** In this article, I argue that the material scope of AI regulation should not rely on the term AI. Instead, policy makers should take a risk-based approach. They should identify the features of AI systems that drive key risks, and then define these features. These features might be related to the system’s design, application, or capabilities.
 
@@ -75,17 +75,17 @@ As frontier AI developers transition from startups to more mature companies, the
 
 Ongoing research projects:
 
-- **AI board governance: Best practices in risk oversight** (with [John Bridge](https://www.linkedin.com/in/johnmichaelbridge/), [Nikhil Mulani](https://www.linkedin.com/in/nmulani/)). First, we give an overview of the board’s responsibility for risk oversight. We explain what fiduciary duties are and how the Delaware Court of Chancery has interpreted these duties in the so-called _Caremark_ cases. Next, we discuss five practices in risk oversight that are implied by _Caremark_ cases. For each of them, we consider instances where the court found that the defendants fell below the _Caremark_ oversight standard, and draw parallels to frontier AI developers. Finally, we consider additional practices that boards might wish to implement, even though they are not directly implied by _Caremark_ cases.
+- **AI board governance: Best practices in risk oversight** (with [John Bridge](https://www.linkedin.com/in/johnmichaelbridge/) and [Nikhil Mulani](https://www.linkedin.com/in/nmulani/)). First, we give an overview of the board’s responsibility for risk oversight. We explain what fiduciary duties are and how the Delaware Court of Chancery has interpreted these duties in the so-called _Caremark_ cases. Next, we discuss five practices in risk oversight that are implied by _Caremark_ cases. For each of them, we consider instances where the court found that the defendants fell below the _Caremark_ oversight standard, and draw parallels to frontier AI developers. Finally, we consider additional practices that boards might wish to implement, even though they are not directly implied by _Caremark_ cases.
 
 Previous research projects:
 
-- **[How to design an AI ethics board](https://doi.org/10.1007/s43681-023-00409-y)** (with Anka Reuel and Alexis Carlier). We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI.
+- **[How to design an AI ethics board](https://doi.org/10.1007/s43681-023-00409-y)** (with [Anka Reuel](https://www.linkedin.com/in/ankareuel/) and [Alexis Carlier](https://www.linkedin.com/in/alexis-carlier-995367170/)). We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI.
 
 - **[Three lines of defense against risks from AI](https://doi.org/10.1007/s00146-023-01811-0).** […]
 
 - **[Frontier AI developers need an internal audit function](https://arxiv.org/abs/2305.17038).** […]
 
-- **[Corporate governance of AI in the public interest](https://doi.org/10.3390/info12070275) (with Peter Cihon and Seth Baum).** […]
+- **[Corporate governance of AI in the public interest](https://doi.org/10.3390/info12070275)** (with [Peter Cihon](https://www.linkedin.com/in/pcihon/) and [Seth Baum](https://www.linkedin.com/in/sethdbaum/)). […]
 
 [Figure]
 
