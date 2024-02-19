@@ -43,7 +43,7 @@ Ongoing research projects:
 
 Previous research projects:
 
-- **Risk management in the AI Act.** The EU AI Act is the most comprehensive attempt to regulate AI in a major jurisdiction. In this article, I conduct a legal analysis of Art. 9, the key risk management provision. [[Read](https://doi.org/10.1017/err.2023.1)]
+- **Risk management in the AI Act.** The EU AI Act is the most comprehensive attempt to regulate AI in a major jurisdiction. In this article, I conduct a legal analysis of Art. 9, the key risk management provision. [<img src="fa-crown.svg" width="50" height="50">[Read](https://doi.org/10.1017/err.2023.1)]
 
 - **Risk assessments at AGI companies** (with [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)). We review popular risk assessment techniques from other industries and discuss how companies that have the stated goal of build AGI could use them. [[Read](https://arxiv.org/abs/2307.08823)]
 
