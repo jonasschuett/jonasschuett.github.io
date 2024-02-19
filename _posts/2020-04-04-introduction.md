@@ -63,9 +63,9 @@ Ongoing research projects:
 
 Previous research projects:
 
-- **Frontier AI regulation** (with Markus Anderljung and others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models.
+- **[Frontier AI regulation: Managing emerging risks to public safety](https://arxiv.org/abs/2307.03718)** (with Markus Anderljung and others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models.
 
-- **Defining the scope of AI regulations.** In this article, I argue that the material scope of AI regulation should not rely on the term AI. Instead, policy makers should take a risk-based approach. They should identify the features of AI systems that drive key risks, and then define these features. These features might be related to the system’s design, application, or capabilities.
+- **[Defining the scope of AI regulations](https://doi.org/10.1080/17579961.2023.2184135).** In this article, I argue that the material scope of AI regulation should not rely on the term AI. Instead, policy makers should take a risk-based approach. They should identify the features of AI systems that drive key risks, and then define these features. These features might be related to the system’s design, application, or capabilities.
 
 [Figure]
 
@@ -79,11 +79,13 @@ Ongoing research projects:
 
 Previous research projects:
 
-- **How to design an AI ethics board** (with Anka Reuel and Alexis Carlier). We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI.
+- **[How to design an AI ethics board](https://doi.org/10.1007/s43681-023-00409-y)** (with Anka Reuel and Alexis Carlier). We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI.
 
-- 3LoD
-- Internal audit
-- Corporate governance
+- **[Three lines of defense against risks from AI](https://doi.org/10.1007/s00146-023-01811-0).** […]
+
+- **[Frontier AI developers need an internal audit function](https://arxiv.org/abs/2305.17038).** […]
+
+- **[Corporate governance of AI in the public interest](https://doi.org/10.3390/info12070275) (with Peter Cihon and Seth Baum).** […]
 
 [Figure]
 
