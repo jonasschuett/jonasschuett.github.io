@@ -44,7 +44,7 @@ Previous research projects:
 
 - **Risk assessments at AGI companies** (with Leonie Koessler). We review popular risk assessment techniques from other industries and discuss how companies that have the stated goal of build AGI could use them.
 
-[Figure]
+![Risk Management](/risk_management.jpg "Risk Management")
 
 ### Regulation
 
@@ -94,8 +94,6 @@ Previous research projects:
 
 ## Research
 
-I mostly publish in peer-reviewed journals, but I also upload preprints to arXiv.
-
 - **Schuett, J.**, Reuel, A., & Carlier, A. (2024). How to design an AI ethics board. _AI and Ethics_. <https://doi.org/10.1007/s43681-023-00409-y>
 
 - Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E., **Schuett, J.**, Trager, R., Strahm, L., & Chowdhury, R. (2023). _Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework_. arXiv. <https://arxiv.org/abs/2311.14711>
@@ -127,8 +125,6 @@ I mostly publish in peer-reviewed journals, but I also upload preprints to arXiv
 ---
 
 ## Policy briefs
-
- In addition to academic articles, I write policy briefs, typically in response to a request for information.
  
 - **Schuett, J.**, Koessler, L., & Anderljung, M. (2024). Response to the RFI related to NIST's assignments under the Executive Order concerning AI. _Centre for the Governance of AI_. <https://www.governance.ai/research-paper/response-to-the-rfi-related-to-nists-assignments-under-the-executive-order-concerning-ai>
 
