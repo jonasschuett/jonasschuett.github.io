@@ -41,8 +41,6 @@ Ongoing research projects:
 
 - **Passing judgment on responsible scaling policies** (with [Jide Alaga](https://www.governance.ai/team/jide-alaga)). We identify key properties of  good RSPs, and propose a grading rubric that can be used to evaluate existing ones.
 
-- RSP+
-
 Previous research projects:
 
 - **[Risk management in the AI Act](https://doi.org/10.1017/err.2023.1).** The EU AI Act is the most comprehensive attempt to regulate AI in a major jurisdiction. In this article, I conduct a legal analysis of Art. 9, the key risk management provision.
@@ -59,7 +57,7 @@ Ongoing research projects:
 
 - **How should regulators determine whether a frontier AI model poses unacceptable risks?** (with [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/), [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/), and [Ben Garfinkel](https://www.governance.ai/team/ben-garfinkel)). Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.
 
-- **Safety cases for frontier AI** (with Marie Buhl, [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/)) We make the case for safety cases, recommend key components, and discuss their relevance for self-governance and regulation.
+- **Safety cases for frontier AI** (with [Marie Buhl](https://www.linkedin.com/in/marie-buhl-38a5031b5/), [Leonie Koessler](https://www.linkedin.com/in/leonie-koessler-ll-m-kcl-85b71814a/), and [Markus Anderljung](https://www.linkedin.com/in/markus-anderljung-21369974/)). We make the case for safety cases, recommend key components, and discuss their relevance for self-governance and regulation.
 
 Previous research projects:
 
