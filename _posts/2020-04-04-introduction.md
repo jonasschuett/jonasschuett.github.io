@@ -47,7 +47,7 @@ Previous research projects:
 
 - **Risk assessments at AGI companies** (with Leonie Koessler). We review popular risk assessment techniques from other industries and discuss how companies that have the stated goal of build AGI could use them. [[Read](https://arxiv.org/abs/2307.08823)]
 
-![Risk Management](/risk_management.jpg "Risk Management")
+![Risk management](/risk_management.png)
 
 ### Regulation
 
@@ -65,7 +65,7 @@ Previous research projects:
 
 - **Defining the scope of AI regulations.** In this article, I argue that the material scope of AI regulation should not rely on the term AI. Instead, policy makers should take a risk-based approach. They should identify the features of AI systems that drive key risks, and then define these features. These features might be related to the system’s design, application, or capabilities. [[Read](https://doi.org/10.1080/17579961.2023.2184135)]
 
-[Figure]
+![Regulation](/regulation.png)
 
 ### Corporate governance
 
@@ -99,7 +99,7 @@ Previous research projects:
 
 - **AI certification: Advancing ethical practice by reducing information asymmetries** (with Peter Cihon, Moritz Kleinaltenkamp, and Seth Baum). […] [[Read](https://doi.org/10.1109/TTS.2021.3077595)]
 
-[Figure]
+![Auditing](/auditing.png)
 
 ---
 
