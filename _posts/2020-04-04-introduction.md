@@ -102,25 +102,25 @@ Previous research projects:
 
 ## Publications
 
-- **Schuett, J.**, Reuel, A., & Carlier, A. (2024). How to design an AI ethics board. _AI and Ethics_. <https://doi.org/10.1007/s43681-023-00409-y>
+**Schuett, J.**, Reuel, A., & Carlier, A. (2024). How to design an AI ethics board. _AI and Ethics_. <https://doi.org/10.1007/s43681-023-00409-y>
 
-- Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E., **Schuett, J.**, Trager, R., Strahm, L., & Chowdhury, R. (2023). _Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework_. arXiv. <https://arxiv.org/abs/2311.14711>
+Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E., **Schuett, J.**, Trager, R., Strahm, L., & Chowdhury, R. (2023). _Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework_. arXiv. <https://arxiv.org/abs/2311.14711>
 
-- **Schuett, J.** (2023). Three lines of defense against risks from AI. _AI & Society_. <https://doi.org/10.1007/s00146-023-01811-0>
+**Schuett, J.** (2023). Three lines of defense against risks from AI. _AI & Society_. <https://doi.org/10.1007/s00146-023-01811-0>
 
-- Alaga, J., & **Schuett, J.** (2023). _Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers_. arXiv. <https://arxiv.org/abs/2310.00374>
+Alaga, J., & **Schuett, J.** (2023). _Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers_. arXiv. <https://arxiv.org/abs/2310.00374>
 
-- Seger, E., Dreksler, N., Moulange, R., Dardaman, E., **Schuett, J.**, Wei, K., Winter, C., Arnold, M., ÓhÉigeartaigh, S., Korinek, A., Anderljung, M., Bucknall, B., Chan, A., Stafford, E., Koessler, L., Ovadya, A., Garfinkel, B., Bluemke, E., Aird, M., Levermore, P., Hazell, J., & Gupta, A. (2023). _Open-sourcing highly capable foundation models: An evaluation of risks, benefits, and alternative methods for pursuing open-source objectives_. arXiv. <https://arxiv.org/abs/2311.09227>
+Seger, E., Dreksler, N., Moulange, R., Dardaman, E., **Schuett, J.**, Wei, K., Winter, C., Arnold, M., ÓhÉigeartaigh, S., Korinek, A., Anderljung, M., Bucknall, B., Chan, A., Stafford, E., Koessler, L., Ovadya, A., Garfinkel, B., Bluemke, E., Aird, M., Levermore, P., Hazell, J., & Gupta, A. (2023). _Open-sourcing highly capable foundation models: An evaluation of risks, benefits, and alternative methods for pursuing open-source objectives_. arXiv. <https://arxiv.org/abs/2311.09227>
 
-- Koessler, L., & **Schuett, J.** (2023). _Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries_. arXiv. <https://arxiv.org/abs/2307.08823>
+Koessler, L., & **Schuett, J.** (2023). _Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries_. arXiv. <https://arxiv.org/abs/2307.08823>
 
-- Anderljung, M., Barnhart, J., Korinek, A., Leung, J., O’Keefe, C., Whittlestone, J., Avin, S., Brundage, M., Bullock, J., Cass-Beggs, D., Chang, B., Collins, T., Fist, F., Hadfield, G., Hayes, A., Ho, L., Hooker, S., Horvitz, E., Kolt, N., **Schuett, J.**, Shavit, Y., Siddarth, D., Trager, R., & Wolf, K. (2023). _Frontier AI regulation: Managing emerging risks to public safety_. arXiv. <https://arxiv.org/abs/2307.03718>
+Anderljung, M., Barnhart, J., Korinek, A., Leung, J., O’Keefe, C., Whittlestone, J., Avin, S., Brundage, M., Bullock, J., Cass-Beggs, D., Chang, B., Collins, T., Fist, F., Hadfield, G., Hayes, A., Ho, L., Hooker, S., Horvitz, E., Kolt, N., **Schuett, J.**, Shavit, Y., Siddarth, D., Trager, R., & Wolf, K. (2023). _Frontier AI regulation: Managing emerging risks to public safety_. arXiv. <https://arxiv.org/abs/2307.03718>
 
-- **Schuett, J.** (2023). _AGI labs need an internal audit function_. arXiv. <https://arxiv.org/abs/2305.17038>
+**Schuett, J.** (2023). _AGI labs need an internal audit function_. arXiv. <https://arxiv.org/abs/2305.17038>
 
-- **Schuett, J.**, Dreksler, N., Anderljung, M., McCaffary, D., Heim, L., Bluemke, E., & Garfinkel, B. (2023). _Towards best practices in AGI safety and governance: A survey of expert opinion_. arXiv. <https://arxiv.org/abs/2305.07153>
+**Schuett, J.**, Dreksler, N., Anderljung, M., McCaffary, D., Heim, L., Bluemke, E., & Garfinkel, B. (2023). _Towards best practices in AGI safety and governance: A survey of expert opinion_. arXiv. <https://arxiv.org/abs/2305.07153>
 
-- **Schuett, J.** (2023). Defining the scope of AI regulations. _Law, Innovation and Technology, 15_(1), 60–82. [https://doi.org/10.1080/17579961-2023-2184135](https://doi.org/10.1080/17579961.2023.2184135)
+**Schuett, J.** (2023). Defining the scope of AI regulations. _Law, Innovation and Technology, 15_(1), 60–82. [https://doi.org/10.1080/17579961-2023-2184135](https://doi.org/10.1080/17579961.2023.2184135)
 
 - Mökander, J., **Schuett, J.**, Kirk, H. R., & Floridi, L. (2023). Auditing large language models: A three-layered approach. _AI and Ethics_. <https://doi.org/10.1007/s43681-023-00289-2>
 
@@ -132,7 +132,7 @@ Previous research projects:
 
 ---
 
-## Policy briefs
+## Submissions
  
 - **Schuett, J.**, Koessler, L., & Anderljung, M. (2024). Response to the RFI related to NIST's assignments under the Executive Order concerning AI. _Centre for the Governance of AI_. <https://www.governance.ai/research-paper/response-to-the-rfi-related-to-nists-assignments-under-the-executive-order-concerning-ai>
 
