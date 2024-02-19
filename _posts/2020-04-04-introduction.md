@@ -31,19 +31,19 @@ It becomes increasingly clear that the development and deployment of frontier AI
 
 Ongoing research projects:
 
-- **AI risk assessment Delphi study** (with Malcolm Murray, Noemi Dreksler, Markus Anderljung, and Ben Garfinkel). We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
+- **AI risk assessment Delphi study** (with *Malcolm Murray*, *Noemi Dreksler*, *Markus Anderljung*, and *Ben Garfinkel*). We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
 
-- **How to estimate the impact and likelihood of risks from AI** (with Caroline Baumoehl, Malcolm Murray, and Leonie Koessler). We make the case for explicit risk estimates, list options, and make recommendations.
+- **How to estimate the impact and likelihood of risks from AI** (with *Caroline Baumoehl*, *Malcolm Murray*, and *Leonie Koessler*). We make the case for explicit risk estimates, list options, and make recommendations.
 
-- **Defining tolerance levels for risks from AI** (with Leonie Koessler). We propose a framework that decision-makers can use to define tolerance levels for risk estimates.
+- **Defining tolerance levels for risks from AI** (with *Leonie Koessler*). We propose a framework that decision-makers can use to define tolerance levels for risk estimates.
 
-- **How to assess the effectiveness of safeguards** (with Patrick Levermore). We list existing safeguards, and discuss different ways of gathering evidence about their effectiveness.
+- **How to assess the effectiveness of safeguards** (with *Patrick Levermore*). We list existing safeguards, and discuss different ways of gathering evidence about their effectiveness.
 
-- **Passing judgment on responsible scaling policies** (with Jide Alaga). We identify key properties of  good RSPs, and propose a grading rubric that can be used to evaluate existing ones.
+- **Passing judgment on responsible scaling policies** (with *Jide Alaga*). We identify key properties of  good RSPs, and propose a grading rubric that can be used to evaluate existing ones.
 
 Previous research projects:
 
-- **Risk management in the AI Act.** The EU AI Act is the most comprehensive attempt to regulate AI in a major jurisdiction. In this article, I conduct a legal analysis of Art. 9, the key risk management provision. <img src="book-solid.svg" width="20" height="20">[Read](https://doi.org/10.1017/err.2023.1)
+- **Risk management in the AI Act.** The EU AI Act is the most comprehensive attempt to regulate AI in a major jurisdiction. In this article, I conduct a legal analysis of Art. 9, the key risk management provision. [[Read](https://doi.org/10.1017/err.2023.1)]
 
 - **Risk assessments at AGI companies** (with Leonie Koessler). We review popular risk assessment techniques from other industries and discuss how companies that have the stated goal of build AGI could use them. [[Read](https://arxiv.org/abs/2307.08823)]
 
