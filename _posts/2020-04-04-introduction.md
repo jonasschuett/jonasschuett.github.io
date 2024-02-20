@@ -26,6 +26,8 @@ I try to inform high-stakes governance decisions by policymakers (e.g. the US an
 
 [Risk management](#risk-management) • [Regulation](#regulation) • [Corporate governance](#corporate-governance) • [Auditing](#auditing).
 
+---
+
 ### Risk management
 It becomes increasingly clear that the development and deployment of frontier AI models poses severe risks to society. I study how these risks can be measured and reduced to an acceptable level.
 
@@ -51,6 +53,8 @@ Previous research projects:
 
 ![Risk management](/risk_management.png)
 
+---
+
 ### Regulation
 
 Although self-governance plays an important role in reducing emerging risks from AI, we will eventually need frontier AI regulation. I‘m working on several research projects intended to inform the design of a regulatory regime for frontier AI models, especially in the UK and US.
@@ -68,6 +72,8 @@ Previous research projects:
 - **Defining the scope of AI regulations.** In this article, I argue that the material scope of AI regulation should not rely on the term AI. Instead, policy makers should take a risk-based approach. They should identify the features of AI systems that drive key risks, and then define these features. These features might be related to the system’s design, application, or capabilities. [[Read](https://doi.org/10.1080/17579961.2023.2184135)]
 
 ![Regulation](/regulation.png)
+
+---
 
 ### Corporate governance
 
@@ -90,6 +96,8 @@ Previous research projects:
 - **Corporate governance of AI in the public interest** (with Peter Cihon and Seth Baum). […] [[Read](https://doi.org/10.3390/info12070275)]
 
 ![Corporate governance](/corporate_governance.png)
+
+---
 
 ### Auditing
 
