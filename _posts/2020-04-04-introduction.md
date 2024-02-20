@@ -24,9 +24,9 @@ My research is aimed at reducing societal risks from AI. I’m particularly conc
 
 I try to inform high-stakes governance decisions by policymakers (e.g. the US and UK government) and frontier AI developers (e.g. OpenAI, Google DeepMind, and Anthropic).
 
-This includes decisions about risk management practices, regulation, corporate governance, and auditing.
+This includes decisions about [risk management](#risk-management), [regulation](#regulation), [corporate governance](#corporate-governance), and [auditing](#auditing).
 
-#### Risk management
+### Risk management
 It becomes increasingly clear that the development and deployment of frontier AI models poses severe risks to society. I study how these risks can be measured and reduced to an acceptable level.
 
 Ongoing research projects:
@@ -51,7 +51,7 @@ Previous research projects:
 
 ![Risk management](/risk_management.png)
 
-#### Regulation
+### Regulation
 
 Although self-governance plays an important role in reducing emerging risks from AI, we will eventually need frontier AI regulation. I‘m working on several research projects intended to inform the design of a regulatory regime for frontier AI models, especially in the UK and US.
 
@@ -69,7 +69,7 @@ Previous research projects:
 
 ![Regulation](/regulation.png)
 
-#### Corporate governance
+### Corporate governance
 
 As frontier AI developers transition from startups to more mature companies, they need to improve their corporate governance. I‘m particularly interested in ways to improve their risk governance.
 
@@ -91,7 +91,7 @@ Previous research projects:
 
 ![Corporate governance](/corporate_governance.png)
 
-#### Auditing
+### Auditing
 
 The development and deployment of frontier AI models has significant effects on society. Key governance decisions should therefore not be left to the developers; society needs to have a say. At the minimum, society needs to be informed. A common way to gather information about a model and the governance of its developers is auditing.
 
