@@ -77,6 +77,8 @@ Ongoing research projects:
 
 Previous research projects:
 
+- **Towards best practices in AGI safety and governance: A survey of expert opinion** (with Noemi Dreksler and others). We asked leading experts how much they agree with 50 statements about different safety and governance practices. We found surprising support for all of them. [[Read](https://arxiv.org/abs/2305.07153)]
+
 - **How to design an AI ethics board** (with Anka Reuel and Alexis Carlier). We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI. [[Read](https://doi.org/10.1007/s43681-023-00409-y)]
 
 - **Three lines of defense against risks from AI.** […] [[Read](https://doi.org/10.1007/s00146-023-01811-0)]
