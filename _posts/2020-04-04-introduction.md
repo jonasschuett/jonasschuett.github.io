@@ -49,7 +49,7 @@ Previous research projects:
 
 - **Risk assessments at AGI companies** (with Leonie Koessler). We review popular risk assessment techniques from other industries and discuss how companies that have the stated goal of build AGI could use them. [[Read](https://arxiv.org/abs/2307.08823)]
 
-- **Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers** (with Jide Alaga). In this paper, we propose an evaluation-based coordination scheme that consists of five main steps: (1) Frontier AI models are evaluated for dangerous capabilities. (2) Whenever, and each time, a model fails a set of evaluations, the developer pauses certain research and development activities. (3) Other developers are notified whenever a model with dangerous capabilities has been discovered. They also pause related research and development activities. (4) The discovered capabilities are analyzed and adequate safety precautions are put in place. (5) Developers only resume their paused activities if certain safety thresholds are reached. We also propose four concrete versions of that scheme, and discuss the desirability and feasibility of our proposed coordination scheme. [[Read](https://arxiv.org/abs/2307.08823)]
+- **Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers** (with Jide Alaga). Frontier AI developers increasingly conduct model evaluations to identify potentially  dangerous capabilities. But what should they do if sufficiently dangerous capabilities are in fact discovered? In this paper, we propose an evaluation-based coordination scheme. We also discuss the desirability and feasibility of that scheme. [[Read](https://arxiv.org/abs/2307.08823)]
 
 ![Risk management](/risk_management.png)
 
