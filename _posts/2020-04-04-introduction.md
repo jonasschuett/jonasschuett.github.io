@@ -13,9 +13,9 @@ Before joining GovAI, I was seconded to the UK Cabinet Office to support their w
 I’m currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University, and have studied economics at the University of Zurich.
 
 I live in Berlin, but come to Oxford every four to six weeks. I‘m also regularly in San Francisco and in Washington D.C.
-{: .message }
 
 [Twitter](https://twitter.com/jonasschuett) • [LinkedIn](https://www.linkedin.com/in/jonasschuett) • [Email](mailto:jonas.schuett@governance.ai)
+{: .message }
 
 ---
 
@@ -31,6 +31,7 @@ I try to inform high-stakes governance decisions by policymakers (e.g. the UK go
 
 ## Risk management
 It becomes increasingly clear that the development and deployment of frontier AI models poses severe risks to society. I study how these risks can be measured and reduced to an acceptable level.
+{: .message }
 
 Ongoing research projects:
 
@@ -59,6 +60,7 @@ Previous research projects:
 ## Regulation
 
 Although self-governance plays an important role in reducing emerging risks from AI, we will eventually need frontier AI regulation. I‘m working on several research projects intended to inform the design of a regulatory regime for frontier AI models, especially in the UK and US.
+{: .message }
 
 Ongoing research projects:
 
