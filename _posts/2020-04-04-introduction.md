@@ -24,7 +24,7 @@ My research is aimed at reducing societal risks from AI. I’m particularly conc
 
 I try to inform high-stakes governance decisions by policymakers (e.g. the UK government) and frontier AI developers (e.g. OpenAI, Google DeepMind, and Anthropic).
 
-<img style="float: left;" src="/book-solid.svg" width="20" height="20"> [Risk management](#risk-management) • [Regulation](#regulation) • [Corporate governance](#corporate-governance) • [Auditing](#auditing)
+<img src="/book-solid.svg" width="20" height="20"> [Risk management](#risk-management) • [Regulation](#regulation) • [Corporate governance](#corporate-governance) • [Auditing](#auditing)
 
 ---
 
