@@ -14,7 +14,7 @@ I’m currently wrapping up my PhD in law at Goethe University Frankfurt. I hold
 
 I live in Berlin, but come to Oxford every 4-6 weeks.
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/fa-brands/fa-square-x-twitter.svg" width="15" height="15"> [Twitter](https://twitter.com/jonasschuett) • [LinkedIn](https://www.linkedin.com/in/jonasschuett) • [Email](mailto:jonas.schuett@governance.ai)
+[Twitter](https://twitter.com/jonasschuett) • [LinkedIn](https://www.linkedin.com/in/jonasschuett) • [Email](mailto:jonas.schuett@governance.ai)
 
 ---
 
