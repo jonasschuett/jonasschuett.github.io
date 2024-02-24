@@ -6,9 +6,6 @@ layout: page
 
 ## About
 
-**AI governance researcher • Policy advisor • Lawyer**
-{:.lead}
-
 I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. Within the policy team, I lead the workstream on risk management and corporate governance.
 
 Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s public policy team. I also helped found the [Institute for Law and AI (LawAI)](https://law-ai.org/), where I'm still a board member.
