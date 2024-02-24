@@ -6,7 +6,7 @@ layout: page
 
 ## About
 
-AI governance researcher • Policy advisor • Lawyer
+**AI governance researcher • Policy advisor • Lawyer**
 {:.lead}
 
 I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. Within the policy team, I lead the workstream on risk management and corporate governance.
