@@ -81,7 +81,7 @@ As frontier AI developers transition from startups to more mature companies, the
 
 Ongoing research projects:
 
-- **AI board governance: Best practices in risk oversight** (with John Bridge and Nikhil Mulani). First, we give an overview of the board’s responsibility for risk oversight. We explain what fiduciary duties are and how the Delaware Court of Chancery has interpreted these duties in the so-called _Caremark_ cases. Next, we discuss five practices in risk oversight that are implied by _Caremark_ cases. For each of them, we consider instances where the court found that the defendants fell below the _Caremark_ oversight standard, and draw parallels to frontier AI developers. Finally, we consider additional practices that boards might wish to implement, even though they are not directly implied by _Caremark_ cases.
+- **AI board governance: Best practices in risk oversight** (with John Bridge and Nikhil Mulani). In this paper, we give an overview of the board’s responsibility for risk oversight. We explain what fiduciary duties are and how the Delaware Court of Chancery has interpreted these duties in the so-called _Caremark_ cases. Next, we discuss five practices in risk oversight that are implied by _Caremark_ cases. We also consider additional practices that boards may want to implement, even though they are not directly implied by _Caremark_ cases.
 
 Previous research projects:
 
