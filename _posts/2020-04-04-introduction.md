@@ -15,7 +15,6 @@ I’m currently wrapping up my PhD in law at Goethe University Frankfurt. I hold
 I live in Berlin, but come to Oxford every four to six weeks. I‘m also regularly in San Francisco and in Washington D.C.
 
 [Twitter](https://twitter.com/jonasschuett) • [LinkedIn](https://www.linkedin.com/in/jonasschuett) • [Email](mailto:jonas.schuett@governance.ai)
-{: .message }
 
 ---
 
@@ -81,6 +80,7 @@ Previous research projects:
 ## Corporate governance
 
 As frontier AI developers transition from startups to more mature companies, they need to improve their corporate governance. I‘m particularly interested in ways to improve their risk governance.
+{: .message }
 
 Ongoing research projects:
 
@@ -105,6 +105,7 @@ Previous research projects:
 ## Auditing
 
 The development and deployment of frontier AI models has significant effects on society. Key governance decisions should therefore not be left to the developers; society needs to have a say. At the minimum, society needs to be informed. A common way to gather information about a model and the governance of its developers is auditing.
+{: .message }
 
 Previous research projects:
 
