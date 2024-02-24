@@ -69,7 +69,7 @@ Previous research projects:
 
 - **Frontier AI regulation: Managing emerging risks to public safety** (with Markus Anderljung and others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models. [[Read](https://arxiv.org/abs/2307.03718)]
 
-- **Defining the scope of AI regulations.** In this paper, I argue that the material scope of AI regulations should not rely on the term AI, mainly because existing AI definitions don’t meet the most important requirements for legal definitions. Rather than using the term AI, policymakers should focus on the specific risks they want to reduce. I show that that the requirements for legal definitions can be better met by defining the main sources of relevant risks: certain technical approaches (e.g. reinforcement learning), applications (e.g. facial recognition), and capabilities (e.g. the ability to physically interact with the environment). I also argue that this approach can also be applied to more advanced AI systems, including artificial general intelligence (AGI). [[Read](https://doi.org/10.1080/17579961.2023.2184135)]
+- **Defining the scope of AI regulations.** In this paper, I argue that the material scope of AI regulations should not rely on the term AI, mainly because existing AI definitions don’t meet the most important requirements for legal definitions. Rather than using the term AI, policymakers should focus on the specific risks they want to reduce. I show that that the requirements for legal definitions can be better met by defining the main sources of relevant risks: certain technical approaches, applications, and capabilities. [[Read](https://doi.org/10.1080/17579961.2023.2184135)]
 
 ![Regulation](/regulation.png)
 
@@ -105,11 +105,11 @@ The development and deployment of frontier AI models has significant effects on 
 
 Previous research projects:
 
-- **Auditing large language models: A three-layered approach** (with Jakob Mökander, Hannah Kirk, and Luciano Floridi). This paper is about how to audit large language models (LLMs). We focus on LLMs as a proxy for more capable and general AI systems. We argue that existing auditing methodologies are insufficient to address the specific risks posed by LLMs. We also propose a new auditing methodology for LLMs, in which governance audits, model audits, and application audits complement and inform each other. [[Read](https://doi.org/10.1007/s43681-023-00289-2)]
+- **Auditing large language models: A three-layered approach** (with Jakob Mökander, Hannah Kirk, and Luciano Floridi). In this paper, we argue that existing auditing methodologies are insufficient to address the specific risks posed by large language models (LLMs). We propose a new auditing methodology for LLMs, in which governance audits, model audits, and application audits complement and inform each other. [[Read](https://doi.org/10.1007/s43681-023-00289-2)]
 
 - **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** (with Markus Anderljung and others). […] [[Read](https://arxiv.org/abs/2311.14711)]
 
-- **AI certification: Advancing ethical practice by reducing information asymmetries** (with Peter Cihon, Moritz Kleinaltenkamp, and Seth Baum). This is an introductory paper on AI certification. We examine the extent to which certification can incentivize adoption of AI ethics principles and substantiate that they have been implemented in practice. We draw from management literature on certification and review current AI certification programs and proposals. [[Read](https://doi.org/10.1109/TTS.2021.3077595)]
+- **AI certification: Advancing ethical practice by reducing information asymmetries** (with Peter Cihon, Moritz Kleinaltenkamp, and Seth Baum). In this paper, we examine to what extent certification can incentivize adoption of AI ethics principles and substantiate that they have been implemented in practice. We draw from management literature on certification and review current AI certification programs and proposals. [[Read](https://doi.org/10.1109/TTS.2021.3077595)]
 
 ![Auditing](/auditing.png)
 
