@@ -14,7 +14,7 @@ I’m currently wrapping up my PhD in law at Goethe University Frankfurt. I hold
 
 I live in Berlin, but come to Oxford every 4-6 weeks.
 
-[Twitter](https://twitter.com/jonasschuett) • [LinkedIn](https://www.linkedin.com/in/jonasschuett) • [Email](mailto:jonas.schuett@governance.ai)
+<img src="/twitter.svg" width="15" height="15"> [Twitter](https://twitter.com/jonasschuett) <img src="/linkedin.svg" width="15" height="15"> [LinkedIn](https://www.linkedin.com/in/jonasschuett) <img src="/email.svg" width="15" height="15"> [Email](mailto:jonas.schuett@governance.ai)
 
 ---
 
@@ -24,7 +24,7 @@ My research is aimed at reducing societal risks from AI. I’m particularly conc
 
 I try to inform high-stakes governance decisions by policymakers (e.g. the UK government) and frontier AI developers (e.g. OpenAI, Google DeepMind, and Anthropic).
 
-<img src="/book-solid.svg" width="20" height="20"> [Risk management](#risk-management) • [Regulation](#regulation) • [Corporate governance](#corporate-governance) • [Auditing](#auditing)
+[Risk management](#risk-management) • [Regulation](#regulation) • [Corporate governance](#corporate-governance) • [Auditing](#auditing)
 
 ---
 
