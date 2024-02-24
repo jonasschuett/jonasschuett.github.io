@@ -69,7 +69,7 @@ Previous research projects:
 
 - **Frontier AI regulation: Managing emerging risks to public safety** (with Markus Anderljung and others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models. [[Read](https://arxiv.org/abs/2307.03718)]
 
-- **Defining the scope of AI regulations.** In this article, I argue that the material scope of AI regulation should not rely on the term AI. Instead, policy makers should take a risk-based approach. They should identify the features of AI systems that drive key risks, and then define these features. These features might be related to the system’s design, application, or capabilities. [[Read](https://doi.org/10.1080/17579961.2023.2184135)]
+- **Defining the scope of AI regulations.** In this paper, I argue that the material scope of AI regulations should not rely on the term AI, mainly because existing AI definitions don’t meet the most important requirements for legal definitions. Rather than using the term AI, policymakers should focus on the specific risks they want to reduce. I show that that the requirements for legal definitions can be better met by defining the main sources of relevant risks: certain technical approaches (e.g. reinforcement learning), applications (e.g. facial recognition), and capabilities (e.g. the ability to physically interact with the environment). I also argue that this approach can also be applied to more advanced AI systems, including artificial general intelligence (AGI). [[Read](https://doi.org/10.1080/17579961.2023.2184135)]
 
 ![Regulation](/regulation.png)
 
@@ -85,15 +85,16 @@ Ongoing research projects:
 
 Previous research projects:
 
-- **Towards best practices in AGI safety and governance: A survey of expert opinion** (with Noemi Dreksler and others). We asked leading experts how much they agree with 50 statements about different safety and governance practices. We found surprising support for all of them. [[Read](https://arxiv.org/abs/2305.07153)]
+- **Towards best practices in AGI safety and governance: A survey of expert opinion** (with Noemi Dreksler and others). In this survey, we asked leading experts from AGI labs, academia, and civil society how much they agree with 50 statements about different AGI safety and governance practices. We found surprising support for all of them. [[Read](https://arxiv.org/abs/2305.07153)]
 
-- **How to design an AI ethics board** (with Anka Reuel and Alexis Carlier). We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI. [[Read](https://doi.org/10.1007/s43681-023-00409-y)]
+- **How to design an AI ethics board** (with Anka Reuel and Alexis Carlier). Several failures have shown that designing an AI ethics board can be challenging. This paper provides a toolbox that can help AI companies to overcome these challenges. We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI. [[Read](https://doi.org/10.1007/s43681-023-00409-y)]
 
-- **Three lines of defense against risks from AI.** […] [[Read](https://doi.org/10.1007/s00146-023-01811-0)]
+- **Three lines of defense against risks from AI.** The Three Lines of Defense model is a popular risk governance framework. It helps organizations to assign and coordinate different risk management roles and responsibilities. In this paper, I apply the model to an AI context. [[Read](https://doi.org/10.1007/s00146-023-01811-0)]
 
-- **Frontier AI developers need an internal audit function.** […] [[Read](https://arxiv.org/abs/2305.17038)]
+- **Frontier AI developers need an internal audit function.** The internal audit function evaluates the adequacy and effectiveness of a company’s risk management, control, and governance processes. It is organizationally independent from senior management and reports directly to the board of directors. In this paper, I argue that frontier AI developers need an internal audit function.
+- […] [[Read](https://arxiv.org/abs/2305.17038)]
 
-- **Corporate governance of AI in the public interest** (with Peter Cihon and Seth Baum). […] [[Read](https://doi.org/10.3390/info12070275)]
+- **Corporate governance of AI in the public interest** (with Peter Cihon and Seth Baum). This is an overview paper on the corporate governance of AI. We survey how different actors can influence corporate decision-making in a way that advances the public interest. We consider actors inside the corporation (managers, workers, and investors) and outside the corporation (corporate partners and competitors, industry consortia, nonprofit organizations, the public, the media, and governments). [[Read](https://doi.org/10.3390/info12070275)]
 
 ![Corporate governance](/corporate_governance.png)
 
@@ -105,11 +106,11 @@ The development and deployment of frontier AI models has significant effects on 
 
 Previous research projects:
 
-- **Auditing large language models: A three-layered approach** (with Jakob Mökander, Hannah Kirk, and Luciano Floridi). […] [[Read](https://doi.org/10.1007/s43681-023-00289-2)]
+- **Auditing large language models: A three-layered approach** (with Jakob Mökander, Hannah Kirk, and Luciano Floridi). This paper is about how to audit large language models (LLMs). We focus on LLMs as a proxy for more capable and general AI systems. We argue that existing auditing methodologies are insufficient to address the specific risks posed by LLMs. We also propose a new auditing methodology for LLMs, in which governance audits, model audits, and application audits complement and inform each other. [[Read](https://doi.org/10.1007/s43681-023-00289-2)]
 
 - **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** (with Markus Anderljung and others). […] [[Read](https://arxiv.org/abs/2311.14711)]
 
-- **AI certification: Advancing ethical practice by reducing information asymmetries** (with Peter Cihon, Moritz Kleinaltenkamp, and Seth Baum). […] [[Read](https://doi.org/10.1109/TTS.2021.3077595)]
+- **AI certification: Advancing ethical practice by reducing information asymmetries** (with Peter Cihon, Moritz Kleinaltenkamp, and Seth Baum). This is an introductory paper on AI certification. We examine the extent to which certification can incentivize adoption of AI ethics principles and substantiate that they have been implemented in practice. We draw from management literature on certification and review current AI certification programs and proposals. [[Read](https://doi.org/10.1109/TTS.2021.3077595)]
 
 ![Auditing](/auditing.png)
 
