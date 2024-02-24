@@ -107,7 +107,7 @@ Previous research projects:
 
 - **Auditing large language models: A three-layered approach** (with Jakob Mökander, Hannah Kirk, and Luciano Floridi). In this paper, we argue that existing auditing methodologies are insufficient to address the specific risks posed by large language models (LLMs). We propose a new auditing methodology for LLMs, in which governance audits, model audits, and application audits complement and inform each other. [[Read](https://doi.org/10.1007/s43681-023-00289-2)]
 
-- **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** (with Markus Anderljung and others). […] [[Read](https://arxiv.org/abs/2311.14711)]
+- **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** (with Markus Anderljung and others). In this paper, we survey six requirements for effective external scrutiny of frontier AI systems and organize them under the ASPIRE framework: Access, searching attitude, proportionality to the risks, independence, resources, and expertise. [[Read](https://arxiv.org/abs/2311.14711)]
 
 - **AI certification: Advancing ethical practice by reducing information asymmetries** (with Peter Cihon, Moritz Kleinaltenkamp, and Seth Baum). In this paper, we examine to what extent certification can incentivize adoption of AI ethics principles and substantiate that they have been implemented in practice. We draw from management literature on certification and review current AI certification programs and proposals. [[Read](https://doi.org/10.1109/TTS.2021.3077595)]
 
