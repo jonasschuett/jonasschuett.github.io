@@ -87,14 +87,13 @@ Previous research projects:
 
 - **Towards best practices in AGI safety and governance: A survey of expert opinion** (with Noemi Dreksler and others). In this survey, we asked leading experts from AGI labs, academia, and civil society how much they agree with 50 statements about different AGI safety and governance practices. We found surprising support for all of them. [[Read](https://arxiv.org/abs/2305.07153)]
 
-- **How to design an AI ethics board** (with Anka Reuel and Alexis Carlier). Several failures have shown that designing an AI ethics board can be challenging. This paper provides a toolbox that can help AI companies to overcome these challenges. We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI. [[Read](https://doi.org/10.1007/s43681-023-00409-y)]
+- **How to design an AI ethics board** (with Anka Reuel and Alexis Carlier). Several failures have shown that designing an AI ethics board can be challenging. In this paper, we provide a toolbox that AI companies can use to overcome these challenges. We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI. [[Read](https://doi.org/10.1007/s43681-023-00409-y)]
 
 - **Three lines of defense against risks from AI.** The Three Lines of Defense model is a popular risk governance framework. It helps organizations to assign and coordinate different risk management roles and responsibilities. In this paper, I apply the model to an AI context. [[Read](https://doi.org/10.1007/s00146-023-01811-0)]
 
-- **Frontier AI developers need an internal audit function.** The internal audit function evaluates the adequacy and effectiveness of a company’s risk management, control, and governance processes. It is organizationally independent from senior management and reports directly to the board of directors. In this paper, I argue that frontier AI developers need an internal audit function.
-- […] [[Read](https://arxiv.org/abs/2305.17038)]
+- **Frontier AI developers need an internal audit function.** The internal audit function evaluates the adequacy and effectiveness of a company’s risk management, control, and governance processes. It is organizationally independent from senior management and reports directly to the board of directors. In this paper, I argue that frontier AI developers need an internal audit function. [[Read](https://arxiv.org/abs/2305.17038)]
 
-- **Corporate governance of AI in the public interest** (with Peter Cihon and Seth Baum). This is an overview paper on the corporate governance of AI. We survey how different actors can influence corporate decision-making in a way that advances the public interest. We consider actors inside the corporation (managers, workers, and investors) and outside the corporation (corporate partners and competitors, industry consortia, nonprofit organizations, the public, the media, and governments). [[Read](https://doi.org/10.3390/info12070275)]
+- **Corporate governance of AI in the public interest** (with Peter Cihon and Seth Baum). In this paper, we discuss how different actors can influence corporate decision-making in a way that advances the public interest. We consider actors inside the corporation (managers, workers, and investors) and outside the corporation (corporate partners and competitors, industry consortia, nonprofit organizations, the public, the media, and governments). [[Read](https://doi.org/10.3390/info12070275)]
 
 ![Corporate governance](/corporate_governance.png)
 
