@@ -10,7 +10,13 @@ I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://w
 
 Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s public policy team. I also helped found the [Institute for Law and AI (LawAI)](https://law-ai.org/), where I'm still a board member.
 
-I’m currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University, and have studied economics at the University of Zurich.
+I’m currently wrapping up my PhD in law at Goethe Frankfurt. I hold a law degree from Heidelberg University, and have studied economics at the University of Zurich.
+
+<i class="fas fa-band-aid"></i>
+<i class="fas fa-cat"></i>
+<i class="fas fa-dragon"></i>
+<i class="far fa-clock"></i>
+<i class="fas fa-clock"></i>
 
 I live in Berlin, but come to Oxford every 4-6 weeks.
 
