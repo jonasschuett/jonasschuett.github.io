@@ -12,15 +12,9 @@ Before joining GovAI, I was seconded to the UK Cabinet Office to support their w
 
 I’m currently wrapping up my PhD in law at Goethe Frankfurt. I hold a law degree from Heidelberg University, and have studied economics at the University of Zurich.
 
-<i class="fas fa-band-aid"></i>
-<i class="fas fa-cat"></i>
-<i class="fas fa-dragon"></i>
-<i class="far fa-clock"></i>
-<i class="fas fa-clock"></i>
-
 I live in Berlin, but come to Oxford every 4-6 weeks.
 
-[Twitter](https://twitter.com/jonasschuett) • [LinkedIn](https://www.linkedin.com/in/jonasschuett) • [Email](mailto:jonas.schuett@governance.ai)
+<i class="fas fa-band-aid"></i> [Twitter](https://twitter.com/jonasschuett) <i class="fas fa-cat"></i> [LinkedIn](https://www.linkedin.com/in/jonasschuett) <i class="far fa-clock"></i> [Email](mailto:jonas.schuett@governance.ai)
 
 ---
 
