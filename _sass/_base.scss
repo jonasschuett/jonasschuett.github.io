@@ -25,9 +25,8 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    color: var(--link-hover-color);
     text-decoration: underline;
-    text-underline-offset: 4px;
+    text-underline-offset: 2px;
   }
 
   strong {
