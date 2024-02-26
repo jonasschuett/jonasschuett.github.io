@@ -28,7 +28,7 @@ I try to inform high-stakes governance decisions by policymakers (e.g. the UK go
 
 ---
 
-## <i class="fa-solid fa-triangle-exclamation" style="color: #adb5bd;"></i> Risk management
+## Risk management <i class="fa-solid fa-triangle-exclamation" style="color: #495057;"></i>
 It becomes increasingly clear that the development and deployment of frontier AI models poses severe risks to society. I study how these risks can be measured and reduced to an acceptable level.
 {: .message }
 
