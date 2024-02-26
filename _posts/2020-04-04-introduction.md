@@ -163,7 +163,4 @@ Previous research projects:
 
 ---
 
-## Contact
-<i class="fa-brands fa-twitter" style="color: #228be6;"></i> [Twitter](https://twitter.com/jonasschuett) &nbsp; <i class="fa-brands fa-linkedin" style="color: #228be6;"></i> [LinkedIn](https://www.linkedin.com/in/jonasschuett) &nbsp; <i class="fa-solid fa-envelope" style="color: #228be6;"></i> [Email](mailto:jonas.schuett@governance.ai)
-
-[ORCID](https://orcid.org/0000-0001-7154-5049) • [Google Scholar](https://scholar.google.com/citations?user=iZXltDgAAAAJ&hl=en&oi=ao) • [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3705327)
+[Twitter](https://twitter.com/jonasschuett) • [LinkedIn](https://www.linkedin.com/in/jonasschuett) • [Email](mailto:jonas.schuett@governance.ai) • [ORCID](https://orcid.org/0000-0001-7154-5049) • [Google Scholar](https://scholar.google.com/citations?user=iZXltDgAAAAJ&hl=en&oi=ao) • [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3705327)
