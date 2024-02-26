@@ -69,7 +69,7 @@ Ongoing research projects:
 
 Previous research projects:
 
-- **Frontier AI regulation: Managing emerging risks to public safety** (with Markus Anderljung and others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models. [[Read](https://arxiv.org/abs/2307.03718)]
+- **Frontier AI regulation: Managing emerging risks to public safety** (with Markus Anderljung and others). This multi-author report is the first attempt to sketch a regulatory regime for frontier AI models. [Read](https://arxiv.org/abs/2307.03718)
 
 - **Defining the scope of AI regulations.** In this paper, I argue that the material scope of AI regulations should not rely on the term AI, mainly because existing AI definitions don’t meet the most important requirements for legal definitions. Rather than using the term AI, policymakers should focus on the specific risks they want to reduce. I show that that the requirements for legal definitions can be better met by defining the main sources of relevant risks: certain technical approaches, applications, and capabilities. [Read](https://doi.org/10.1080/17579961.2023.2184135)
 
