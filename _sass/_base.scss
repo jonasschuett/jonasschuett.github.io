@@ -26,6 +26,7 @@ a {
   &:hover,
   &:focus {
     text-decoration: underline;
+    text-decoration-color: red;
     text-underline-offset: 3px;
   }
 
