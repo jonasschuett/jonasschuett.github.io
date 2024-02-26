@@ -4,7 +4,7 @@ layout: page
 
 ![Jonas Schuett](/jonasschuett.jpg)
 
-## About
+### About
 
 I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. Within the policy team, I lead the workstream on risk management and corporate governance.
 
@@ -18,7 +18,7 @@ I live in Berlin, but come to Oxford every 4-6 weeks.
 
 ---
 
-## Research
+### Research
 
 My research is aimed at reducing societal risks from AI. I’m particularly concerned about emerging risks from frontier AI models.
 
@@ -28,7 +28,7 @@ I try to inform high-stakes governance decisions by policymakers (e.g. the UK go
 
 ---
 
-## Risk management
+### Risk management
 It becomes increasingly clear that the development and deployment of frontier AI models poses severe risks to society. I study how these risks can be measured and reduced to an acceptable level.
 {: .message }
 
@@ -56,7 +56,7 @@ Previous research projects:
 
 ---
 
-## Regulation
+### Regulation
 
 Although self-governance plays an important role in reducing emerging risks from AI, we will eventually need frontier AI regulation. I‘m working on several research projects intended to inform the design of a regulatory regime for frontier AI models, especially in the UK and US.
 {: .message }
@@ -77,7 +77,7 @@ Previous research projects:
 
 ---
 
-## Corporate governance
+### Corporate governance
 
 As frontier AI developers transition from startups to more mature companies, they need to improve their corporate governance. I‘m particularly interested in ways to improve their risk governance.
 {: .message }
@@ -102,7 +102,7 @@ Previous research projects:
 
 ---
 
-## Auditing
+### Auditing
 
 The development and deployment of frontier AI models has significant effects on society. Key governance decisions should therefore not be left to the developers; society needs to have a say. At the minimum, society needs to be informed. A common way to gather information about a model and the governance of its developers is auditing.
 {: .message }
@@ -119,7 +119,7 @@ Previous research projects:
 
 ---
 
-## Publications
+### Publications
 
 - **Schuett, J.**, Reuel, A., & Carlier, A. (2024). How to design an AI ethics board. *AI and Ethics*. <https://doi.org/10.1007/s43681-023-00409-y>
 
@@ -151,7 +151,7 @@ Previous research projects:
 
 ---
 
-## Submissions
+### Submissions
  
 - **Schuett, J.**, Koessler, L., & Anderljung, M. (2024). Response to the RFI related to NIST's assignments under the Executive Order concerning AI. *Centre for the Governance of AI*. <https://www.governance.ai/research-paper/response-to-the-rfi-related-to-nists-assignments-under-the-executive-order-concerning-ai>
 
