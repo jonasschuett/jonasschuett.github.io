@@ -156,26 +156,26 @@ Previous research projects:
 **2024**
 
 **How to design an AI ethics board** <br>
-**Jonas Schuett**, Anka Reuel, & Alexis Carlier <br>
+Jonas Schuett, Anka Reuel, & Alexis Carlier <br>
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00409-y)]
 
 **2023**
 
 **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** <br>
-Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E., **Schuett, J.**, Trager, R., Strahm, L., & Chowdhury, R. <br>
+Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E., Schuett, J., Trager, R., Strahm, L., & Chowdhury, R. <br>
 *arXiv preprint arXiv:2311.14711* <br>
 [[arXiv](https://arxiv.org/abs/2311.14711)]
 
 **2021**
 
 **AI certification: Advancing ethical practice by reducing information asymmetries** <br>
-Peter Cihon, Moritz J. Kleinaltenkamp, **Jonas Schuett**, & Seth D. Baum <br>
+Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, & Seth D. Baum <br>
 *IEEE Transactions on Technology and Society, 2*(4), 200–209 <br>
 [[DOI](https://doi.org/10.1109/TTS.2021.3077595)]
 
 **Corporate governance of artificial intelligence in the public interest** <br>
-Peter Cihon, **Jonas Schuett**, & Seth D. Baum <br>
+Peter Cihon, Jonas Schuett, & Seth D. Baum <br>
 *Information, 12*(7), 275 <br>
 [[DOI](https://doi.org/10.3390/info12070275)]
 
