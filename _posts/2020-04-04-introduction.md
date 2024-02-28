@@ -155,76 +155,76 @@ Previous research projects:
 
 **2024**
 
-**How to design an AI ethics board** <br>
+- **How to design an AI ethics board** <br>
 Jonas Schuett, Anka Reuel, Alexis Carlier <br>
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00409-y)]
 
 **2023**
 
-**Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** <br>
+- **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** <br>
 Markus Anderljung, Everett T. Smith, Joe O'Brien, Lisa Soder, Benjamin Bucknall, Emma Bluemke, Jonas Schuett, Robert Trager, Lacey Strahm, Rumman Chowdhury <br>
 *arXiv preprint arXiv:2311.14711* <br>
 [[arXiv](https://arxiv.org/abs/2311.14711)]
 
-**Three lines of defense against risks from AI** <br>
+- **Three lines of defense against risks from AI** <br>
 Jonas Schuett <br>
 *AI & Society* <br>
 [[DOI](https://doi.org/10.1007/s00146-023-01811-0)]
 
-**Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers** <br>
+- **Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers** <br>
 Jide Alaga, Jonas Schuett <br>
 *arXiv preprint arXiv:2310.00374* <br>
 [[arXiv](https://arxiv.org/abs/2310.00374)]
 
-**Open-sourcing highly capable foundation models: An evaluation of risks, benefits, and alternative methods for pursuing open-source objectives** <br>
+- **Open-sourcing highly capable foundation models: An evaluation of risks, benefits, and alternative methods for pursuing open-source objectives** <br>
 Elizabeth Seger, Noemi Dreksler, Richard Moulange, Emily Dardaman, Jonas Schuett, K. Wei, Christoph Winter, Mackenzie Arnold, Seán Ó hÉigeartaigh, Anton Korinek, Markus Anderljung, Ben Bucknall, Alan Chan, Eoghan Stafford, Leonie Koessler, Aviv Ovadya, Ben Garfinkel, Emma Bluemke, Michael Aird, Patrick Levermore, Julian Hazell, Abhishek Gupta <br>
 *arXiv preprint arXiv:2311.09227* <br>
 [[arXiv](https://arxiv.org/abs/2311.09227)]
 
-**Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries** <br>
+- **Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries** <br>
 Leonie Koessler, Jonas Schuett <br>
 *arXiv preprint arXiv:2307.08823* <br>
 [[arXiv](https://arxiv.org/abs/2307.08823)]
 
-**Frontier AI regulation: Managing emerging risks to public safety** <br>
+- **Frontier AI regulation: Managing emerging risks to public safety** <br>
 Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, Jonas Schuett, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf <br>
 *arXiv preprint arXiv:2307.03718* <br>
 [[arXiv](https://arxiv.org/abs/2307.03718)]
 
-**AGI labs need an internal audit function** <br>
+- **AGI labs need an internal audit function** <br>
 Jonas Schuett <br>
 *arXiv preprint arXiv:2305.17038* <br>
 [[arXiv](https://arxiv.org/abs/2305.17038)]
 
-**Towards best practices in AGI safety and governance: A survey of expert opinion** <br>
+- **Towards best practices in AGI safety and governance: A survey of expert opinion** <br>
 Jonas Schuett, Noemi Dreksler, Markus Anderljung, David McCaffary, Lennart Heim, Emma Bluemke, Ben Garfinkel <br>
 *arXiv preprint arXiv:2305.07153* <br>
 [[arXiv](https://arxiv.org/abs/2305.07153)]
 
-**Defining the scope of AI regulations** <br>
+- **Defining the scope of AI regulations** <br>
 Jonas Schuett <br>
 *Law, Innovation and Technology, 15*(1), 60–82 <br>
 [[DOI](https://doi.org/10.1080/17579961.2023.2184135)]
 
-**Auditing large language models: A three-layered approach** <br>
+- **Auditing large language models: A three-layered approach** <br>
 Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00289-2)]
 
-**Risk management in the Artificial Intelligence Act** <br>
+- **Risk management in the Artificial Intelligence Act** <br>
 Jonas Schuett <br>
 *European Journal of Risk Regulation*, 1–19 <br>
 [[DOI](https://doi.org/10.1017/err.2023.1)]
 
 **2021**
 
-**AI certification: Advancing ethical practice by reducing information asymmetries** <br>
+- **AI certification: Advancing ethical practice by reducing information asymmetries** <br>
 Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum <br>
 *IEEE Transactions on Technology and Society, 2*(4), 200–209 <br>
 [[DOI](https://doi.org/10.1109/TTS.2021.3077595)]
 
-**Corporate governance of artificial intelligence in the public interest** <br>
+- **Corporate governance of artificial intelligence in the public interest** <br>
 Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 *Information, 12*(7), 275 <br>
 [[DOI](https://doi.org/10.3390/info12070275)]
