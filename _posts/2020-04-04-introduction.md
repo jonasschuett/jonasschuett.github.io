@@ -151,6 +151,15 @@ Previous research projects:
 
 ---
 
+## Publications 2
+
+**How to design an AI ethics board** <br>
+`Jonas Schuett` `Anka Reuel` `Alexis Carlier` <br>
+AI and Ethics
+[DOI](https://doi.org/10.1007/s43681-023-00409-y)
+
+---
+
 ## Submissions
  
 - **Schuett, J.**, Koessler, L., & Anderljung, M. (2024). Response to the RFI related to NIST's assignments under the Executive Order concerning AI. *Centre for the Governance of AI*. <https://www.governance.ai/research-paper/response-to-the-rfi-related-to-nists-assignments-under-the-executive-order-concerning-ai>
