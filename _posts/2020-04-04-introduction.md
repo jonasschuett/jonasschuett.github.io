@@ -156,26 +156,51 @@ Previous research projects:
 **2024**
 
 **How to design an AI ethics board** <br>
-Jonas Schuett, Anka Reuel, & Alexis Carlier <br>
+Jonas Schuett, Anka Reuel, Alexis Carlier <br>
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00409-y)]
 
 **2023**
 
 **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** <br>
-Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E., Schuett, J., Trager, R., Strahm, L., & Chowdhury, R. <br>
+Markus Anderljung, Everett T. Smith, Joe O'Brien, Lisa Soder, Benjamin Bucknall, Emma Bluemke, Jonas Schuett, Robert Trager, Lacey Strahm, Rumman Chowdhury <br>
 *arXiv preprint arXiv:2311.14711* <br>
 [[arXiv](https://arxiv.org/abs/2311.14711)]
+
+**Three lines of defense against risks from AI** <br>
+Jonas Schuett <br>
+*AI & Society* <br>
+[[DOI](https://doi.org/10.1007/s00146-023-01811-0)]
+
+**Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers** <br>
+Jide Alaga, Jonas Schuett <br>
+*arXiv preprint arXiv:2310.00374* <br>
+[[arXiv](https://arxiv.org/abs/2310.00374)]
+
+**Open-sourcing highly capable foundation models: An evaluation of risks, benefits, and alternative methods for pursuing open-source objectives** <br>
+Elizabeth Seger, Noemi Dreksler, Richard Moulange, Emily Dardaman, Jonas Schuett, K. Wei, Christoph Winter, Mackenzie Arnold, Seán Ó hÉigeartaigh, Anton Korinek, Markus Anderljung, Ben Bucknall, Alan Chan, Eoghan Stafford, Leonie Koessler, Aviv Ovadya, Ben Garfinkel, Emma Bluemke, Michael Aird, Patrick Levermore, Julian Hazell, Abhishek Gupta <br>
+*arXiv preprint arXiv:2311.09227* <br>
+[[arXiv](https://arxiv.org/abs/2311.09227)]
+
+**Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries** <br>
+Leonie Koessler, Jonas Schuett <br>
+*arXiv preprint arXiv:2307.08823* <br>
+[[arXiv](https://arxiv.org/abs/2307.08823)]
+
+**Frontier AI regulation: Managing emerging risks to public safety** <br>
+Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, Jonas Schuett, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf <br>
+*arXiv preprint arXiv:2307.03718* <br>
+[[arXiv](https://arxiv.org/abs/2307.03718)]
 
 **2021**
 
 **AI certification: Advancing ethical practice by reducing information asymmetries** <br>
-Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, & Seth D. Baum <br>
+Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum <br>
 *IEEE Transactions on Technology and Society, 2*(4), 200–209 <br>
 [[DOI](https://doi.org/10.1109/TTS.2021.3077595)]
 
 **Corporate governance of artificial intelligence in the public interest** <br>
-Peter Cihon, Jonas Schuett, & Seth D. Baum <br>
+Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 *Information, 12*(7), 275 <br>
 [[DOI](https://doi.org/10.3390/info12070275)]
 
