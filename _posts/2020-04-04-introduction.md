@@ -156,14 +156,15 @@ Previous research projects:
 **2024**
 
 **How to design an AI ethics board** <br>
-Jonas Schuett, Anka Reuel, & Alexis Carlier <br>
+**Jonas Schuett**, Anka Reuel, & Alexis Carlier <br>
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00409-y)]
 
 **2023**
 
-
-- Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E., **Schuett, J.**, Trager, R., Strahm, L., & Chowdhury, R. (2023). *Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework*. arXiv. <https://arxiv.org/abs/2311.14711>
+**Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** <br>
+Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E., **Schuett, J.**, Trager, R., Strahm, L., & Chowdhury, R. <br>
+[[arXiv](https://arxiv.org/abs/2311.14711)]
 
 - **Schuett, J.** (2023). Three lines of defense against risks from AI. *AI & Society*. <https://doi.org/10.1007/s00146-023-01811-0>
 
