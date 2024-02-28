@@ -171,7 +171,7 @@ Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E
 
 **AI certification: Advancing ethical practice by reducing information asymmetries** <br>
 Peter Cihon, Moritz J. Kleinaltenkamp, **Jonas Schuett**, & Seth D. Baum <br>
-IEEE Transactions on Technology and Society, 2*(4), 200–209 <br>
+*IEEE Transactions on Technology and Society, 2*(4), 200–209 <br>
 [[DOI](https://doi.org/10.1109/TTS.2021.3077595)]
 
 **Corporate governance of artificial intelligence in the public interest** <br>
