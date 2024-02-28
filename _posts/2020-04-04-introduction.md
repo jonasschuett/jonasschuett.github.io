@@ -164,7 +164,7 @@ Previous research projects:
 
 **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** <br>
 Anderljung, M., Smith, E. T., O’Brien, J., Soder, L., Bucknall, B., Bluemke, E., **Schuett, J.**, Trager, R., Strahm, L., & Chowdhury, R. <br>
-*arXiv:2311.14711* <br>
+*arXiv preprint arXiv:2311.14711* <br>
 [[arXiv](https://arxiv.org/abs/2311.14711)]
 
 **2021**
