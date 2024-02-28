@@ -192,6 +192,31 @@ Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, J
 *arXiv preprint arXiv:2307.03718* <br>
 [[arXiv](https://arxiv.org/abs/2307.03718)]
 
+**AGI labs need an internal audit function** <br>
+Jonas Schuett <br>
+*arXiv preprint arXiv:2305.17038* <br>
+[[arXiv](https://arxiv.org/abs/2305.17038)]
+
+**Towards best practices in AGI safety and governance: A survey of expert opinion** <br>
+Jonas Schuett, Noemi Dreksler, Markus Anderljung, David McCaffary, Lennart Heim, Emma Bluemke, Ben Garfinkel <br>
+*arXiv preprint arXiv:2305.07153* <br>
+[[arXiv](https://arxiv.org/abs/2305.07153)]
+
+**Defining the scope of AI regulations** <br>
+Jonas Schuett <br>
+*Law, Innovation and Technology, 15*(1), 60–82 <br>
+[[DOI](https://doi.org/10.1080/17579961.2023.2184135)]
+
+**Auditing large language models: A three-layered approach** <br>
+Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
+*AI and Ethics* <br>
+[[DOI](https://doi.org/10.1007/s43681-023-00289-2)]
+
+**Risk management in the Artificial Intelligence Act** <br>
+Jonas Schuett <br>
+*European Journal of Risk Regulation*, 1–19 <br>
+[[DOI](https://doi.org/10.1017/err.2023.1)]
+
 **2021**
 
 **AI certification: Advancing ethical practice by reducing information asymmetries** <br>
