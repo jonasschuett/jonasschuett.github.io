@@ -155,8 +155,8 @@ Previous research projects:
 
 **How to design an AI ethics board** <br>
 `Jonas Schuett` `Anka Reuel` `Alexis Carlier` <br>
-AI and Ethics
-[DOI](https://doi.org/10.1007/s43681-023-00409-y)
+AI and Ethics <br>
+[[DOI](https://doi.org/10.1007/s43681-023-00409-y)]
 
 ---
 
