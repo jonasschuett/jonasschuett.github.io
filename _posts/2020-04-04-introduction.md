@@ -215,11 +215,13 @@ Jonas Schuett <br>
 Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00289-2)]
+{: .message }
 
 **Risk management in the Artificial Intelligence Act** <br>
 Jonas Schuett <br>
 *European Journal of Risk Regulation*, 1–19 <br>
 [[DOI](https://doi.org/10.1017/err.2023.1)]
+{: .message }
 
 **2021**
 
@@ -227,11 +229,13 @@ Jonas Schuett <br>
 Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum <br>
 *IEEE Transactions on Technology and Society, 2*(4), 200–209 <br>
 [[DOI](https://doi.org/10.1109/TTS.2021.3077595)]
+{: .message }
 
 **Corporate governance of artificial intelligence in the public interest** <br>
 Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 *Information, 12*(7), 275 <br>
 [[DOI](https://doi.org/10.3390/info12070275)]
+{: .message }
 
 ---
 
