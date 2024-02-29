@@ -242,26 +242,26 @@ Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 **Response to the RFI related to NIST's assignments under the Executive Order concerning AI** <br>
 Jonas Schuett, Leonie Koessler, Markus Anderljung <br>
 *Centre for the Governance of AI* <br>
-[[PDF](https://cdn.governance.ai/GovAI_Response_to_RFI_Related_to_NIST_Assignments_Under_Executive_Order_Concerning_AI.pdf)]
+[[PDF](https://cdn.governance.ai/GovAI_Response_to_RFI_Related_to_NIST_Assignments_Under_Executive_Order_Concerning_AI.pdf)] [[RFI](https://www.federalregister.gov/documents/2023/12/21/2023-28232/request-for-information-rfi-related-to-nists-assignments-under-sections-41-45-and-11-of-the)]
 
 **2023**
 
 **National priorities for AI: Response to the OSTP request for information** <br>
 Jonas Schuett, Markus Anderljung, Lennart Heim, Elizabeth Seger <br>
 *Centre for the Governance of AI* <br>
-[[PDF](https://cdn.governance.ai/Response_to_the_OSTP_Request_for_Information__National_Priorities_for_Artificial_Intelligence.pdf)]
+[[PDF](https://cdn.governance.ai/Response_to_the_OSTP_Request_for_Information__National_Priorities_for_Artificial_Intelligence.pdf)] [[RFI](https://www.whitehouse.gov/wp-content/uploads/2023/05/OSTP-Request-for-Information-National-Priorities-for-Artificial-Intelligence.pdf)]
 
 **Response to the NTIA AI accountability policy request for comment** <br>
 Everitt T. Smith, Jonas Schuett, Markus Anderljung, Lennart Heim <br>
 *Centre for the Governance of AI* <br>
-[[PDF](https://cdn.governance.ai/GovAI_Response_to_the_NTIA_AI_Accountability_Policy_Request_for_Comment.pdf)]
+[[PDF](https://cdn.governance.ai/GovAI_Response_to_the_NTIA_AI_Accountability_Policy_Request_for_Comment.pdf)] [[RFI](https://www.federalregister.gov/documents/2023/04/13/2023-07776/ai-accountability-policy-request-for-comment)]
 
 **2022**
 
 **Submission to the NIST AI Risk Management Framework** <br>
 Jonas Schuett, Markus Anderljung <br>
 *Centre for the Governance of AI* <br>
-[[PDF](https://cdn.governance.ai/Comments_on_the_Initial_Draft_of_the_NIST_AI_RMF_-_GovAI.pdf)]
+[[PDF](https://cdn.governance.ai/Comments_on_the_Initial_Draft_of_the_NIST_AI_RMF_-_GovAI.pdf)] [[RFI](https://www.nist.gov/system/files/documents/2022/03/17/AI-RMF-1stdraft.pdf)]
 
 ---
 
