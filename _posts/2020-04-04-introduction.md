@@ -252,7 +252,7 @@ Jonas Schuett, Markus Anderljung, Lennart Heim, Elizabeth Seger <br>
 [[PDF](https://cdn.governance.ai/Response_to_the_OSTP_Request_for_Information__National_Priorities_for_Artificial_Intelligence.pdf)] [[RFI](https://www.whitehouse.gov/wp-content/uploads/2023/05/OSTP-Request-for-Information-National-Priorities-for-Artificial-Intelligence.pdf)]
 
 **Response to the NTIA AI accountability policy request for comment** <br>
-Everitt T. Smith, Jonas Schuett, Markus Anderljung, Lennart Heim <br>
+Everett T. Smith, Jonas Schuett, Markus Anderljung, Lennart Heim <br>
 *Centre for the Governance of AI* <br>
 [[PDF](https://cdn.governance.ai/GovAI_Response_to_the_NTIA_AI_Accountability_Policy_Request_for_Comment.pdf)] [[RFI](https://www.federalregister.gov/documents/2023/04/13/2023-07776/ai-accountability-policy-request-for-comment)]
 
