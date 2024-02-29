@@ -215,13 +215,11 @@ Jonas Schuett <br>
 Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00289-2)]
-{: .message }
 
 **Risk management in the Artificial Intelligence Act** <br>
 Jonas Schuett <br>
 *European Journal of Risk Regulation*, 1–19 <br>
 [[DOI](https://doi.org/10.1017/err.2023.1)]
-{: .message }
 
 **2021**
 
@@ -229,25 +227,41 @@ Jonas Schuett <br>
 Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum <br>
 *IEEE Transactions on Technology and Society, 2*(4), 200–209 <br>
 [[DOI](https://doi.org/10.1109/TTS.2021.3077595)]
-{: .message }
 
 **Corporate governance of artificial intelligence in the public interest** <br>
 Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 *Information, 12*(7), 275 <br>
 [[DOI](https://doi.org/10.3390/info12070275)]
-{: .message }
 
 ---
 
 ## Submissions
- 
-- **Schuett, J.**, Koessler, L., & Anderljung, M. (2024). Response to the RFI related to NIST's assignments under the Executive Order concerning AI. *Centre for the Governance of AI*. <https://www.governance.ai/research-paper/response-to-the-rfi-related-to-nists-assignments-under-the-executive-order-concerning-ai>
 
-- **Schuett, J.**, Anderljung, M., Heim, H., & Seger, E. (2023). National priorities for AI: Response to the OSTP request for information. *Centre for the Governance of AI*. <https://www.governance.ai/research-paper/national-priorities-for-artificial-intelligence-ostp-response>
+**2024**
 
-- Smith, E. T., **Schuett, J.**, Anderljung, M., & Heim, L. (2023). Response to the NTIA AI accountability policy request for comment. *Centre for the Governance of AI*. <https://www.governance.ai/research-paper/response-to-the-ntia-ai-accountability-policy>
+**Response to the RFI related to NIST's assignments under the Executive Order concerning AI** <br>
+Jonas Schuett, Leonie Koessler, Markus Anderljung <br>
+*Centre for the Governance of AI* <br>
+[[PDF](https://cdn.governance.ai/GovAI_Response_to_RFI_Related_to_NIST_Assignments_Under_Executive_Order_Concerning_AI.pdf)]
 
-- **Schuett, J.**, & Anderljung, M. (2022). Submission to the NIST AI Risk Management Framework. *Centre for the Governance of AI*. <https://www.governance.ai/research-paper/submission-to-the-nist-ai-risk-management-framework>
+**2023**
+
+**National priorities for AI: Response to the OSTP request for information** <br>
+Jonas Schuett, Markus Anderljung, Lennart Heim, Elizabeth Seger <br>
+*Centre for the Governance of AI* <br>
+[[PDF](https://cdn.governance.ai/Response_to_the_OSTP_Request_for_Information__National_Priorities_for_Artificial_Intelligence.pdf)]
+
+**Response to the NTIA AI accountability policy request for comment** <br>
+Everitt T. Smith, Jonas Schuett, Markus Anderljung, Lennart Heim <br>
+*Centre for the Governance of AI* <br>
+[[PDF](https://cdn.governance.ai/GovAI_Response_to_the_NTIA_AI_Accountability_Policy_Request_for_Comment.pdf)]
+
+**2022**
+
+**Submission to the NIST AI Risk Management Framework** <br>
+Jonas Schuett, Markus Anderljung <br>
+*Centre for the Governance of AI* <br>
+[[PDF](https://cdn.governance.ai/Comments_on_the_Initial_Draft_of_the_NIST_AI_RMF_-_GovAI.pdf)]
 
 ---
 
