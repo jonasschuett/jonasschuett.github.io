@@ -155,6 +155,8 @@ Previous research projects:
 
 **2024**
 
+![Ethics boards](/ethics_board.png)
+
 **How to design an AI ethics board** <br>
 Jonas Schuett, Anka Reuel, Alexis Carlier <br>
 *AI and Ethics* <br>
