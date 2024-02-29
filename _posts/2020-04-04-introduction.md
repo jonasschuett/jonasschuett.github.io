@@ -164,6 +164,8 @@ Jonas Schuett, Anka Reuel, Alexis Carlier <br>
 
 **2023**
 
+![External scrutiny](/external_scrutiny.png)
+
 **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** <br>
 Markus Anderljung, Everett T. Smith, Joe O'Brien, Lisa Soder, Benjamin Bucknall, Emma Bluemke, Jonas Schuett, Robert Trager, Lacey Strahm, Rumman Chowdhury <br>
 *arXiv preprint arXiv:2311.14711* <br>
