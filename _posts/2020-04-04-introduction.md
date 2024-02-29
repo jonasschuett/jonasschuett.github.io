@@ -151,11 +151,11 @@ Previous research projects:
 
 ---
 
-## Publications 2
+## Publications
 
 **2024**
 
-![Ethics board](/ethics_board.png)
+[//]: # ![Ethics board](/ethics_board.png)
 
 **How to design an AI ethics board** <br>
 Jonas Schuett, Anka Reuel, Alexis Carlier <br>
@@ -164,7 +164,7 @@ Jonas Schuett, Anka Reuel, Alexis Carlier <br>
 
 **2023**
 
-![External scrutiny](/external_scrutiny.png)
+[//]: # ![External scrutiny](/external_scrutiny.png)
 
 **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** <br>
 Markus Anderljung, Everett T. Smith, Joe O'Brien, Lisa Soder, Benjamin Bucknall, Emma Bluemke, Jonas Schuett, Robert Trager, Lacey Strahm, Rumman Chowdhury <br>
