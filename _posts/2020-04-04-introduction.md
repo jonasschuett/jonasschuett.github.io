@@ -255,6 +255,7 @@ Jonas Schuett <br>
 
 **Auditing large language models: A three-layered approach** <br>
 Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
+In this paper, we argue that existing auditing methodologies are insufficient to address the specific risks posed by large language models (LLMs). We propose a new auditing methodology for LLMs, in which governance audits, model audits, and application audits complement and inform each other. <br>
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00289-2)]
 
