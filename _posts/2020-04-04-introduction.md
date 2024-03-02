@@ -244,14 +244,14 @@ Jonas Schuett, Anka Reuel, Alexis Carlier <br>
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00409-y)]
 
-![Three lines](/three_lines_1.png)
+![Ethics board](/ethics_board_1.png)
 
 **Three lines of defense against risks from AI** <br>
 Jonas Schuett <br>
 *AI & Society* <br>
 [[DOI](https://doi.org/10.1007/s00146-023-01811-0)]
 
-![LLM audit](/llm_audit_1.png)
+![Ethics board](/ethics_board_1.png)
 
 **Auditing large language models: A three-layered approach** <br>
 Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
