@@ -249,6 +249,7 @@ In this paper, we provide a toolbox that AI companies can use to design an ethic
 
 **Three lines of defense against risks from AI** <br>
 Jonas Schuett <br>
+The Three Lines of Defense model is a popular risk governance framework. It helps organizations to assign and coordinate different risk management roles and responsibilities. In this paper, I apply the model to an AI context. <br>
 *AI & Society* <br>
 [[DOI](https://doi.org/10.1007/s00146-023-01811-0)]
 
