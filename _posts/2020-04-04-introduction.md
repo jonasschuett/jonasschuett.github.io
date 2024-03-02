@@ -240,7 +240,7 @@ Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 ![Ethics board](/ethics_board_2.png)
 
 **How to design an AI ethics board** <br>
-Jonas Schuett, Anka Reuel, Alexis Carlier <br>
+`Jonas Schuett`, `Anka Reuel`, `Alexis Carlier` <br>
 In this paper, we provide a toolbox that AI companies can use to design an ethics board. We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI. <br>
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00409-y)]
@@ -248,7 +248,7 @@ In this paper, we provide a toolbox that AI companies can use to design an ethic
 ![Ethics board](/ethics_board_2.png)
 
 **Three lines of defense against risks from AI** <br>
-Jonas Schuett <br>
+`Jonas Schuett` <br>
 The Three Lines of Defense model is a popular risk governance framework. It helps organizations to assign and coordinate different risk management roles and responsibilities. In this paper, I apply the model to an AI context. <br>
 *AI & Society* <br>
 [[DOI](https://doi.org/10.1007/s00146-023-01811-0)]
@@ -256,7 +256,7 @@ The Three Lines of Defense model is a popular risk governance framework. It help
 ![Ethics board](/ethics_board_2.png)
 
 **Auditing large language models: A three-layered approach** <br>
-Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
+`Jakob Mökander`, `Jonas Schuett`, `Hannah R. Kirk`, `Luciano Floridi` <br>
 In this paper, we argue that existing auditing methodologies are insufficient to address the specific risks posed by large language models (LLMs). We propose a new auditing methodology for LLMs, in which governance audits, model audits, and application audits complement and inform each other. <br>
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00289-2)]
