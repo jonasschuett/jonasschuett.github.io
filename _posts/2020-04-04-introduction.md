@@ -237,6 +237,7 @@ Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 
 ## Publications
 
+---
 ![Ethics board](/ethics_board_2.png)
 
 **How to design an AI ethics board** <br>
@@ -245,6 +246,7 @@ In this paper, we provide a toolbox that AI companies can use to design an ethic
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00409-y)]
 
+---
 ![Ethics board](/ethics_board_2.png)
 
 **Three lines of defense against risks from AI** <br>
@@ -253,6 +255,7 @@ The Three Lines of Defense model is a popular risk governance framework. It help
 *AI & Society* <br>
 [[DOI](https://doi.org/10.1007/s00146-023-01811-0)]
 
+---
 ![Ethics board](/ethics_board_2.png)
 
 **Auditing large language models: A three-layered approach** <br>
