@@ -241,6 +241,7 @@ Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 
 **How to design an AI ethics board** <br>
 Jonas Schuett, Anka Reuel, Alexis Carlier <br>
+In this paper, we provide a toolbox that AI companies can use to design an ethics board. We identify key design choices and discuss how each of them affects the board‘s ability to reduce societal risks from AI. <br>
 *AI and Ethics* <br>
 [[DOI](https://doi.org/10.1007/s43681-023-00409-y)]
 
