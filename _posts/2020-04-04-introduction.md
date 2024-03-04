@@ -38,13 +38,17 @@ I currently focus on:
 
 ## Ongoing research projects
 
-**AI risk assessment Delphi study** <br>
-Malcolm Murray, Jonas Schuett, Noemi Dreksler, Markus Anderljung, Ben Garfinkel <br>
-We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
+**Regulatory approaches for frontier AI** <br>
+Jonas Schuett, Markus Anderljung, Leonie Koessler, Ben Garfinkel <br>
+Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.
 
 **How to estimate the impact and likelihood of risks from AI** <br>
 Jonas Schuett, Caroline Baumoehl, Malcolm Murray, Leonie Koessler <br>
 We make the case for explicit risk estimates, list options, and make recommendations.
+
+**AI risk assessment Delphi study** <br>
+Malcolm Murray, Jonas Schuett, Noemi Dreksler, Markus Anderljung, Ben Garfinkel <br>
+We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
 
 **Defining tolerance levels for risks from AI** <br>
 Leonie Koessler, Jonas Schuett, Markus Anderljung <br>
@@ -57,10 +61,6 @@ We list existing safeguards, and discuss different ways of gathering evidence ab
 **Passing judgment on responsible scaling policies** <br>
 Jide Alaga, Jonas Schuett <br>
 We identify key properties of  good RSPs, and propose a grading rubric that can be used to evaluate existing ones.
-
-**Regulatory approaches for frontier AI.** <br>
-Jonas Schuett, Markus Anderljung, Leonie Koessler, Ben Garfinkel <br>
-Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.
 
 **Safety cases for frontier AI** <br>
 Marie Buhl, Jonas Schuett, Leonie Koessler, Markus Anderljung <br>
