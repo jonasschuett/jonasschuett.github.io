@@ -40,11 +40,11 @@ I currently focus on:
 
 **Regulatory approaches for frontier AI** <br>
 Jonas Schuett, Markus Anderljung, Leonie Koessler, Ben Garfinkel <br>
-Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.
+Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.{: .message }
 
 **How to estimate the impact and likelihood of risks from AI** <br>
 Jonas Schuett, Caroline Baumoehl, Malcolm Murray, Leonie Koessler <br>
-We make the case for explicit risk estimates, list options, and make recommendations.
+We make the case for explicit risk estimates, list options, and make recommendations.{: .message }
 
 **AI risk assessment Delphi study** <br>
 Malcolm Murray, Jonas Schuett, Noemi Dreksler, Markus Anderljung, Ben Garfinkel <br>
