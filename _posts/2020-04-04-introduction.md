@@ -40,23 +40,23 @@ I currently focus on:
 
 **Regulatory approaches for frontier AI** <br>
 Jonas Schuett, Markus Anderljung, Leonie Koessler, Ben Garfinkel <br>
-Although frontier AI developers already take some measures intended to reduce risks from frontier AI models to an acceptable level, we will eventually need legally enforceable requirements. However, it is unclear how prescriptive these requirements should be, and how much discretion regulatees should have. In this chapter, we try to answer the question: What approach should a future regulatory regime for frontier AI models take?{: .message }
+> Although frontier AI developers already take some measures intended to reduce risks from frontier AI models to an acceptable level, we will eventually need legally enforceable requirements. However, it is unclear how prescriptive these requirements should be, and how much discretion regulatees should have. In this chapter, we try to answer the question: What approach should a future regulatory regime for frontier AI models take?
 
 **How to estimate the impact and likelihood of risks from AI** <br>
 Jonas Schuett, Caroline Baumoehl, Malcolm Murray, Leonie Koessler <br>
-We make the case for explicit risk estimates, list options, and make recommendations.{: .message }
+> We make the case for explicit risk estimates, list options, and make recommendations.
 
 **AI risk assessment Delphi study** <br>
 Malcolm Murray, Jonas Schuett, Noemi Dreksler, Markus Anderljung, Ben Garfinkel <br>
-We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
+> We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
 
 **Defining tolerance levels for risks from AI** <br>
 Leonie Koessler, Jonas Schuett, Markus Anderljung <br>
-We propose a framework that decision-makers can use to define tolerance levels for risk estimates.
+> We propose a framework that decision-makers can use to define tolerance levels for risk estimates.
 
 **How to assess the effectiveness of safeguards** <br>
 Patrick Levermore, Jonas Schuett <br>
-We list existing safeguards, and discuss different ways of gathering evidence about their effectiveness.
+> We list existing safeguards, and discuss different ways of gathering evidence about their effectiveness.
 
 **Passing judgment on responsible scaling policies** <br>
 Jide Alaga, Jonas Schuett <br>
