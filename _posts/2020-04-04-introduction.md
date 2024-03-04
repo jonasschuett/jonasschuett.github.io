@@ -40,7 +40,7 @@ I currently focus on:
 
 **Regulatory approaches for frontier AI** <br>
 Jonas Schuett, Markus Anderljung, Leonie Koessler, Ben Garfinkel <br>
-Regulators could require developers to follow certain rules that are intended to reduce risks to an acceptable level (rules-based approach), or they could require them to achieve certain risk-related outcomes, without specifying how to do that (outcomes-based approach). Since the two approaches have complementary strengths and weaknesses, we argue that regulators should combine them.{: .message }
+Although frontier AI developers already take some measures intended to reduce risks from frontier AI models to an acceptable level, we will eventually need legally enforceable requirements. However, it is unclear how prescriptive these requirements should be, and how much discretion regulatees should have. In this chapter, we try to answer the question: What approach should a future regulatory regime for frontier AI models take?{: .message }
 
 **How to estimate the impact and likelihood of risks from AI** <br>
 Jonas Schuett, Caroline Baumoehl, Malcolm Murray, Leonie Koessler <br>
