@@ -68,7 +68,7 @@ We make the case for safety cases, recommend key components, and discuss their r
 
 **AI board governance: Best practices in risk oversight** <br>
 John Bridge, Nikhil Mulani, Jonas Schuett <br>
-In this paper, we give an overview of the board’s responsibility for risk oversight. We explain what fiduciary duties are and how the Delaware Court of Chancery has interpreted these duties in the so-called _Caremark_ cases. Next, we discuss five practices in risk oversight that are implied by _Caremark_ cases. We also consider additional practices that boards may want to implement, even though they are not directly implied by _Caremark_ cases.
+In this paper, we give an overview of the board’s responsibility for risk oversight. We explain what fiduciary duties are and how the Delaware Court of Chancery has interpreted these duties in the so-called "Caremark" cases. Next, we discuss five practices in risk oversight that are implied by Caremark cases. We also consider additional practices that boards may want to implement, even though they are not directly implied by Caremark cases.
 
 ---
 
