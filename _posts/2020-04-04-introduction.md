@@ -18,9 +18,9 @@ I’m currently wrapping up my PhD in law at Goethe Frankfurt. I hold a law degr
 
 ## Research
 
-My research is aimed at reducing societal risks from AI. I’m particularly concerned about emerging risks from frontier AI models.
+My research is aimed at reducing societal risks from AI. I’m particularly concerned about emerging risks from frontier AI systems.
 
-I try to inform high-stakes governance decisions by policymakers (e.g. the UK government) and frontier AI developers (e.g. OpenAI, Google DeepMind, and Anthropic).
+I try to inform high-stakes decisions by policymakers (e.g. the UK government) and frontier AI developers (e.g. OpenAI, Google DeepMind, and Anthropic).
 
 I currently focus on:
 
