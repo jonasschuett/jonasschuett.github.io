@@ -4,7 +4,7 @@ layout: page
 
 ![Jonas Schuett](/jonasschuett.jpg)
 
-# AI Governance Researcher • Policy Advisor • Trying to reduce societal risks from AI
+## About
 
 I'm a Senior Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. I lead our workstream on risk management.
 
@@ -36,37 +36,26 @@ I currently focus on:
 
 ## Ongoing research projects
 
-**Regulatory approaches for frontier AI** <br>
-Jonas Schuett, Markus Anderljung, Leonie Koessler, Ben Garfinkel <br>
-Although frontier AI developers already take some measures intended to reduce risks from frontier AI models to an acceptable level, we will eventually need legally enforceable requirements. However, it is unclear how prescriptive these requirements should be, and how much discretion regulatees should have. In this chapter, we try to answer the question: What approach should a future regulatory regime for frontier AI models take?
+**From principles to rules: A regulatory approach for frontier AI** <br>
+Jonas Schuett, Markus Anderljung, Leonie Koessler, Alexis Carlier, Ben Garfinkel
 
 **How to estimate the impact and likelihood of risks from AI** <br>
-Jonas Schuett, Caroline Baumoehl, Malcolm Murray, Leonie Koessler <br>
-We make the case for explicit risk estimates, list options, and make recommendations.
+Jonas Schuett, Caroline Baumoehl, Malcolm Murray, Leonie Koessler
 
-**AI risk assessment Delphi study** <br>
-Malcolm Murray, Jonas Schuett, Noemi Dreksler, Markus Anderljung, Ben Garfinkel <br>
-We ask leading domain experts to estimate the impact and likelihood of different risk scenarios using a modified Delphi approach.
+**Risk thresholds for frontier AI** <br>
+Leonie Koessler, Jonas Schuett, Markus Anderljung
 
-**Defining tolerance levels for risks from AI** <br>
-Leonie Koessler, Jonas Schuett, Markus Anderljung <br>
-We propose a framework that decision-makers can use to define tolerance levels for risk estimates.
+**Estimating risks from LLM: A Delphi study** <br>
+Malcolm Murray, Noemi Dreksler, Jonas Schuett, Ben Garfinkel, Markus Anderljung
 
-**How to assess the effectiveness of safeguards** <br>
-Patrick Levermore, Jonas Schuett <br>
-We list existing safeguards, and discuss different ways of gathering evidence about their effectiveness.
-
-**Passing judgment on responsible scaling policies** <br>
-Jide Alaga, Jonas Schuett <br>
-We identify key properties of  good RSPs, and propose a grading rubric that can be used to evaluate existing ones.
+**Criteria for evaluating frontier AI safety policies** <br>
+Jide Alaga, Jonas Schuett
 
 **Safety cases for frontier AI** <br>
-Marie Buhl, Jonas Schuett, Leonie Koessler, Markus Anderljung <br>
-We make the case for safety cases, recommend key components, and discuss their relevance for self-governance and regulation.
+Marie Buhl, Gaurav Sett, Leonie Koessler, Jonas Schuett
 
-**AI board governance: Best practices in risk oversight** <br>
-John Bridge, Nikhil Mulani, Jonas Schuett <br>
-In this paper, we give an overview of the board’s responsibility for risk oversight. We explain what fiduciary duties are and how the Delaware Court of Chancery has interpreted these duties in the so-called "Caremark" cases. Next, we discuss five practices in risk oversight that are implied by Caremark cases. We also consider additional practices that boards may want to implement, even though they are not directly implied by Caremark cases.
+**How to assess the effectiveness of safeguards** <br>
+Patrick Levermore, Jonas Schuett
 
 ---
 
@@ -153,6 +142,11 @@ Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 ## Submissions
 
 **2024**
+
+**Comments on NIST’s Draft Profile on Generative AI** <br>
+Malcolm Murray, Jonas Schuett, Sam Manning, Alan Chan, Leonie Koessler, Markus Anderljung
+*Centre for the Governance of AI* <br>
+[[PDF](https://cdn.governance.ai/Comments_on_NISTs_Draft_Profile_on_Generative_AI.pdf)] [[RFI](https://airc.nist.gov/docs/NIST.AI.600-1.GenAI-Profile.ipd.pdf)]
 
 **Response to the RFI related to NIST's assignments under the Executive Order concerning AI** <br>
 Jonas Schuett, Leonie Koessler, Markus Anderljung <br>
