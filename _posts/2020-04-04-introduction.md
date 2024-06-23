@@ -4,7 +4,7 @@ layout: page
 
 ![Jonas Schuett](/jonasschuett.jpg)
 
-## AI governance researcher and policy advisor trying to reduce societal risks from AI
+# AI Governance Researcher • Policy Advisor • Trying to reduce societal risks from AI
 
 I'm a Senior Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. I lead our workstream on risk management.
 
