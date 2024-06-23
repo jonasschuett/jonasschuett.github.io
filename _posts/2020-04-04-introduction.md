@@ -6,7 +6,7 @@ layout: page
 
 ## About
 
-I'm a Senior Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. I lead our workstream on risk management.
+I'm a Senior Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford, where I lead the risk management workstream.
 
 Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s Public Policy Team. I also helped found the [Institute for Law and AI (LawAI)](https://law-ai.org/), where I'm still a Non-Executive Board Member.
 
