@@ -4,15 +4,13 @@ layout: page
 
 ![Jonas Schuett](/jonasschuett.jpg)
 
-## About
+## AI governance researcher and policy advisor trying to reduce societal risks from AI
 
-I'm a Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. Within the policy team, I lead the workstream on risk management and corporate governance.
+I'm a Senior Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/) in Oxford. I lead our workstream on risk management.
 
-Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s public policy team. I also helped found the [Institute for Law and AI (LawAI)](https://law-ai.org/), where I'm still a board member.
+Before joining GovAI, I was seconded to the UK Cabinet Office to support their work on AI regulation, and interned at Google DeepMind’s Public Policy Team. I also helped found the [Institute for Law and AI (LawAI)](https://law-ai.org/), where I'm still a Non-Executive Board Member.
 
-I’m currently wrapping up my PhD in law at Goethe Frankfurt. I hold a law degree from Heidelberg University, and have studied economics at the University of Zurich.
-
-I live in Berlin, but come to Oxford every 4-6 weeks.
+I’m currently wrapping up my PhD in law at Goethe Frankfurt. I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
 
 <i class="fa-brands fa-twitter" style="color: #228be6;"></i> [Twitter](https://twitter.com/jonasschuett) &nbsp; <i class="fa-brands fa-linkedin" style="color: #228be6;"></i> [LinkedIn](https://www.linkedin.com/in/jonasschuett) &nbsp; <i class="fa-solid fa-envelope" style="color: #228be6;"></i> [Email](mailto:jonas.schuett@governance.ai)
 
