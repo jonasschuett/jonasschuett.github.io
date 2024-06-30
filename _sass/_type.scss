@@ -33,6 +33,10 @@ p {
   margin-bottom: 1rem;
 }
 
+p:where([style*="font-weight: bold"], .bold) {
+  var(--gray-900);
+}
+
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
