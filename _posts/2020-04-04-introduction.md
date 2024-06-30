@@ -56,7 +56,7 @@ Patrick Levermore, Jonas Schuett
 
 # Advising
 
-<p class="lead">I regularly advise governments and leading AI companies on how they could manage emerging risks from AI.</p>
+<p class="lead">I regularly advise governments and leading AI companies on various AI policy issues.</p>
 
 ### Advising governments
 
