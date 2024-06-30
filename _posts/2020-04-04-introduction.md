@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-[About](#about) • [Research](#research)
+[About](#about) • [Research](#research) • [Advising](#advising) • [Publications](#publications) • [Submissions](#submissions)
 
 
 ![Jonas Schuett](/jonasschuett.jpg)
