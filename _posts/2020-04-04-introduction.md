@@ -22,7 +22,7 @@ I live in Berlin, but regularly visit Oxford, London, and Washington, DC. Outsid
 
 # Research
 
-<p class="lead">I study emerging risks from AI. I’m particularly concerned about potentially catastrophic risks from frontier AI systems.</p>
+<p class="lead">My research is aimed at reducing emerging risks from AI.</p>
 
 ### Research interests
 
