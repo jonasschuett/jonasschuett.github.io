@@ -2,6 +2,10 @@
 layout: page
 ---
 
+
+[About](#about) • [Research](#research)
+
+
 ![Jonas Schuett](/jonasschuett.jpg)
 
 # About
