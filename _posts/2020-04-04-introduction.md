@@ -67,6 +67,11 @@ Patrick Levermore, Jonas Schuett
 
 **2024**
 
+**Risk thresholds for frontier AI** <br>
+Leonie Koessler, Jonas Schuett, Markus Anderljung <br>
+*arXiv preprint arXiv:2406.14713* <br>
+[[arXiv](https://arxiv.org/abs/2406.14713)]
+
 **How to design an AI ethics board** <br>
 Jonas Schuett, Anka Reuel, Alexis Carlier <br>
 *AI and Ethics* <br>
