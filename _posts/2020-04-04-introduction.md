@@ -56,15 +56,15 @@ Patrick Levermore, Jonas Schuett
 
 # Advising
 
-<p class="lead">I regularly advise governments and leading AI companies on various AI policy issues.</p>
+<p class="lead">I regularly advise governments and AI companies on various AI policy issues.</p>
 
-### Advising governments
+### Governments
 
 In the UK, I‘m currently helping the AI Safety Institute (AISI) with a project on safety cases. I have also supported work by the Department for Science, Innovation and Technology (DSIT) on AI risk assessments and best practices in AI safety. Before that, I was seconded to the Cabinet Office to work on AI regulation.
 
 In the US, I‘m mainly trying to support the National Institute for Standards and Technology (NIST). I‘m part of the AI Safety Institute Consortium and regularly comment on drafts and requests for information.
 
-### Advising companies
+### AI companies
 
 I frequently advise leading AI companies on risk management and safety practices. Since many GovAI alumni have joined companies like OpenAI, Google DeepMind, and Anthropic, we have an unusual network.
 
