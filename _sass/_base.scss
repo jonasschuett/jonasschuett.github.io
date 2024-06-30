@@ -22,14 +22,14 @@ body {
 a {
   color: var(--link-color);
   text-decoration: underline;
-  text-decoration-color: --gray-500;
+  text-decoration-color: #bbbbbb;
   font-weight: 500;
 
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
     text-decoration: underline;
-    text-decoration-color: red;
+    text-decoration-color: #2d2d2d;
   }
 
   strong {
