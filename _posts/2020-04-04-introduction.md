@@ -2,8 +2,6 @@
 layout: page
 ---
 
-![Jonas Schuett](/jonasschuett.jpg)
-
 # About
 
 <p class="lead">AI governance researcher and policy advisor. Helping governments and AI companies to manage emerging risks from AI.</p>
@@ -15,6 +13,8 @@ Before joining GovAI, I was seconded to the UK Cabinet Office and interned at Go
 I’m currently wrapping up my PhD in law at Goethe Frankfurt. I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
 
 I live in Berlin, but regularly visit Oxford, London, and Washington, DC. Outside work, I enjoy the finer things in life: from specialty coffee and delicious vegan food to contemporary art and the opera. I‘m engaged to my high school sweetheart. We have the best dog in the world.
+
+![Jonas Schuett](/jonasschuett.jpg)
 
 <i class="fa-brands fa-twitter" style="color: #228be6;"></i> [Twitter](https://twitter.com/jonasschuett) &nbsp; <i class="fa-brands fa-linkedin" style="color: #228be6;"></i> [LinkedIn](https://www.linkedin.com/in/jonasschuett) &nbsp; <i class="fa-solid fa-envelope" style="color: #228be6;"></i> [Email](mailto:jonas.schuett@governance.ai)
 
