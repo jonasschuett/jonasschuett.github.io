@@ -22,7 +22,7 @@ I live in Berlin, but regularly visit Oxford, London, and Washington, DC. Outsid
 
 # Research
 
-## Research interests
+### Research interests
 
 My research is aimed at reducing societal risks from AI. I’m particularly concerned about emerging risks from frontier AI systems.
 
@@ -39,7 +39,7 @@ I currently focus on:
 - **Auditing.** The development and deployment of frontier AI models has significant effects on society. Key governance decisions should therefore not be left to the developers; society needs to have a say. At the minimum, society needs to be informed. A common way to gather information about a model and the governance of its developers is auditing.
 
 
-## Ongoing research projects
+### Ongoing research projects
 
 **From principles to rules: A regulatory approach for frontier AI** <br>
 Jonas Schuett, Markus Anderljung, Leonie Koessler, Alexis Carlier, Ben Garfinkel
@@ -68,13 +68,13 @@ Patrick Levermore, Jonas Schuett
 
 I regularly advise governments and leading AI companies on various AI policy issues.
 
-## Advising governments
+### Advising governments
 
 In the UK, I‘m currently helping the AI Safety Institute (AISI) with a project on safety cases. I have also supported work by the Department for Science, Innovation and Technology (DSIT) on AI risk assessments and best practices in AI safety. Before that, I was seconded to the Cabinet Office to work on AI regulation.
 
 In the US, I‘m mainly trying to support the National Institute for Standards and Technology (NIST). I‘m part of the AI Safety Institute Consortium and regularly comment on drafts and requests for information.
 
-## Advising companies
+### Advising companies
 
 I frequently advise leading AI companies on risk management and safety practices. Since many GovAI alumni have joined companies like OpenAI, Google DeepMind, and Anthropic, we have an unusual network.
 
