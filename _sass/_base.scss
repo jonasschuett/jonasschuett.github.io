@@ -28,7 +28,8 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    text-decoration-color: --gray-700;
+    text-decoration: underline;
+    text-decoration-color: red;
   }
 
   strong {
