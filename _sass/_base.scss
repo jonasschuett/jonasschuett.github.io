@@ -23,8 +23,8 @@ a {
   text-decoration: none;
 
   // `:focus` is linked to `:hover` for basic accessibility
-  &:hover,
-  &:focus {
+  :hover,
+  :focus {
     text-decoration: underline;
   }
 
