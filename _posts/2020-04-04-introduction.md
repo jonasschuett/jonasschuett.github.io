@@ -22,22 +22,15 @@ I live in Berlin, but regularly visit Oxford, London, and Washington, DC. Outsid
 
 # Research
 
+<p class="lead">I study emerging risks from AI. I’m particularly concerned about potentially catastrophic risks from frontier AI systems.</p>
+
 ### Research interests
 
-My research is aimed at reducing societal risks from AI. I’m particularly concerned about emerging risks from frontier AI systems.
-
-With my research, I try to inform high-stakes decisions by policymakers (e.g. the UK government) and frontier AI developers (e.g. OpenAI, Google DeepMind, and Anthropic).
-
-I currently focus on:
-
-- **Risk management.** It becomes increasingly clear that the development and deployment of frontier AI models poses severe risks to society. I study how these risks can be measured and reduced to an acceptable level.
+- **Risk management.** It becomes increasingly clear that the development and deployment of frontier AI systems poses severe risks to society. I study how these risks can be measured and reduced to an acceptable level.
 
 - **Regulation.** Although self-governance plays an important role in reducing emerging risks from AI, we will eventually need frontier AI regulation. I‘m working on several research projects intended to inform the design of a regulatory regime for frontier AI models, especially in the UK and US.
 
 - **Corporate governance.** As frontier AI developers transition from startups to more mature companies, they need to improve their corporate governance. I‘m particularly interested in ways to improve their risk governance.
-
-- **Auditing.** The development and deployment of frontier AI models has significant effects on society. Key governance decisions should therefore not be left to the developers; society needs to have a say. At the minimum, society needs to be informed. A common way to gather information about a model and the governance of its developers is auditing.
-
 
 ### Ongoing research projects
 
@@ -63,7 +56,7 @@ Patrick Levermore, Jonas Schuett
 
 # Advising
 
-I regularly advise governments and leading AI companies on various AI policy issues.
+<p class="lead">I regularly advise governments and leading AI companies on how they could manage emerging risks from AI.</p>
 
 ### Advising governments
 
