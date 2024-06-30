@@ -47,9 +47,6 @@ Jonas Schuett, Markus Anderljung, Leonie Koessler, Alexis Carlier, Ben Garfinkel
 **How to estimate the impact and likelihood of risks from AI** <br>
 Jonas Schuett, Caroline Baumoehl, Malcolm Murray, Leonie Koessler
 
-**Risk thresholds for frontier AI** <br>
-Leonie Koessler, Jonas Schuett, Markus Anderljung
-
 **Estimating risks from LLM: A Delphi study** <br>
 Malcolm Murray, Noemi Dreksler, Jonas Schuett, Ben Garfinkel, Markus Anderljung
 
