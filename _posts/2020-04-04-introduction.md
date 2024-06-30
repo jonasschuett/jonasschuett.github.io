@@ -6,7 +6,7 @@ layout: page
 
 ## About
 
-<p class="lead">I’m an AI governance researcher and policy advisor. I help governments and AI companies to manage emerging risks from AI.</p>
+<p class="lead">AI governance researcher and policy advisor. Helping governments and AI companies to manage emerging risks from AI.</p>
 
 I'm a Senior Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/), a nonprofit organization based in Oxford.
 
