@@ -155,7 +155,7 @@ Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 
 ---
 
-## Submissions
+# Submissions
 
 **2024**
 
