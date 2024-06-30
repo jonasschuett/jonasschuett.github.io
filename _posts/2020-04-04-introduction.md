@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# About
-
 ![Jonas Schuett](/jonasschuett.jpg)
+
+# About
 
 <p class="lead">AI governance researcher and policy advisor. Helping governments and AI companies to manage emerging risks from AI.</p>
 
