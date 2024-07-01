@@ -26,7 +26,7 @@ I live in Berlin, but regularly visit Oxford, London, and Washington, DC. Outsid
 
 # Research
 
-<p class="lead">My research is aimed at reducing emerging risks from AI.</p>
+My research is aimed at reducing emerging risks from AI.
 
 ### Research interests
 
@@ -60,7 +60,7 @@ Patrick Levermore, Jonas Schuett
 
 # Advising
 
-<p class="lead">I regularly advise governments and leading AI companies on various AI policy issues.</p>
+I regularly advise governments and leading AI companies on various AI policy issues.
 
 ### Governments
 
@@ -75,8 +75,6 @@ I frequently advise leading AI companies on risk management and safety practices
 ---
 
 # Publications
-
-<p class="lead">Most of my research gets published in peer-reviewed journals.</p>
 
 **2024**
 
@@ -162,8 +160,6 @@ Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 ---
 
 # Submissions
-
-<p class="lead">I regularly submit responses to requests for information (RFIs).</p>
 
 **2024**
 
