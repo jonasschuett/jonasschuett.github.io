@@ -50,9 +50,11 @@ I'm currently working on the following research projects (last updated: 13 July 
 
 - **Estimating risks from LLM: A Delphi study.** We ask leading domain experts to estimate the impact and likelihood of six risk scenarios using a modified Delphi approach.
 
-- **How to assess the effectiveness of safeguards.** We list existing safeguards and discuss different ways of gathering evidence about their effectiveness.
+- **How to assess the effectiveness of AI safety measures.** We list existing safeguards and discuss different ways of gathering evidence about their effectiveness.
 
 - **Setting AI risk thresholds for fatalities.** We try out different approaches that regulators or frontier AI developers may use to set risk thresholds for number of fatalities.
+
+- **Defining the scope of frontier AI regulation.** We propose a multi-step approach that can be used to narrow down the material scope of frontier AI regulation.
 
 ---
 
