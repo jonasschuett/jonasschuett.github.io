@@ -2,10 +2,6 @@
 layout: page
 ---
 
-
-[About](#about) &nbsp;&nbsp; [Research](#research) &nbsp;&nbsp; [Advising](#advising) &nbsp;&nbsp; [Publications](#publications)
-
-
 ![Jonas Schuett](/jonasschuett.jpg)
 
 # About
