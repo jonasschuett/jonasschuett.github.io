@@ -20,7 +20,7 @@ I’m currently wrapping up my PhD in law at Goethe University Frankfurt. I hold
 
 I live in Berlin, but regularly visit Oxford, London, and Washington, DC. Outside work, I enjoy the finer things in life: from specialty coffee and delicious vegan food to contemporary art and the opera. I‘m engaged to my high school sweetheart. We have the best dog in the world.
 
-<i class="fa-brands fa-twitter fa-fw" style="color: #a4acb4"></i> [Twitter](https://twitter.com/jonasschuett) &nbsp;&nbsp; <i class="fa-brands fa-linkedin-in fa-fw" style="color: #a4acb4"></i> [LinkedIn](https://www.linkedin.com/in/jonasschuett) &nbsp;&nbsp; <i class="fa-regular fa-envelope fa-fw" style="color: #a4acb4"></i> [Email](mailto:jonas.schuett@governance.ai)
+<i class="fa-brands fa-twitter fa-fw" style="color: #a4acb4"></i> [Twitter](https://twitter.com/jonasschuett) &nbsp;&nbsp; <i class="fa-brands fa-linkedin fa-fw" style="color: #a4acb4"></i> [LinkedIn](https://www.linkedin.com/in/jonasschuett) &nbsp;&nbsp; <i class="fa-solid fa-envelope fa-fw" style="color: #a4acb4"></i> [Email](mailto:jonas.schuett@governance.ai)
 
 ---
 
