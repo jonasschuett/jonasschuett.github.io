@@ -14,7 +14,7 @@ layout: page
 
 I'm a Senior Research Fellow at the [Centre for the Governance of AI (GovAI)](https://www.governance.ai/), a nonprofit organization based in Oxford.
 
-Before joining GovAI, I served as a Expert Advisor (Artificial Intelligence) at the UK Cabinet Office and interned at Google DeepMind‘s Public Policy Team. I also helped found the [Institute for Law and AI (LawAI)](https://law-ai.org/), where I‘m still a Non-Executive Board Member.
+Before joining GovAI, I was seconded to the UK Cabinet Office and interned at Google DeepMind‘s Public Policy Team. I also helped found the [Institute for Law and AI (LawAI)](https://law-ai.org/), where I‘m still a Non-Executive Board Member.
 
 I’m currently wrapping up my PhD in law at Goethe University Frankfurt. I hold a law degree from Heidelberg University and have studied economics at the University of Zurich.
 
