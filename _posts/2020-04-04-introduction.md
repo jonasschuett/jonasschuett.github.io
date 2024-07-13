@@ -20,7 +20,7 @@ I’m currently wrapping up my PhD in law at Goethe University Frankfurt. I hold
 
 I live in Berlin, but regularly visit Oxford, London, and Washington, DC. Outside work, I enjoy the finer things in life: from specialty coffee and delicious vegan food to contemporary art and the opera. I‘m engaged to my high school sweetheart. We have the best dog in the world.
 
-<br><br>
+<br>
 
 <i class="fa-brands fa-twitter fa-fw" style="color: #a4acb4"></i> [Twitter](https://twitter.com/jonasschuett) &nbsp;&nbsp; <i class="fa-brands fa-linkedin fa-fw" style="color: #a4acb4"></i> [LinkedIn](https://www.linkedin.com/in/jonasschuett) &nbsp;&nbsp; <i class="fa-solid fa-envelope fa-fw" style="color: #a4acb4"></i> [Email](mailto:jonas.schuett@governance.ai)
 
@@ -38,7 +38,7 @@ My research is aimed at reducing emerging risks from AI. I'm particularly intere
 
 - **Corporate governance.** As frontier AI developers transition from startups to more mature companies, they need to improve their corporate governance. I‘m particularly interested in ways to improve their risk governance. Examples: [Three lines of defense against risks from AI](https://doi.org/10.1007/s00146-023-01811-0), [How to design an AI ethics board](https://doi.org/10.1007/s43681-023-00409-y), [Corporate governance of artificial intelligence in the public interest](https://doi.org/10.3390/info12070275)
 
-<br><br>
+<br>
 
 ### Ongoing research projects
 
