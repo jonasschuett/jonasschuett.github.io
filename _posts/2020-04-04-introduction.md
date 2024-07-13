@@ -58,15 +58,9 @@ My research is aimed at reducing emerging risks from AI, especially by improving
 
 I regularly advise governments and leading AI companies on various AI policy issues.
 
-### Governments
+- **Governments.** In the UK, I‘m currently helping the AI Safety Institute (AISI) with a project on safety cases. I have also supported work by the Department for Science, Innovation and Technology (DSIT) on AI risk assessments and best practices in AI safety. Before that, I was seconded to the Cabinet Office to work on AI regulation. In the US, I mainly try to support the National Institute for Standards and Technology (NIST). I‘m part of the AI Safety Institute Consortium and regularly comment on drafts and requests for information.
 
-In the UK, I‘m currently helping the AI Safety Institute (AISI) with a project on safety cases. I have also supported work by the Department for Science, Innovation and Technology (DSIT) on AI risk assessments and best practices in AI safety. Before that, I was seconded to the Cabinet Office to work on AI regulation.
-
-In the US, I mainly try to support the National Institute for Standards and Technology (NIST). I‘m part of the AI Safety Institute Consortium and regularly comment on drafts and requests for information.
-
-### AI companies
-
-I frequently advise leading AI companies on risk management and safety practices. Since many GovAI alumni have joined companies like OpenAI, Google DeepMind, and Anthropic, we have an unusual network.
+- **AI companies.** I frequently advise leading AI companies on risk management and safety practices. Since many GovAI alumni have joined companies like OpenAI, Google DeepMind, and Anthropic, we have an unusual network.
 
 ---
 
