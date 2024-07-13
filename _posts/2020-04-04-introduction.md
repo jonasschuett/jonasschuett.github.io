@@ -28,7 +28,7 @@ I live in Berlin, but regularly visit Oxford, London, and Washington, DC. Outsid
 
 ### Research interests
 
-My research is aimed at reducing emerging risks from AI, especially by improving risk management, regulation, and corporate governance.
+My research is aimed at reducing emerging risks from AI. I'm particularly interested in AI risk management, regulation, and corporate governance.
 
 - **Risk management.** It becomes increasingly clear that the development and deployment of frontier AI systems poses severe risks to society. I study how these risks can be measured and reduced to an acceptable level.
 
