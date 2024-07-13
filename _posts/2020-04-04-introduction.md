@@ -80,13 +80,13 @@ I frequently advise leading AI companies on risk management and safety practices
 
 **From principles to rules: A regulatory approach for frontier AI** <br>
 Jonas Schuett, Markus Anderljung, Alexis Carlier, Leonie Koessler, Ben Garfinkel <br>
-*Forthcoming in The Oxford Handbook on the Foundations and Regulation of Generative AI* <br>
-[arXiv](https://arxiv.org/pdf/2407.07300)
+*The Oxford Handbook on the Foundations and Regulation of Generative AI (forthcoming)* <br>
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/pdf/2407.07300)
 
 **Risk thresholds for frontier AI** <br>
 Leonie Koessler, Jonas Schuett, Markus Anderljung <br>
 *arXiv preprint arXiv:2406.14713* <br>
-[arXiv](https://arxiv.org/pdf/2406.14713)
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/pdf/2406.14713)
 
 **How to design an AI ethics board** <br>
 Jonas Schuett, Anka Reuel, Alexis Carlier <br>
@@ -98,7 +98,7 @@ Jonas Schuett, Anka Reuel, Alexis Carlier <br>
 **Towards publicly accountable frontier LLMs: Building an external scrutiny ecosystem under the ASPIRE framework** <br>
 Markus Anderljung, Everett T. Smith, Joe O'Brien, Lisa Soder, Benjamin Bucknall, Emma Bluemke, Jonas Schuett, Robert Trager, Lacey Strahm, Rumman Chowdhury <br>
 *arXiv preprint arXiv:2311.14711* <br>
-[arXiv](https://arxiv.org/pdf/2311.14711)
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/pdf/2311.14711)
 
 **Three lines of defense against risks from AI** <br>
 Jonas Schuett <br>
@@ -108,32 +108,32 @@ Jonas Schuett <br>
 **Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers** <br>
 Jide Alaga, Jonas Schuett <br>
 *arXiv preprint arXiv:2310.00374* <br>
-[arXiv](https://arxiv.org/pdf/2310.00374)
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/pdf/2310.00374)
 
 **Open-sourcing highly capable foundation models: An evaluation of risks, benefits, and alternative methods for pursuing open-source objectives** <br>
 Elizabeth Seger, Noemi Dreksler, Richard Moulange, Emily Dardaman, Jonas Schuett, K. Wei, Christoph Winter, Mackenzie Arnold, Seán Ó hÉigeartaigh, Anton Korinek, Markus Anderljung, Ben Bucknall, Alan Chan, Eoghan Stafford, Leonie Koessler, Aviv Ovadya, Ben Garfinkel, Emma Bluemke, Michael Aird, Patrick Levermore, Julian Hazell, Abhishek Gupta <br>
 *arXiv preprint arXiv:2311.09227* <br>
-[arXiv](https://arxiv.org/pdf/2311.09227)
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/pdf/2311.09227)
 
 **Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries** <br>
 Leonie Koessler, Jonas Schuett <br>
 *arXiv preprint arXiv:2307.08823* <br>
-[arXiv](https://arxiv.org/pdf/2307.08823)
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/pdf/2307.08823)
 
 **Frontier AI regulation: Managing emerging risks to public safety** <br>
 Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, Jonas Schuett, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf <br>
 *arXiv preprint arXiv:2307.03718* <br>
-[arXiv](https://arxiv.org/pdf/2307.03718)
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/pdf/2307.03718)
 
 **AGI labs need an internal audit function** <br>
 Jonas Schuett <br>
 *arXiv preprint arXiv:2305.17038* <br>
-[arXiv](https://arxiv.org/pdf/2305.17038)
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/pdf/2305.17038)
 
 **Towards best practices in AGI safety and governance: A survey of expert opinion** <br>
 Jonas Schuett, Noemi Dreksler, Markus Anderljung, David McCaffary, Lennart Heim, Emma Bluemke, Ben Garfinkel <br>
 *arXiv preprint arXiv:2305.07153* <br>
-[arXiv](https://arxiv.org/pdf/2305.07153)
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/pdf/2305.07153)
 
 **Defining the scope of AI regulations** <br>
 Jonas Schuett <br>
