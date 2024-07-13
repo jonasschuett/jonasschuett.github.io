@@ -44,7 +44,7 @@ I'm currently working on the following research projects (*last updated: 13 July
 
 - **Safety cases for frontier AI**. We make the case for safety cases, recommend key components, and discuss their role in a regulatory regime for frontier AI.
 
-- **Classifying claims and evidence in a safety case for frontier AI**. We classify different types of claims and evidence that may be used in a safety case for frontier AI.
+- **Classifying claims and evidence in safety cases for frontier AI**. We classify different types of claims and evidence that may be used in a safety case for frontier AI.
 
 - **How to estimate the impact and likelihood of risks from AI.** We make the case for explicit risk estimates, list options, and make recommendations.
 
