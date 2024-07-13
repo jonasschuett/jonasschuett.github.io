@@ -38,23 +38,19 @@ My research is aimed at reducing emerging risks from AI, especially by improving
 
 ### Ongoing research projects
 
-**From principles to rules: A regulatory approach for frontier AI** <br>
-Jonas Schuett, Markus Anderljung, Leonie Koessler, Alexis Carlier, Ben Garfinkel
+- **Evaluation criteria for AI safety policies.** We propose a grading rubric that can be used to evaluate existing AI safety policeis (e.g. Anthropic's Responsible Scaling Policy).
 
-**How to estimate the impact and likelihood of risks from AI** <br>
-Jonas Schuett, Caroline Baumoehl, Malcolm Murray, Leonie Koessler
+- **Safety cases for frontier AI**. We make the case for safety cases, recommend key components, and discuss their role in a regulatory regime for frontier AI.
 
-**Estimating risks from LLM: A Delphi study** <br>
-Malcolm Murray, Noemi Dreksler, Jonas Schuett, Ben Garfinkel, Markus Anderljung
+- **Classifying claims and evidence in a safety case for frontier AI**. We classify different types of claims and evidence that may be used in a safety case for frontier AI.
 
-**Criteria for evaluating frontier AI safety policies** <br>
-Jide Alaga, Jonas Schuett
+- **How to estimate the impact and likelihood of risks from AI.** We make the case for explicit risk estimates, list options, and make recommendations.
 
-**Safety cases for frontier AI** <br>
-Marie Buhl, Gaurav Sett, Leonie Koessler, Jonas Schuett
+- **Estimating risks from LLM: A Delphi study.** We ask leading domain experts to estimate the impact and likelihood of six risk scenarios using a modified Delphi approach.
 
-**How to assess the effectiveness of safeguards** <br>
-Patrick Levermore, Jonas Schuett
+- **How to assess the effectiveness of safeguards.** We list existing safeguards and discuss different ways of gathering evidence about their effectiveness.
+
+- **Setting AI risk thresholds for fatalities.** We try out different approaches that regulators or frontier AI developers may use to set risk thresholds for number of fatalities.
 
 ---
 
