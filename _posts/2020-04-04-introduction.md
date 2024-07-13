@@ -32,7 +32,7 @@ My research is aimed at reducing emerging risks from AI, especially by improving
 
 - **Risk management.** It becomes increasingly clear that the development and deployment of frontier AI systems poses severe risks to society. I study how these risks can be measured and reduced to an acceptable level.
 
-- **Regulation.** Although self-governance plays an important role in reducing emerging risks from AI, we will eventually need frontier AI regulation. I‘m working on several research projects intended to inform the design of a regulatory regime for frontier AI models, especially in the UK and US.
+- **Regulation.** Although self-governance plays an important role in reducing emerging risks from AI, we will eventually need frontier AI regulation. I‘m working on several research projects intended to inform the design of a regulatory regime for frontier AI models, especially in the UK, EU, and US.
 
 - **Corporate governance.** As frontier AI developers transition from startups to more mature companies, they need to improve their corporate governance. I‘m particularly interested in ways to improve their risk governance.
 
