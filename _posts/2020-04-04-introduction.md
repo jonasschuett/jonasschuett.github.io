@@ -30,17 +30,20 @@ I live in Berlin, but regularly visit Oxford, London, and Washington, DC. Outsid
 
 My research is aimed at reducing emerging risks from AI. I'm particularly interested in AI risk management, regulation, and corporate governance.
 
-- **Risk management.** It becomes increasingly clear that the development and deployment of frontier AI systems poses severe risks to society. I study how these risks can be measured and reduced to an acceptable level.  <br>
+**Risk management** <br>
+It becomes increasingly clear that the development and deployment of frontier AI systems poses severe risks to society. I study how these risks can be measured and reduced to an acceptable level.  <br>
 [Risk thresholds for frontier AI](https://arxiv.org/pdf/2406.14713) <br>
 [Risk assessment at AGI companies: A review of popular risk assessment techniques from other safety-critical industries](https://arxiv.org/pdf/2307.08823) <br>
 [Towards best practices in AGI safety and governance: A survey of expert opinion](https://arxiv.org/pdf/2305.07153)
 
-- **Regulation.** Although self-governance plays an important role in reducing emerging risks from AI, we will eventually need frontier AI regulation. I‘m working on several research projects intended to inform the design of a regulatory regime for frontier AI models, especially in the UK, EU, and US.  <br>
+**Regulation** <br>
+Although self-governance plays an important role in reducing emerging risks from AI, we will eventually need frontier AI regulation. I‘m working on several research projects intended to inform the design of a regulatory regime for frontier AI models, especially in the UK, EU, and US.  <br>
 [From principles to rules: A regulatory approach for frontier AI](https://arxiv.org/pdf/2407.07300) <br>
 [Frontier AI regulation: Managing emerging risks to public safety](https://arxiv.org/pdf/2307.03718) <br>
 [Risk management in the Artificial Intelligence Act](https://doi.org/10.1017/err.2023.1)
 
-- **Corporate governance.** As frontier AI developers transition from startups to more mature companies, they need to improve their corporate governance. I‘m particularly interested in ways to improve their risk governance.  <br>
+**Corporate governance** <br>
+As frontier AI developers transition from startups to more mature companies, they need to improve their corporate governance. I‘m particularly interested in ways to improve their risk governance.  <br>
 [Three lines of defense against risks from AI](https://doi.org/10.1007/s00146-023-01811-0) <br>
 [How to design an AI ethics board](https://doi.org/10.1007/s43681-023-00409-y) <br>
 [Corporate governance of artificial intelligence in the public interest](https://doi.org/10.3390/info12070275)
