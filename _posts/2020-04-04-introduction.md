@@ -91,7 +91,7 @@ Leonie Koessler, Jonas Schuett, Markus Anderljung <br>
 **How to design an AI ethics board** <br>
 Jonas Schuett, Anka Reuel, Alexis Carlier <br>
 *AI and Ethics* <br>
-[[DOI](https://doi.org/10.1007/s43681-023-00409-y)
+<i class="fa-solid fa-link fa-fw" style="color: #a4acb4"></i> [DOI](https://doi.org/10.1007/s43681-023-00409-y)
 
 **2023**
 
@@ -103,7 +103,7 @@ Markus Anderljung, Everett T. Smith, Joe O'Brien, Lisa Soder, Benjamin Bucknall,
 **Three lines of defense against risks from AI** <br>
 Jonas Schuett <br>
 *AI & Society* <br>
-[[DOI](https://doi.org/10.1007/s00146-023-01811-0)
+<i class="fa-solid fa-link fa-fw" style="color: #a4acb4"></i> [DOI](https://doi.org/10.1007/s00146-023-01811-0)
 
 **Coordinated pausing: An evaluation-based coordination scheme for frontier AI developers** <br>
 Jide Alaga, Jonas Schuett <br>
@@ -138,29 +138,30 @@ Jonas Schuett, Noemi Dreksler, Markus Anderljung, David McCaffary, Lennart Heim,
 **Defining the scope of AI regulations** <br>
 Jonas Schuett <br>
 *Law, Innovation and Technology, 15*(1), 60–82 <br>
-[[DOI](https://doi.org/10.1080/17579961.2023.2184135)
+<i class="fa-solid fa-link fa-fw" style="color: #a4acb4"></i> [DOI](https://doi.org/10.1080/17579961.2023.2184135)
 
 **Auditing large language models: A three-layered approach** <br>
 Jakob Mökander, Jonas Schuett, Hannah R. Kirk, Luciano Floridi <br>
 *AI and Ethics* <br>
-[[DOI](https://doi.org/10.1007/s43681-023-00289-2)
+<i class="fa-solid fa-link fa-fw" style="color: #a4acb4"></i> [DOI](https://doi.org/10.1007/s43681-023-00289-2)
 
 **Risk management in the Artificial Intelligence Act** <br>
 Jonas Schuett <br>
 *European Journal of Risk Regulation*, 1–19 <br>
-[[DOI](https://doi.org/10.1017/err.2023.1)
+<i class="fa-solid fa-link fa-fw" style="color: #a4acb4"></i> [DOI](https://doi.org/10.1017/err.2023.1)
 
 **2021**
 
 **AI certification: Advancing ethical practice by reducing information asymmetries** <br>
 Peter Cihon, Moritz J. Kleinaltenkamp, Jonas Schuett, Seth D. Baum <br>
 *IEEE Transactions on Technology and Society, 2*(4), 200–209 <br>
-[[DOI](https://doi.org/10.1109/TTS.2021.3077595)
+<i class="fa-solid fa-link fa-fw" style="color: #a4acb4"></i> [DOI](https://doi.org/10.1109/TTS.2021.3077595) &nbsp;&nbsp; <i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/pdf/2105.10356)
+
 
 **Corporate governance of artificial intelligence in the public interest** <br>
 Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 *Information, 12*(7), 275 <br>
-[[DOI](https://doi.org/10.3390/info12070275)
+<i class="fa-solid fa-link fa-fw" style="color: #a4acb4"></i> [DOI](https://doi.org/10.3390/info12070275)
 
 ---
 
