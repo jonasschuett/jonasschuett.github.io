@@ -164,7 +164,7 @@ Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 **2024**
 
 **Comments on NIST’s Draft Profile on Generative AI** <br>
-Malcolm Murray, Jonas Schuett, Sam Manning, Alan Chan, Leonie Koessler, Markus Anderljung
+Malcolm Murray, Jonas Schuett, Sam Manning, Alan Chan, Leonie Koessler, Markus Anderljung <br>
 *Centre for the Governance of AI* <br>
 <i class="fa-solid fa-file fa-fw" style="color: #a4acb4"></i> [PDF](https://cdn.governance.ai/Comments_on_NISTs_Draft_Profile_on_Generative_AI.pdf) &nbsp;&nbsp; <i class="fa-solid fa-link fa-fw" style="color: #a4acb4"></i> [RFI](https://airc.nist.gov/docs/NIST.AI.600-1.GenAI-Profile.ipd.pdf)
 
