@@ -38,6 +38,8 @@ My research is aimed at reducing emerging risks from AI, especially by improving
 
 ### Ongoing research projects
 
+I'm currently working on the following research projects (last updated: 13 July 2024):
+
 - **Evaluation criteria for AI safety policies.** We propose a grading rubric that can be used to evaluate existing AI safety policeis (e.g. Anthropic's Responsible Scaling Policy).
 
 - **Safety cases for frontier AI**. We make the case for safety cases, recommend key components, and discuss their role in a regulatory regime for frontier AI.
