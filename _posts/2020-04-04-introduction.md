@@ -41,7 +41,7 @@ I'm currently working on the following research projects (last updated: 24 Augus
 
 - **Safety cases for frontier AI**. We make the case for safety cases, recommend key components, and discuss their role in a regulatory regime for frontier AI.
 
-– **Safety case sketch for offensive AI cyber capabilities**. Together with the [UK AI Safety Institute](https://www.aisi.gov.uk/work/safety-cases-at-aisi), we develop a safey case sketch for offensive cyber capabilities.
+- **Safety case sketch for offensive AI cyber capabilities**. Together with the [UK AI Safety Institute](https://www.aisi.gov.uk/work/safety-cases-at-aisi), we develop a safey case sketch for offensive cyber capabilities.
 
 - **Classifying claims and evidence in safety cases for frontier AI**. We classify different types of claims and evidence that may be used in a safety case for frontier AI.
 
