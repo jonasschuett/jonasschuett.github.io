@@ -39,6 +39,8 @@ I'm currently working on the following research projects (last updated: 24 Augus
 
 - **A grading rubric for AI safety frameworks.** We propose seven evaluation criteria and 21 indicators that concretise the indicators, along with a six-tiered grading system, that can be used to grade AI safety frameworks such as Anthropic's Responsible Scaling Policy, OpenAI's Preparedness Framework, or Google DeepMind's Frontier Safety Framework.
 
+- **Survey on thresholds for advanced AI systems**. Together with the [OECD](https://oecd.ai/en/wonk/seeking-your-views-public-consultation-on-risk-thresholds-for-advanced-ai-systems-deadline-10-september) and a number of partner organizations, we survey representatives from academia and civil society.
+
 - **Safety cases for frontier AI**. We make the case for safety cases, recommend key components, and discuss their role in a regulatory regime for frontier AI.
 
 - **Safety case sketch for offensive AI cyber capabilities**. Together with the [UK AI Safety Institute](https://www.aisi.gov.uk/work/safety-cases-at-aisi), we develop a safey case sketch for offensive cyber capabilities.
@@ -51,9 +53,9 @@ I'm currently working on the following research projects (last updated: 24 Augus
 
 - **How to assess the effectiveness of AI safety measures.** We list existing safeguards and discuss different ways of gathering evidence about their effectiveness.
 
-- **Setting AI risk thresholds for fatalities.** We try out different approaches that regulators or frontier AI developers may use to set risk thresholds for number of fatalities.
+- **How to set AI risk thresholds.** We try out different approaches that regulators or frontier AI developers may use to set risk thresholds for number of fatalities.
 
-- **Defining the scope of frontier AI regulation.** We propose a multi-step approach that can be used to narrow down the material scope of frontier AI regulation.
+- **Defining the scope of frontier AI regulations.** We propose a multi-step approach that can be used to narrow down the material scope of frontier AI regulation.
 
 ---
 
