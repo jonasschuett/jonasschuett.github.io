@@ -37,7 +37,7 @@ My research is aimed at reducing emerging risks from AI. I'm particularly intere
 
 I'm currently working on the following research projects (last updated: 24 August 2024):
 
-- **A grading rubric for AI safety frameworks.** We propose seven evaluation criteria and 21 indicators that concretise the indicators, along with a six-tiered grading system, that can be used to grade AI safety frameworks such as Anthropic's Responsible Scaling Policy, OpenAI's Preparedness Framework, or Google DeepMind's Frontier Safety Framework.
+- **A grading rubric for AI safety frameworks.** We propose seven evaluation criteria and 21 indicators that concretise the indicators, along with a six-tiered grading system, that can be used to grade AI safety frameworks.
 
 - **Survey on thresholds for advanced AI systems**. Together with the [OECD](https://oecd.ai/en/wonk/seeking-your-views-public-consultation-on-risk-thresholds-for-advanced-ai-systems-deadline-10-september) and a number of partner organizations, we survey representatives from academia and civil society.
 
