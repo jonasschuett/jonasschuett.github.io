@@ -34,7 +34,7 @@ p {
 }
 
 p:where([style*="font-weight: bold"], .bold) {
-  color: var(--title-color);
+  color: var(--heading-color);
 }
 
 ul, ol, dl {
