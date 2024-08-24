@@ -35,11 +35,13 @@ My research is aimed at reducing emerging risks from AI. I'm particularly intere
 
 ### Ongoing research projects
 
-I'm currently working on the following research projects (last updated: 13 July 2024):
+I'm currently working on the following research projects (last updated: 24 August 2024):
 
-- **Evaluation criteria for AI safety policies.** We propose a grading rubric that can be used to evaluate existing AI safety policies.
+- **A grading rubric for AI safety frameworks.** We propose seven evaluation criteria and 21 indicators that concretise the indicators, along with a six-tiered grading system, that can be used to grade AI safety frameworks such as Anthropic's Responsible Scaling Policy, OpenAI's Preparedness Framework, or Google DeepMind's Frontier Safety Framework.
 
 - **Safety cases for frontier AI**. We make the case for safety cases, recommend key components, and discuss their role in a regulatory regime for frontier AI.
+
+– **Safety case sketch for offensive AI cyber capabilities**. Together with the [UK AI Safety Institute](https://www.aisi.gov.uk/work/safety-cases-at-aisi), we develop a safey case sketch for offensive cyber capabilities.
 
 - **Classifying claims and evidence in safety cases for frontier AI**. We classify different types of claims and evidence that may be used in a safety case for frontier AI.
 
