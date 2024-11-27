@@ -37,23 +37,15 @@ My research is aimed at reducing emerging risks from AI. I'm particularly intere
 
 I'm currently working on the following research projects (last updated: 24 August 2024):
 
-- **A grading rubric for AI safety frameworks.** We propose seven evaluation criteria and 21 indicators that concretise the indicators, along with a six-tiered grading system, that can be used to grade AI safety frameworks.
-
 - **Survey on thresholds for advanced AI systems**. Together with the [OECD](https://oecd.ai/en/wonk/seeking-your-views-public-consultation-on-risk-thresholds-for-advanced-ai-systems-deadline-10-september) and a number of partner organizations, we survey representatives from academia and civil society.
-
-- **Safety cases for frontier AI**. We make the case for safety cases, recommend key components, and discuss their role in a regulatory regime for frontier AI.
-
-- **Safety case sketch for offensive AI cyber capabilities**. Together with the [UK AI Safety Institute](https://www.aisi.gov.uk/work/safety-cases-at-aisi), we develop a safey case sketch for offensive cyber capabilities.
-
-- **Classifying claims and evidence in safety cases for frontier AI**. We classify different types of claims and evidence that may be used in a safety case for frontier AI.
 
 - **How to estimate the impact and likelihood of risks from AI.** We make the case for explicit risk estimates, list options, and make recommendations.
 
-- **Estimating risks from LLM: A Delphi study.** We ask leading domain experts to estimate the impact and likelihood of six risk scenarios using a modified Delphi approach.
+- **Estimating risks from LLM: A pilot Delphi study.** We ask leading domain experts to estimate the impact and likelihood of six risk scenarios using a modified Delphi approach.
 
 - **How to assess the effectiveness of AI safety measures.** We list existing safeguards and discuss different ways of gathering evidence about their effectiveness.
 
-- **How to set AI risk thresholds.** We try out different approaches that regulators or frontier AI developers may use to set risk thresholds for number of fatalities.
+- **Setting AI risk thresholds.** We try out different approaches that regulators or frontier AI developers may use to set risk thresholds for number of fatalities.
 
 - **Defining the scope of frontier AI regulations.** We propose a multi-step approach that can be used to narrow down the material scope of frontier AI regulation.
 
@@ -74,6 +66,26 @@ I frequently advise leading AI companies on risk management and safety practices
 # Publications
 
 **2024**
+
+**Safety case template for frontier AI: A cyber inability argument** <br>
+Arthur Goemans, Marie Davidsen Buhl, Jonas Schuett, Tomek Korbak, Jessica Wang, Benjamin Hilton, Geoffrey Irving <br>
+*arXiv preprint arXiv:2411.08088* <br>
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/abs/2411.08088)
+
+**Safety cases for frontier AI** <br>
+Marie Davidsen Buhl, Jonas Schuett, Markus Anderljung <br>
+*arXiv preprint arXiv:2410.21572* <br>
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/abs/2410.21572)
+
+**Frontier AI developers need an internal audit function** <br>
+Jonas Schuett <br>
+*Risk Analysis* <br>
+<i class="fa-solid fa-link fa-fw" style="color: #a4acb4"></i> [DOI](https://doi.org/10.1111/risa.17665)
+
+**A grading rubric for AI safety frameworks** <br>
+Jide Alaga, Jonas Schuett, Markus Anderljung <br>
+*arXiv preprint arXiv:2409.08751* <br>
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [arXiv](https://arxiv.org/abs/2409.08751)
 
 **From principles to rules: A regulatory approach for frontier AI** <br>
 Jonas Schuett, Markus Anderljung, Alexis Carlier, Leonie Koessler, Ben Garfinkel <br>
@@ -165,6 +177,11 @@ Peter Cihon, Jonas Schuett, Seth D. Baum <br>
 # Submissions
 
 **2024**
+
+**Managing misuse risk for dual-use foundation models: Comments on the Initial Public Draft of NIST AI 800-1** <br>
+Jonas Schuett, Sophie Williams, Marie Buhl, Alan Chan, Markus Anderljung <br>
+*Centre for the Governance of AI* <br>
+<i class="fa-regular fa-file-lines fa-fw" style="color: #a4acb4"></i> [PDF](https://cdn.governance.ai/GovAI_Comments_on_NIST_AI_800-1.pdf) &nbsp;&nbsp; <i class="fa-solid fa-link fa-fw" style="color: #a4acb4"></i> [RFI](https://doi.org/10.6028/NIST.AI.800-1.ipd)
 
 **Comments on NIST’s Draft Profile on Generative AI** <br>
 Malcolm Murray, Jonas Schuett, Sam Manning, Alan Chan, Leonie Koessler, Markus Anderljung <br>
