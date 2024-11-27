@@ -39,9 +39,9 @@ I'm currently working on the following research projects (last updated: 24 Augus
 
 - **Survey on thresholds for advanced AI systems**. Together with the [OECD](https://oecd.ai/en/wonk/seeking-your-views-public-consultation-on-risk-thresholds-for-advanced-ai-systems-deadline-10-september) and a number of partner organizations, we survey representatives from academia and civil society.
 
-- **How to estimate the impact and likelihood of risks from AI.** We make the case for explicit risk estimates, list options, and make recommendations.
-
 - **Estimating risks from LLM: A pilot Delphi study.** We ask leading domain experts to estimate the impact and likelihood of six risk scenarios using a modified Delphi approach.
+
+- **How to estimate the impact and likelihood of risks from AI.** We make the case for explicit risk estimates, list options, and make recommendations.
 
 - **How to assess the effectiveness of AI safety measures.** We list existing safeguards and discuss different ways of gathering evidence about their effectiveness.
 
